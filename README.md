@@ -5,6 +5,6 @@ My personal collection of useful cheat sheet. It covers from basic os commands t
 ✨ Recommand to use [Obsidian IDE ](https://obsidian.md/) as Markdown Editor. It has an nice graph view. 
 
 ## Outline
-- [AWS]()
-- [ML]()
+- [AWS](https://github.com/mralioo/vault_cheatsheets/tree/main/AWS)
+- [ML](https://github.com/mralioo/vault_cheatsheets/tree/main/ML)
 
