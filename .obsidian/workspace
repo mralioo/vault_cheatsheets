@@ -130,15 +130,15 @@
   },
   "active": "7ee612432dea249f",
   "lastOpenFiles": [
+    "ML/t-SNE.md",
+    "ML/scikit-learn.md",
+    "ML/PCA.md",
+    "README.md",
     "Pandas/loc vs iloc.md",
     "Pandas/DataFrame.md",
     "ML/K-fold Cross-Validation.md",
     "Private/TODO/2022-10-11.md",
     "Private/TODO.md",
-    "ML/scikit-learn.md",
-    "ML/t-SNE.md",
-    "ML/LOOCV.md",
-    "ML/PCA.md",
-    "ML/Cheat Sheets for AI, Neural Networks, Machine Learning, DeepLearning & Big Data (1)-9.pdf"
+    "ML/LOOCV.md"
   ]
 }
