@@ -10,7 +10,9 @@
 - zero crossing rate 
 
 
-###  [Measures of central tendency](https://www.turing.com/kb/calculating-skewness-and-kurtosis-in-python)
+### Skewness and Kurtosis
+
+ [Measures of central tendency](https://www.turing.com/kb/calculating-skewness-and-kurtosis-in-python)
 
 Understanding how central tendency measures spread when the normal distribution is distorted is important
 

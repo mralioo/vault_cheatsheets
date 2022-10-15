@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "08438365448199d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/VIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c434768adc44b534",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,17 +196,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dda7daabccafab9e",
+  "active": "08438365448199d1",
   "lastOpenFiles": [
-    "OS/Data Warngling.md",
-    "Tools/VIM.md",
-    "ML/LOOCV.md",
+    "ML/Time-Series.md",
+    "ML/K-fold Cross-Validation.md",
     "ML/PCA.md",
+    "ML/LOOCV.md",
+    "ML/K-fold.md",
+    "Tools/VIM.md",
+    "OS/Data Warngling.md",
     "ML/scikit-learn.md",
     "ML/t-SNE.md",
-    "ML/Time-Series.md",
-    "ML/Cheat Sheets for AI, Neural Networks, Machine Learning, DeepLearning & Big Data (1)-7.pdf",
-    "AWS/Lambda.md",
-    "AWS/Sagermaker.md"
+    "ML/Cheat Sheets for AI, Neural Networks, Machine Learning, DeepLearning & Big Data (1)-7.pdf"
   ]
 }

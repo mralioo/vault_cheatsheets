@@ -20,3 +20,38 @@ It is a popular method because it is simple to understand and because it general
     3.  Fit a model on the training set and evaluate it on the test set
     4.  Retain the evaluation score and discard the model
 4.  Summarize the skill of the model using the sample of model evaluation scores
+
+🔥A value of k=10 is very common in the field of applied machine learning, and is recommend if you are struggling to choose a value for your dataset.
+
+### Example 
+
+The _KFold()_ scikit-learn class can be used. It takes as arguments the number of splits, whether or not to shuffle the sample, and the seed for the [pseudorandom number generator](https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/) used prior to the shuffle.
+
+```python
+# scikit-learn k-fold cross-validation
+
+from numpy import array
+
+from sklearn.model_selection import KFold
+
+# data sample
+
+data = array([0.1, 0.2, 0.3, 0.4, 0.5, 0.6])
+
+# prepare cross validation
+
+kfold = KFold(3, True, 1)
+
+# enumerate splits
+
+for train, test in kfold.split(data):
+
+print('train: %s, test: %s' % (data[train], data[test]))
+```
+```python
+train: [0.1 0.4 0.5 0.6], test: [0.2 0.3]
+
+train: [0.2 0.3 0.4 0.6], test: [0.1 0.5]
+
+train: [0.1 0.2 0.3 0.5], test: [0.4 0.6]
+```
