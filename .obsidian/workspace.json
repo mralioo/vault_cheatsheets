@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "1c63d3e80aa8463a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbff3d4f6d342a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee612432dea249f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc282ab0c7b0fd07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/LOOCV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "716e17f2f3a1b6fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/VIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dda7daabccafab9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/VIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c434768adc44b534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Authentification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b690c9f32a57b354",
+    "type": "split",
+    "children": [
+      {
+        "id": "ced73249920550e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75a3e9b125a8d27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afda5eb5e4f2f9f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d0485a39fdb5aad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b5e2d003146216d",
+    "type": "split",
+    "children": [
+      {
+        "id": "26e2735124a4898b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef3a6e7493131e26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools/VIM.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "090de0c5f0fc6bad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tools/VIM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfc87b9e968e54ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd7e1aa5f3db7594",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tools/VIM.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "dda7daabccafab9e",
+  "lastOpenFiles": [
+    "OS/Data Warngling.md",
+    "Tools/VIM.md",
+    "ML/LOOCV.md",
+    "ML/PCA.md",
+    "ML/scikit-learn.md",
+    "ML/t-SNE.md",
+    "ML/Time-Series.md",
+    "ML/Cheat Sheets for AI, Neural Networks, Machine Learning, DeepLearning & Big Data (1)-7.pdf",
+    "AWS/Lambda.md",
+    "AWS/Sagermaker.md"
+  ]
+}
