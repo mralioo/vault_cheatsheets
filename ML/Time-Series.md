@@ -16,7 +16,7 @@
 
 Understanding how central tendency measures spread when the normal distribution is distorted is important
 
-![[figures/Pasted image 20221015031212.jpg]]
+![[Pasted_image_20221015031212.jpg]]
 
 
 
@@ -26,7 +26,7 @@ Understanding how central tendency measures spread when the normal distribution 
 The common type of data and probability distribution is the normal distribution, and it can become distorted under significant causes, which is calculated using **skewness and kurtosis**
 
 - **skewness** :  is a measure of symmetry, or more precisely, the lack of symmetry. A distribution, or data set, is symmetric if it looks the same to the left and right of the center.
-![[figures/Pasted image 20221015025810.jpg]]
+![[Pasted_image_20221015025810.jpg]]
 
 		- positive skew will indicate that the tail is on the right side. It will extend toward the most positive values (Skewness > 0)
 		- a negative skew will indicate a tail on the left side and will extend to the more negative side (Skewness < 0)
@@ -46,7 +46,7 @@ spicy.stats.skew(array, axis = 0, bias = True)
 **axis** signifies the axis along which we want to find the skewness value, and **bias** = True or False, based on the calculations that are determined upon the statistical bias.
 
 - **kurtosis** : is a measure of whether the data are heavy-tailed or light-tailed relative to a normal distribution
-![[figures/Pasted image 20221015030624.jpg]]
+![[Pasted_image_20221015030624.jpg]]
 	- Kurtosis describes the flatness/peakedness of the curve.
 	- This flatness/peakedness is directly related to the outliers.
 	- Kurtosis of a normal distribution is equal to 3. When the kurtosis is less than 3, it is known as platykurtic, and when it is greater than 3, it is leptokurtic. If it is leptokurtic, it will signify that it produces outliers rather than a normal distribution.

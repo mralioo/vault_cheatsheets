@@ -8,3 +8,5 @@ My personal collection of useful cheat sheet and notes.
 ## Outline
 - [AWS](https://github.com/mralioo/vault_cheatsheets/tree/main/AWS)
 - [ML](https://github.com/mralioo/vault_cheatsheets/tree/main/ML)
+- [OS](https://github.com/mralioo/vault_cheatsheets/tree/main/OS)
+- [Tools]((https://github.com/mralioo/vault_cheatsheets/tree/main/Tools)
