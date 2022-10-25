@@ -2,9 +2,9 @@
 
 My personal collection of useful cheat sheet and notes.  
 
-🏗️ The collection is always changing, and contains community answers and tips. <br>
+🏗️ The collection is always changing, and contains summray of useful articels, forum answers and blog. <br>
 ©️  I provide the reference links from the original sources. <br>
-💫 I recommend to use [obsidian](https://obsidian.md/) as Markdown editor (dynamic graph view)
+💫 I used [obsidian](https://obsidian.md/) as Markdown editor (dynamic graph view)
 
 ## Outline
 - [AWS](https://github.com/mralioo/vault_cheatsheets/tree/main/AWS)

@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/LSTM.md",
+                "file": "Supervised Learning/LSTM.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,14 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Statistical Techniques.md",
+                "file": "ML/Cross-Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d401d2170fd76c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/numpy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Statistical Techniques.md",
+                "file": "Python/numpy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Statistical Techniques.md",
+                "file": "Python/numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Statistical Techniques.md"
+                "file": "Python/numpy.md"
               }
             }
           },
@@ -207,22 +219,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e05eea41dd9a8010",
+  "active": "f75a3e9b125a8d27",
   "lastOpenFiles": [
-    "ML/Data Scaling.md",
-    "ML/Time-Series.md",
     "ML/Cross-Validation.md",
+    "ML/Data Scaling.md",
+    "README.md",
+    "ML/Statistical Techniques.md",
+    "ML/Time-Series.md",
     "figures/Pasted image 20221025015847.png",
     "Pandas/DataFrame.md",
     "Pandas/Basic Ops.md",
     "ML/The Gradient Descent.md",
-    "ML/Statistical Techniques.md",
-    "ML/scikit-learn.md",
-    "ML/XGBoost.md"
+    "ML/scikit-learn.md"
   ]
 }

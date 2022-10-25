@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
+      "basename": "numpy",
+      "path": "Python/numpy.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
     },
     {
       "basename": "Data Scaling",
       "path": "ML/Data Scaling.md"
     },
     {
-      "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
     },
     {
       "basename": "Pasted image 20221025015847",
@@ -46,11 +54,11 @@
     },
     {
       "basename": "LSTM",
-      "path": "ML/LSTM.md"
+      "path": "Supervised Learning/LSTM.md"
     },
     {
       "basename": "Transformers",
-      "path": "ML/Transformers.md"
+      "path": "Supervised Learning/Transformers.md"
     },
     {
       "basename": "Keras",
@@ -63,10 +71,6 @@
     {
       "basename": "2022-10-11",
       "path": "local/TODO/2022-10-11.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

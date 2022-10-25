@@ -1,4 +1,4 @@
-![[Pasted image 20221025015847.png]]
+len(data["X"])![[Pasted image 20221025015847.png]]
 
 ## Definition 
 [Cross-validation](https://machinelearningmastery.com/k-fold-cross-validation/) is a statistical method used to estimate the skill of machine learning models.
