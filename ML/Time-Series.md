@@ -1,5 +1,16 @@
 ## Time-domain features
 
+[numpy Statistics](https://numpy.org/doc/stable/reference/routines.statistics.html)
+
+Here are some of statistcal transforamtion that can b applied on time-serie  data  in order to investigate the feature space and to look deeper in the data dependency and correlation. 
+
+As a first step before trying complicated methods, its usually helpful to apply simple algorithms depending on the problem type (e.g SVM, Random forest ...) and not to forget dimensionality reduction using [[PCA]] and [[t-SNE]] techniques.
+
+```ad-note
+
+A golden rule in machine learning, is not using machine learning. 
+```
+
 - mean 
 - variance 
 - standard deviation 
@@ -65,7 +76,20 @@ spicy.stats.kurtosis(array, axis = 0, fisher = True, bias = True)
 
 🏹These functions calculate moments of the [probability density distribution](https://en.wikipedia.org/wiki/Probability_density_function) (that's why it takes only one parameter) and doesn't care about the "functional form" of the values.
 
+### Stationarity and differencing
+[ref](https://otexts.com/fpp2/stationarity.html)
+* A **stationary time series** is one whose properties do not depend on the time at which the series is observed.
+	* In such a time series the statistical measures such as the mean,standard deviation,auto correlation are somewhat similar over time.
+	* No Trend
 
-## frequency-domain features
+* Time series with trends, or with seasonality, are **not stationary**: the trend and seasonality will affect the value of the time series at different times.
+	* In such a time series the statistical measures such as the mean,standard deviation,auto correlation show a decreasing or increasing trend over time.
+
+
+* Compute the differences between consecutive observations. This is known as **differencing**.
+	* Transformations such as logarithms can help to **stabilise the variance of a time series.**
+	* Differencing can help stabilise the mean of a time series by removing changes in the level of a time series, and therefore eliminating (or reducing) trend and seasonality.
+
+## Frequency-domain features
 - entropy :
 - spectral entropy :

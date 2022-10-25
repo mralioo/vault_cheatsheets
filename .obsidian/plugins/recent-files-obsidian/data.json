@@ -1,0 +1,74 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "Data Scaling",
+      "path": "ML/Data Scaling.md"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
+      "basename": "Pasted image 20221025015847",
+      "path": "figures/Pasted image 20221025015847.png"
+    },
+    {
+      "basename": "DataFrame",
+      "path": "Pandas/DataFrame.md"
+    },
+    {
+      "basename": "Basic Ops",
+      "path": "Pandas/Basic Ops.md"
+    },
+    {
+      "basename": "The Gradient Descent",
+      "path": "ML/The Gradient Descent.md"
+    },
+    {
+      "basename": "scikit-learn",
+      "path": "ML/scikit-learn.md"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "ML/XGBoost.md"
+    },
+    {
+      "basename": "dictionary",
+      "path": "Python/dictionary.md"
+    },
+    {
+      "basename": "LSTM",
+      "path": "ML/LSTM.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Transformers.md"
+    },
+    {
+      "basename": "Keras",
+      "path": "DL_framework/Keras.md"
+    },
+    {
+      "basename": "Sagermaker",
+      "path": "AWS/Sagermaker.md"
+    },
+    {
+      "basename": "2022-10-11",
+      "path": "local/TODO/2022-10-11.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
