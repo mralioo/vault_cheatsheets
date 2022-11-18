@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "numpy",
-      "path": "Python/numpy.md"
+      "basename": "Pytorch",
+      "path": "DL_framework/Pytorch.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Data/Postgress/SQL.md"
+    },
+    {
+      "basename": "ML_scikit_learn",
+      "path": "ML/pdfs/ML_scikit_learn.pdf"
+    },
+    {
+      "basename": "Keras",
+      "path": "DL_framework/Keras.md"
+    },
+    {
+      "basename": "machine-learning-cheat-sheet",
+      "path": "ML/pdfs/machine-learning-cheat-sheet.pdf"
+    },
+    {
+      "basename": "Tensorboard",
+      "path": "MLOps/Monitoring/Tensorboard.md"
+    },
+    {
+      "basename": "Tensorflow",
+      "path": "DL_framework/Tensorflow.md"
     },
     {
       "basename": "Cross-Validation",
       "path": "ML/Cross-Validation.md"
     },
     {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "SAM",
+      "path": "AWS/SAM.md"
+    },
+    {
+      "basename": "Lambda",
+      "path": "AWS/Lambda.md"
+    },
+    {
+      "basename": "AWS Fargate",
+      "path": "AWS/AWS Fargate.md"
+    },
+    {
       "basename": "Data Scaling",
       "path": "ML/Data Scaling.md"
+    },
+    {
+      "basename": "numpy",
+      "path": "Python/numpy.md"
     },
     {
       "basename": "README",
@@ -30,11 +74,11 @@
     },
     {
       "basename": "DataFrame",
-      "path": "Pandas/DataFrame.md"
+      "path": "Data/Pandas/DataFrame.md"
     },
     {
       "basename": "Basic Ops",
-      "path": "Pandas/Basic Ops.md"
+      "path": "Data/Pandas/Basic Ops.md"
     },
     {
       "basename": "The Gradient Descent",
@@ -59,10 +103,6 @@
     {
       "basename": "Transformers",
       "path": "Supervised Learning/Transformers.md"
-    },
-    {
-      "basename": "Keras",
-      "path": "DL_framework/Keras.md"
     },
     {
       "basename": "Sagermaker",

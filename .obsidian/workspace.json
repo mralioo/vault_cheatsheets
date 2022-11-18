@@ -11,9 +11,31 @@
             "id": "01e83fdb7a37c7aa",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ML/pdfs/ML_scikit_learn.pdf"
+              }
+            }
+          },
+          {
+            "id": "7c471d1b6715d565",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DL_framework/Keras.md",
+                "file": "Data/Postgress/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f89418e03de08e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL_framework/Pytorch.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandas/Basic Ops.md",
+                "file": "Data/Pandas/Basic Ops.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,14 +103,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/numpy.md",
+                "file": "ML/Data Scaling.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e24fe53bce44ff3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/AWS Fargate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc2fafbce160c75b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/SAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb449ad8fbab70ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Cross-Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74e067aaf3f17733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL_framework/Keras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e712016b8db2fda3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ML/pdfs/machine-learning-cheat-sheet.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/numpy.md",
+                "file": "DL_framework/Pytorch.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/numpy.md",
+                "file": "DL_framework/Pytorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/numpy.md"
+                "file": "DL_framework/Pytorch.md"
               }
             }
           },
@@ -221,20 +301,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "f75a3e9b125a8d27",
+  "active": "f89418e03de08e03",
   "lastOpenFiles": [
+    "Data/Postgress/SQL.md",
+    "ML/pdfs/ML_scikit_learn.pdf",
+    "DL_framework/Keras.md",
+    "MLOps/Monitoring/Tensorboard.md",
+    "DL_framework/Tensorflow.md",
     "ML/Cross-Validation.md",
-    "ML/Data Scaling.md",
-    "README.md",
-    "ML/Statistical Techniques.md",
-    "ML/Time-Series.md",
-    "figures/Pasted image 20221025015847.png",
-    "Pandas/DataFrame.md",
-    "Pandas/Basic Ops.md",
-    "ML/The Gradient Descent.md",
-    "ML/scikit-learn.md"
+    "ML/Activations.md",
+    "AWS/Lambda.md",
+    "AWS/AWS Fargate.md",
+    "ML/Data Scaling.md"
   ]
 }
