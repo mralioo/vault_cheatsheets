@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "Pasted image 20221026051626",
+      "path": "figures/Pasted image 20221026051626.png"
+    },
+    {
+      "basename": "Pasted image 20221026051517",
+      "path": "figures/Pasted image 20221026051517.png"
+    },
+    {
+      "basename": "Pasted image 20221025015847",
+      "path": "figures/Pasted image 20221025015847.png"
+    },
+    {
+      "basename": "DataFrame",
+      "path": "Data/Pandas/DataFrame.md"
+    },
+    {
+      "basename": "Basic Ops",
+      "path": "Data/Pandas/Basic Ops.md"
+    },
+    {
+      "basename": "PCA_animation",
+      "path": "figures/PCA_animation.gif"
+    },
+    {
+      "basename": "Pasted_image_20221015031212",
+      "path": "figures/Pasted_image_20221015031212.jpg"
+    },
+    {
+      "basename": "Pasted_image_20221015030624",
+      "path": "figures/Pasted_image_20221015030624.jpg"
+    },
+    {
+      "basename": "Pasted_image_20221015025810",
+      "path": "figures/Pasted_image_20221015025810.jpg"
+    },
+    {
+      "basename": "Pasted_image_20221011005502",
+      "path": "figures/Pasted_image_20221011005502.png"
+    },
+    {
+      "basename": "Pasted_image_20221011005432",
+      "path": "figures/Pasted_image_20221011005432.png"
+    },
+    {
+      "basename": "Pasted_image_20221011004934",
+      "path": "figures/Pasted_image_20221011004934.png"
+    },
+    {
+      "basename": "Pasted_image_20221011004605",
+      "path": "figures/Pasted_image_20221011004605.png"
+    },
+    {
+      "basename": "Pasted image 20221026051717",
+      "path": "figures/Pasted image 20221026051717.png"
+    },
+    {
+      "basename": "ML_scikit_learn",
+      "path": "ML/pdfs/ML_scikit_learn.pdf"
+    },
+    {
       "basename": "Pytorch",
       "path": "DL_framework/Pytorch.md"
     },
     {
       "basename": "SQL",
       "path": "Data/Postgress/SQL.md"
-    },
-    {
-      "basename": "ML_scikit_learn",
-      "path": "ML/pdfs/ML_scikit_learn.pdf"
     },
     {
       "basename": "Keras",
@@ -31,10 +91,6 @@
     {
       "basename": "Cross-Validation",
       "path": "ML/Cross-Validation.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
     },
     {
       "basename": "SAM",
@@ -67,18 +123,6 @@
     {
       "basename": "Time-Series",
       "path": "ML/Time-Series.md"
-    },
-    {
-      "basename": "Pasted image 20221025015847",
-      "path": "figures/Pasted image 20221025015847.png"
-    },
-    {
-      "basename": "DataFrame",
-      "path": "Data/Pandas/DataFrame.md"
-    },
-    {
-      "basename": "Basic Ops",
-      "path": "Data/Pandas/Basic Ops.md"
     },
     {
       "basename": "The Gradient Descent",

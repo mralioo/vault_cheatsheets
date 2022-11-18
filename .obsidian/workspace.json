@@ -4,171 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a54932fb4337b13c",
+        "id": "c6b40b8d6d6517ea",
         "type": "tabs",
         "children": [
           {
-            "id": "01e83fdb7a37c7aa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ML/pdfs/ML_scikit_learn.pdf"
-              }
-            }
-          },
-          {
-            "id": "7c471d1b6715d565",
+            "id": "5ba6f5c585d003e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Postgress/SQL.md",
+                "file": "ML/Activations.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f89418e03de08e03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL_framework/Pytorch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72a31cb19faf82fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Pandas/Basic Ops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f336b320129fd28",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e4aec2e4f9f31b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supervised Learning/LSTM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e25a90a7152afa08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Cross-Validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e05eea41dd9a8010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Cross-Validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d401d2170fd76c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Data Scaling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e24fe53bce44ff3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/AWS Fargate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc2fafbce160c75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/SAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb449ad8fbab70ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Cross-Validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74e067aaf3f17733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL_framework/Keras.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e712016b8db2fda3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ML/pdfs/machine-learning-cheat-sheet.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL_framework/Pytorch.md",
+                "file": "ML/Activations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -259,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL_framework/Pytorch.md",
+                "file": "ML/Activations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL_framework/Pytorch.md"
+                "file": "ML/Activations.md"
               }
             }
           },
@@ -301,17 +152,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f89418e03de08e03",
+  "active": "5ba6f5c585d003e1",
   "lastOpenFiles": [
-    "Data/Postgress/SQL.md",
-    "ML/pdfs/ML_scikit_learn.pdf",
-    "DL_framework/Keras.md",
-    "MLOps/Monitoring/Tensorboard.md",
-    "DL_framework/Tensorflow.md",
-    "ML/Cross-Validation.md",
+    "figures/Pasted image 20221026051626.png",
+    "figures/Pasted image 20221026051517.png",
     "ML/Activations.md",
-    "AWS/Lambda.md",
-    "AWS/AWS Fargate.md",
-    "ML/Data Scaling.md"
+    "figures/Pasted image 20221025015847.png",
+    "Data/Pandas/DataFrame.md",
+    "Data/Pandas/Basic Ops.md",
+    "figures/PCA_animation.gif",
+    "figures/Pasted_image_20221015031212.jpg",
+    "figures/Pasted_image_20221015030624.jpg",
+    "figures/Pasted_image_20221015025810.jpg"
   ]
 }
