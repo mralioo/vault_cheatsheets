@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "figures/Time-Series.jpg"
+    },
+    {
+      "basename": "Time-Series-2",
+      "path": "figures/Time-Series-2.jpg"
+    },
+    {
+      "basename": "Time-Series-1",
+      "path": "figures/Time-Series-1.jpg"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/PCA.md"
+    },
+    {
       "basename": "t-SNE",
       "path": "ML/t-SNE.md"
     },
@@ -13,20 +41,8 @@
       "path": "ML/scikit-learn.md"
     },
     {
-      "basename": "PCA",
-      "path": "ML/PCA.md"
-    },
-    {
       "basename": "Data Scaling",
       "path": "ML/Data Scaling.md"
-    },
-    {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
     },
     {
       "basename": "ML_algorithms",
@@ -55,18 +71,6 @@
     {
       "basename": "PCA",
       "path": "figures/PCA.gif"
-    },
-    {
-      "basename": "Pasted_image_20221015031212",
-      "path": "figures/Pasted_image_20221015031212.jpg"
-    },
-    {
-      "basename": "Pasted_image_20221015030624",
-      "path": "figures/Pasted_image_20221015030624.jpg"
-    },
-    {
-      "basename": "Pasted_image_20221015025810",
-      "path": "figures/Pasted_image_20221015025810.jpg"
     },
     {
       "basename": "t-SNE-3",
@@ -135,10 +139,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
     },
     {
       "basename": "The Gradient Descent",

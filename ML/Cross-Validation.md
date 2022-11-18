@@ -1,5 +1,5 @@
-![[Cross-Validation.png]]
 
+![](../figures/Cross-Validation.png)
 
 ## Definition 
 [Cross-validation](https://machinelearningmastery.com/k-fold-cross-validation/) is a statistical method used to estimate the skill of machine learning models.

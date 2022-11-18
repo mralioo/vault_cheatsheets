@@ -22,14 +22,16 @@
 #### Step 1
 t-SNE converts the **high-dimensional Euclidean** distances between datapoints xᵢ and xⱼ into **conditional probabilities P(j|i)**.
 
-![[t-SNE.png]]
+![](../figures/t-SNE.png)
 #### Step 2 
 
 Map each **point in high dimensional space** to a l**ow dimensional map** based on the **pairwise similarity** of points in the high dimensional space.
 
 
 #### Step 3 
-Find a low-dimensional data representation that minimizes the mismatch between Pᵢⱼ and qᵢⱼ (of the lower dimensional space)using gradient descent based on **Kullback-Leibler divergence(KL Divergence)**![[t-SNE-1.png]]
+Find a low-dimensional data representation that minimizes the mismatch between Pᵢⱼ and qᵢⱼ (of the lower dimensional space)using gradient descent based on **Kullback-Leibler divergence(KL Divergence)**
+
+![](../figures/t-SNE-1.png)
 
 
 🏹 t-SNE optimizes the points in lower dimensional space using gradient descent.
@@ -56,11 +58,12 @@ t-SNE parameters :
 
 
 **Visualization for different values of perplexity**
-![[t-SNE-2.png]]
 
+![](../figures/t-SNE-2.png)
 
-**Visualization for different values for n_iter**![[t-SNE-3.png]]
+**Visualization for different values for n_iter**
 
+![](../figures/t-SNE-3.png)
 
 
 We can see that the clusters generated from t-SNE plots are much more defined than the ones using [[PCA]].

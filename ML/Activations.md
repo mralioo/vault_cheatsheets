@@ -1,7 +1,7 @@
 
-![[Activations.png]]
+![](../figures/Activations.png)
 
-![[Activations-1.png]]
+![](../figures/Activations-1.png)
 
 
-![[Activations-2.png]]
+![](../figures/Activations-2.png)
