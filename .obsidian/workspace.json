@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Activations.md",
+                "file": "ML/t-SNE.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Activations.md",
+                "file": "ML/t-SNE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Activations.md",
+                "file": "ML/t-SNE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Activations.md"
+                "file": "ML/t-SNE.md"
               }
             }
           },
@@ -154,15 +154,15 @@
   },
   "active": "5ba6f5c585d003e1",
   "lastOpenFiles": [
-    "figures/Pasted image 20221026051626.png",
-    "figures/Pasted image 20221026051517.png",
+    "ML/Statistical Techniques.md",
+    "ML/scikit-learn.md",
+    "ML/PCA.md",
+    "ML/Data Scaling.md",
+    "ML/Cross-Validation.md",
     "ML/Activations.md",
-    "figures/Pasted image 20221025015847.png",
-    "Data/Pandas/DataFrame.md",
-    "Data/Pandas/Basic Ops.md",
-    "figures/PCA_animation.gif",
-    "figures/Pasted_image_20221015031212.jpg",
-    "figures/Pasted_image_20221015030624.jpg",
-    "figures/Pasted_image_20221015025810.jpg"
+    "ML/pdfs/ML_algorithms.pdf",
+    "figures/Cross-Validation.png",
+    "figures/Activations-1.png",
+    "figures/Activations.png"
   ]
 }

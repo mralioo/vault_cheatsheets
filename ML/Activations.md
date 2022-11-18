@@ -1,7 +1,7 @@
 
-![[Pasted image 20221026051517.png]]
+![[Activations.png]]
 
-![[Pasted image 20221026051626.png]]
+![[Activations-1.png]]
 
 
-![[Pasted image 20221026051717.png]]
+![[Activations-2.png]]

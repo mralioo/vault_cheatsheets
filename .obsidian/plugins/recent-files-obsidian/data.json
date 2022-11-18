@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "t-SNE",
+      "path": "ML/t-SNE.md"
+    },
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "scikit-learn",
+      "path": "ML/scikit-learn.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/PCA.md"
+    },
+    {
+      "basename": "Data Scaling",
+      "path": "ML/Data Scaling.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
       "basename": "Activations",
       "path": "ML/Activations.md"
     },
     {
-      "basename": "Pasted image 20221026051626",
-      "path": "figures/Pasted image 20221026051626.png"
+      "basename": "ML_algorithms",
+      "path": "ML/pdfs/ML_algorithms.pdf"
     },
     {
-      "basename": "Pasted image 20221026051517",
-      "path": "figures/Pasted image 20221026051517.png"
+      "basename": "Cross-Validation",
+      "path": "figures/Cross-Validation.png"
     },
     {
-      "basename": "Pasted image 20221025015847",
-      "path": "figures/Pasted image 20221025015847.png"
+      "basename": "Activations-1",
+      "path": "figures/Activations-1.png"
+    },
+    {
+      "basename": "Activations",
+      "path": "figures/Activations.png"
     },
     {
       "basename": "DataFrame",
@@ -25,8 +53,8 @@
       "path": "Data/Pandas/Basic Ops.md"
     },
     {
-      "basename": "PCA_animation",
-      "path": "figures/PCA_animation.gif"
+      "basename": "PCA",
+      "path": "figures/PCA.gif"
     },
     {
       "basename": "Pasted_image_20221015031212",
@@ -41,24 +69,24 @@
       "path": "figures/Pasted_image_20221015025810.jpg"
     },
     {
-      "basename": "Pasted_image_20221011005502",
-      "path": "figures/Pasted_image_20221011005502.png"
+      "basename": "t-SNE-3",
+      "path": "figures/t-SNE-3.png"
     },
     {
-      "basename": "Pasted_image_20221011005432",
-      "path": "figures/Pasted_image_20221011005432.png"
+      "basename": "t-SNE-2",
+      "path": "figures/t-SNE-2.png"
     },
     {
-      "basename": "Pasted_image_20221011004934",
-      "path": "figures/Pasted_image_20221011004934.png"
+      "basename": "t-SNE",
+      "path": "figures/t-SNE.png"
     },
     {
-      "basename": "Pasted_image_20221011004605",
-      "path": "figures/Pasted_image_20221011004605.png"
+      "basename": "t-SNE-1",
+      "path": "figures/t-SNE-1.png"
     },
     {
-      "basename": "Pasted image 20221026051717",
-      "path": "figures/Pasted image 20221026051717.png"
+      "basename": "Activations-2",
+      "path": "figures/Activations-2.png"
     },
     {
       "basename": "ML_scikit_learn",
@@ -89,10 +117,6 @@
       "path": "DL_framework/Tensorflow.md"
     },
     {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
-    },
-    {
       "basename": "SAM",
       "path": "AWS/SAM.md"
     },
@@ -105,10 +129,6 @@
       "path": "AWS/AWS Fargate.md"
     },
     {
-      "basename": "Data Scaling",
-      "path": "ML/Data Scaling.md"
-    },
-    {
       "basename": "numpy",
       "path": "Python/numpy.md"
     },
@@ -117,20 +137,12 @@
       "path": "README.md"
     },
     {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
-    },
-    {
       "basename": "Time-Series",
       "path": "ML/Time-Series.md"
     },
     {
       "basename": "The Gradient Descent",
       "path": "ML/The Gradient Descent.md"
-    },
-    {
-      "basename": "scikit-learn",
-      "path": "ML/scikit-learn.md"
     },
     {
       "basename": "XGBoost",

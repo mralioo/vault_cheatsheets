@@ -1,4 +1,4 @@
-![[Pasted image 20221025015847.png]]
+![[Cross-Validation.png]]
 
 
 ## Definition 

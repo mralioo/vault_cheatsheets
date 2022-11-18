@@ -9,7 +9,7 @@
 -   The highest variance by any projection of the data set appears to laze on the first axis.
 -   The second biggest variance on the second axis, and so on.
 
-![[PCA_animation.gif]]
+![[PCA.gif]]
 
 **![](https://lh5.googleusercontent.com/j8sejouDw9H7tOSJb2CHLXXsWCJ3xkTyrHMM9SIGe-H-RCjOpkCNKdnTH4j5CYe1-cgX0Bp4EsnqSORZ4mf8szhLazHJEpReZDaLbqt4aTSiEWNkFJzBD11WRqlpPLGvqTNlVY62Ivr_AxORFDGUhrQmDc-tJofcz02SDQpZUbmUsZW-3vuTWe6A)
 
