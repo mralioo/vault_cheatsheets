@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Time-Series.md",
+                "file": "GIT/Authentification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b49ecf6d0b46411a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "local/draft.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Time-Series.md",
+                "file": "local/draft.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Time-Series.md",
+                "file": "local/draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Time-Series.md"
+                "file": "local/draft.md"
               }
             }
           },
@@ -152,8 +165,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "70a991c449685ac6",
+  "active": "b49ecf6d0b46411a",
   "lastOpenFiles": [
+    "GIT/Authentification.md",
+    "ML/Time-Series.md",
     "figures/Time-Series.jpg",
     "figures/Time-Series-2.jpg",
     "figures/Time-Series-1.jpg",
@@ -161,8 +176,6 @@
     "ML/Activations.md",
     "ML/PCA.md",
     "ML/t-SNE.md",
-    "ML/Statistical Techniques.md",
-    "ML/scikit-learn.md",
-    "ML/Data Scaling.md"
+    "ML/Statistical Techniques.md"
   ]
 }

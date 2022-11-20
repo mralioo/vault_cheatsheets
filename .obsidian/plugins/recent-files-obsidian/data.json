@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "draft",
+      "path": "local/draft.md"
+    },
+    {
+      "basename": "Authentification",
+      "path": "GIT/Authentification.md"
+    },
+    {
       "basename": "Time-Series",
       "path": "ML/Time-Series.md"
     },
