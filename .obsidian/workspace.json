@@ -13,21 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "GIT/Authentification.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1317bf3337f2371e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "GIT/Authentification.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "GIT/Authentification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Transformers.md"
+                "file": "GIT/Authentification.md"
               }
             }
           },
@@ -152,25 +145,33 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f6b9d26829d768cd",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5
   },
-  "active": "70a991c449685ac6",
+  "active": "f6b9d26829d768cd",
   "lastOpenFiles": [
-    "figures/attention_research_1-727x1024.webp",
-    "figures/Transformers-2.png",
-    "ML/Transformers.md",
-    "figures/Transformers-1.png",
-    "figures/Transformers.webp",
-    "figures/Transformers.png",
-    "ML/Time-Series.md",
-    "figures/Time-Series.jpg",
-    "figures/Time-Series-2.jpg",
-    "figures/Time-Series-1.jpg"
+    "DL_framework/DL Frameworks.md",
+    "GIT/Authentification.md",
+    "ML/ML.md",
+    "ETL/ETL.md",
+    "ETL/SQL/SQL.md",
+    "README.md",
+    "DL_framework/Keras.md",
+    "ML/Supervised Learning/Transformers.md",
+    "ML/Statistical Techniques.md",
+    "ML/scikit-learn.md"
   ]
 }

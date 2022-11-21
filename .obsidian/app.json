@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "figures",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "spellcheck": true
 }

@@ -9,9 +9,9 @@
 
 ## **4/ Subset Selection:**
 
-## **5/ Shrinkage:**
+## 5/ Shrinkage:
 
-## **6/Dimension Reduction:** 
+## 6/Dimension Reduction: 
 [[PCA]] [[t-SNE]]
 
 ## **7/ Nonlinear Models:**

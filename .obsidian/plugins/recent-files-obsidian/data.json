@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Authentification",
+      "path": "GIT/Authentification.md"
+    },
+    {
+      "basename": "DL Frameworks",
+      "path": "DL_framework/DL Frameworks.md"
+    },
+    {
+      "basename": "ML",
+      "path": "ML/ML.md"
+    },
+    {
+      "basename": "ETL",
+      "path": "ETL/ETL.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "ETL/SQL/SQL.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Keras",
+      "path": "DL_framework/Keras.md"
+    },
+    {
       "basename": "Transformers",
-      "path": "ML/Transformers.md"
+      "path": "ML/Supervised Learning/Transformers.md"
+    },
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "scikit-learn",
+      "path": "ML/scikit-learn.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/PCA.md"
+    },
+    {
+      "basename": "Data Scaling",
+      "path": "ETL/Data Scaling.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "LSTM",
+      "path": "ML/Supervised Learning/LSTM.md"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "ML/Supervised Learning/XGBoost.md"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
     },
     {
       "basename": "attention_research_1-727x1024",
@@ -26,10 +90,6 @@
     },
     {
       "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
-    },
-    {
-      "basename": "Time-Series",
       "path": "figures/Time-Series.jpg"
     },
     {
@@ -41,32 +101,8 @@
       "path": "figures/Time-Series-1.jpg"
     },
     {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "ML/PCA.md"
-    },
-    {
       "basename": "t-SNE",
       "path": "ML/t-SNE.md"
-    },
-    {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
-    },
-    {
-      "basename": "scikit-learn",
-      "path": "ML/scikit-learn.md"
-    },
-    {
-      "basename": "Data Scaling",
-      "path": "ML/Data Scaling.md"
     },
     {
       "basename": "ML_algorithms",
@@ -86,11 +122,11 @@
     },
     {
       "basename": "DataFrame",
-      "path": "Data/Pandas/DataFrame.md"
+      "path": "ETL/Pandas/DataFrame.md"
     },
     {
       "basename": "Basic Ops",
-      "path": "Data/Pandas/Basic Ops.md"
+      "path": "ETL/Pandas/Basic Ops.md"
     },
     {
       "basename": "PCA",
@@ -125,14 +161,6 @@
       "path": "DL_framework/Pytorch.md"
     },
     {
-      "basename": "SQL",
-      "path": "Data/Postgress/SQL.md"
-    },
-    {
-      "basename": "Keras",
-      "path": "DL_framework/Keras.md"
-    },
-    {
       "basename": "machine-learning-cheat-sheet",
       "path": "ML/pdfs/machine-learning-cheat-sheet.pdf"
     },
@@ -161,36 +189,16 @@
       "path": "Python/numpy.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "The Gradient Descent",
       "path": "ML/The Gradient Descent.md"
-    },
-    {
-      "basename": "XGBoost",
-      "path": "ML/XGBoost.md"
     },
     {
       "basename": "dictionary",
       "path": "Python/dictionary.md"
     },
     {
-      "basename": "LSTM",
-      "path": "Supervised Learning/LSTM.md"
-    },
-    {
-      "basename": "Transformers",
-      "path": "Supervised Learning/Transformers.md"
-    },
-    {
       "basename": "Sagermaker",
       "path": "AWS/Sagermaker.md"
-    },
-    {
-      "basename": "2022-10-11",
-      "path": "local/TODO/2022-10-11.md"
     }
   ],
   "omittedPaths": [],
