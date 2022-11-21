@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "draft",
-      "path": "local/draft.md"
+      "basename": "Transformers",
+      "path": "ML/Transformers.md"
     },
     {
-      "basename": "Authentification",
-      "path": "GIT/Authentification.md"
+      "basename": "attention_research_1-727x1024",
+      "path": "figures/attention_research_1-727x1024.webp"
+    },
+    {
+      "basename": "Transformers-2",
+      "path": "figures/Transformers-2.png"
+    },
+    {
+      "basename": "Transformers-1",
+      "path": "figures/Transformers-1.png"
+    },
+    {
+      "basename": "Transformers",
+      "path": "figures/Transformers.webp"
+    },
+    {
+      "basename": "Transformers",
+      "path": "figures/Transformers.png"
     },
     {
       "basename": "Time-Series",
