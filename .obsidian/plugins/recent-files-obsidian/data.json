@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "MLflow",
+      "path": "AWS/SageMaker/MLflow.md"
+    },
+    {
+      "basename": "SagerMaker",
+      "path": "AWS/SageMaker/SagerMaker.md"
+    },
+    {
+      "basename": "SageMaker Experiments",
+      "path": "AWS/SageMaker/SageMaker Experiments.md"
+    },
+    {
+      "basename": "Big O",
+      "path": "Algorithms/Big O.md"
+    },
+    {
+      "basename": "attention_research_1-727x1024",
+      "path": "figures/attention_research_1-727x1024.webp"
+    },
+    {
+      "basename": "MLflow",
+      "path": "figures/MLflow.jpg"
+    },
+    {
+      "basename": "SageMaker Experiments",
+      "path": "figures/SageMaker Experiments.png"
+    },
+    {
+      "basename": "Keras",
+      "path": "DL_framework/Keras.md"
+    },
+    {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "figures/Cross-Validation.png"
+    },
+    {
+      "basename": "Big O-1",
+      "path": "figures/Big O-1.png"
+    },
+    {
+      "basename": "Big O",
+      "path": "figures/Big O.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "DL Frameworks",
       "path": "DL_framework/DL Frameworks.md"
     },
@@ -15,10 +67,6 @@
     {
       "basename": "Pytorch",
       "path": "DL_framework/Pytorch.md"
-    },
-    {
-      "basename": "Keras",
-      "path": "DL_framework/Keras.md"
     },
     {
       "basename": "ML",
@@ -37,10 +85,6 @@
       "path": "ML/Cross-Validation.md"
     },
     {
-      "basename": "Big O",
-      "path": "Algorithms/Big O.md"
-    },
-    {
       "basename": "DataFrame",
       "path": "ETL/Pandas/DataFrame.md"
     },
@@ -51,18 +95,6 @@
     {
       "basename": "Data Version Control (DVC)",
       "path": "MLOps/Data Version Control (DVC).md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "SageMaker Experiments",
-      "path": "AWS/SageMaker/SageMaker Experiments.md"
-    },
-    {
-      "basename": "SagerMaker",
-      "path": "AWS/SageMaker/SagerMaker.md"
     },
     {
       "basename": "SAM",
@@ -77,28 +109,12 @@
       "path": "AWS/AWS Fargate.md"
     },
     {
-      "basename": "MLflow",
-      "path": "AWS/SageMaker/MLflow.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
       "basename": "LSTM",
       "path": "ML/Supervised Learning/LSTM.md"
     },
     {
       "basename": "Time-Series",
       "path": "ML/Time-Series.md"
-    },
-    {
-      "basename": "attention_research_1-727x1024",
-      "path": "figures/attention_research_1-727x1024.webp"
-    },
-    {
-      "basename": "MLflow",
-      "path": "figures/MLflow.jpg"
     },
     {
       "basename": "Authentification",
@@ -165,10 +181,6 @@
       "path": "ML/pdfs/ML_algorithms.pdf"
     },
     {
-      "basename": "Cross-Validation",
-      "path": "figures/Cross-Validation.png"
-    },
-    {
       "basename": "Activations-1",
       "path": "figures/Activations-1.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "t-SNE-3",
       "path": "figures/t-SNE-3.png"
-    },
-    {
-      "basename": "t-SNE-2",
-      "path": "figures/t-SNE-2.png"
-    },
-    {
-      "basename": "t-SNE",
-      "path": "figures/t-SNE.png"
-    },
-    {
-      "basename": "t-SNE-1",
-      "path": "figures/t-SNE-1.png"
     }
   ],
   "omittedPaths": [],

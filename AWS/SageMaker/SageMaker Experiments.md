@@ -7,4 +7,4 @@ When discussing SageMaker Experiments, we refer to the following concepts:
 -   **Trial component** – A description of a single step in an ML workflow, such as data cleaning, feature extraction, model training, or model evaluation.
 -   **Tracker** – A Python context manager for logging information about a single trial component (for example, parameters, metrics, or artifacts).
 
-![](../../figures/Pasted%20image%2020221231002541.png)
+![](../../figures/SageMaker%20Experiments.png)

@@ -9,4 +9,5 @@ https://docs.databricks.com/_static/notebooks/mlflow/mlflow-quick-start-training
 -   **Projects** – Package data science code in a format to reproduce runs on any platform
 -   **Models** – Deploy ML models in diverse serving environments
 -   **Registry** – Store, annotate, discover, and manage models in a central repository
-![](../../figures/Pasted%20image%2020221122010209.jpg)
+
+![](../../figures/MLflow.jpg)

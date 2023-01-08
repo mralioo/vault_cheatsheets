@@ -1,9 +1,9 @@
-![](../figures/Pasted%20image%2020230108184433.png)
 
 
+![](../figures/Big%20O.png)
+
+![](../figures/Big%20O-1.png)
 
 
-![](../figures/Pasted%20image%2020230108184622.png)
+![](../figures/Big%20O-2.png)
 
-
-![](../figures/Pasted%20image%2020230108184643.png)
