@@ -40,7 +40,7 @@ Find a low-dimensional data representation that minimizes the mismatch between P
 Use Student-t distribution to compute the similarity between two points in the low-dimensional space
 
 
-## [[scikit-learn]]
+## [[../DL_framework/scikit-learn]]
 ```python
 TSNE(_n_components=2_, _*_, _perplexity=30.0_, _early_exaggeration=12.0_, _learning_rate='warn'_, _n_iter=1000_, _n_iter_without_progress=300_, _min_grad_norm=1e-07_, _metric='euclidean'_, _metric_params=None_, _init='warn'_, _verbose=0_, _random_state=None_, _method='barnes_hut'_, _angle=0.5_, _n_jobs=None_, _square_distances='deprecated'_)
 

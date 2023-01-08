@@ -28,7 +28,7 @@ Mathematically the main objective of PCA is to:
 -   Find the eigenvalues and eigenvectors for the covariance matrix.
 -   Plot the vectors on the scaled data.
 
-## [[scikit-learn]]
+## [[../DL_framework/scikit-learn]]
 
 ```python
 sklearn.decomposition.PCA(_n_components=None_, _*_, _copy=True_, _whiten=False_, _svd_solver='auto'_, _tol=0.0_, _iterated_power='auto'_, _n_oversamples=10_, _power_iteration_normalizer='auto'_, _random_state=None_)

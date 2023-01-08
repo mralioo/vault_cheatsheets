@@ -263,3 +263,18 @@ e    23
 1    A    2
 2    B  NaN
 ```
+
+
+```python
+df = pd.DataFrame({'a': [10,20],'b':[100,200],'c': ['a','b']})
+
+df.loc['Column_Total']= df.sum(numeric_only=True, axis=0)
+df.loc[:,'Row_Total'] = df.sum(numeric_only=True, axis=1)
+
+print(df)
+
+                 a      b    c  Row_Total
+0             10.0  100.0    a      110.0
+1             20.0  200.0    b      220.0
+Column_Total  30.0  300.0  NaN      330.0
+```

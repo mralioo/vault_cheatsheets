@@ -19,10 +19,10 @@ Think of an attention-based system consisting of three components:
 > 
 > – Page 491, [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning&qid=1622968138&sr=8-1), 2017.
 
-✨Encoder-Decoder framwwork is an example of an attention mechanism.
+✨Encoder-Decoder framework is an example of an attention mechanism.
 
 ## Attention mechanism
-The attention mechanism was introduced to i**mprove the performance of the encoder-decoder** model for machine translation.
+The attention mechanism was introduced to **improve the performance of the encoder-decoder** model for machine translation.
 
 💫The idea behind the attention mechanism was to permit the decoder to utilize **the most relevant parts of the input sequence** in a flexible manner, by a weighted combination of all the encoded input vectors, with the most relevant vectors being attributed the highest weights.
 

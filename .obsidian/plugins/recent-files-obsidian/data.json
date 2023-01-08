@@ -1,56 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Authentification",
-      "path": "GIT/Authentification.md"
-    },
-    {
       "basename": "DL Frameworks",
       "path": "DL_framework/DL Frameworks.md"
     },
     {
-      "basename": "ML",
-      "path": "ML/ML.md"
+      "basename": "Tensorflow",
+      "path": "DL_framework/Tensorflow.md"
     },
     {
-      "basename": "ETL",
-      "path": "ETL/ETL.md"
+      "basename": "scikit-learn",
+      "path": "DL_framework/scikit-learn.md"
     },
     {
-      "basename": "SQL",
-      "path": "ETL/SQL/SQL.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Pytorch",
+      "path": "DL_framework/Pytorch.md"
     },
     {
       "basename": "Keras",
       "path": "DL_framework/Keras.md"
     },
     {
+      "basename": "ML",
+      "path": "ML/ML.md"
+    },
+    {
       "basename": "Transformers",
       "path": "ML/Supervised Learning/Transformers.md"
     },
     {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
-    },
-    {
-      "basename": "scikit-learn",
-      "path": "ML/scikit-learn.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "ML/PCA.md"
-    },
-    {
-      "basename": "Data Scaling",
-      "path": "ETL/Data Scaling.md"
+      "basename": "Probabilistic Neural Network (PNN)",
+      "path": "ML/PNN/Probabilistic Neural Network (PNN).md"
     },
     {
       "basename": "Cross-Validation",
       "path": "ML/Cross-Validation.md"
+    },
+    {
+      "basename": "Big O",
+      "path": "Algorithms/Big O.md"
+    },
+    {
+      "basename": "DataFrame",
+      "path": "ETL/Pandas/DataFrame.md"
+    },
+    {
+      "basename": "Weights & Biases",
+      "path": "MLOps/Weights & Biases.md"
+    },
+    {
+      "basename": "Data Version Control (DVC)",
+      "path": "MLOps/Data Version Control (DVC).md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "SageMaker Experiments",
+      "path": "AWS/SageMaker/SageMaker Experiments.md"
+    },
+    {
+      "basename": "SagerMaker",
+      "path": "AWS/SageMaker/SagerMaker.md"
+    },
+    {
+      "basename": "SAM",
+      "path": "AWS/SAM.md"
+    },
+    {
+      "basename": "Lambda",
+      "path": "AWS/Lambda.md"
+    },
+    {
+      "basename": "AWS Fargate",
+      "path": "AWS/AWS Fargate.md"
+    },
+    {
+      "basename": "MLflow",
+      "path": "AWS/SageMaker/MLflow.md"
     },
     {
       "basename": "Activations",
@@ -61,16 +89,44 @@
       "path": "ML/Supervised Learning/LSTM.md"
     },
     {
-      "basename": "XGBoost",
-      "path": "ML/Supervised Learning/XGBoost.md"
-    },
-    {
       "basename": "Time-Series",
       "path": "ML/Time-Series.md"
     },
     {
       "basename": "attention_research_1-727x1024",
       "path": "figures/attention_research_1-727x1024.webp"
+    },
+    {
+      "basename": "MLflow",
+      "path": "figures/MLflow.jpg"
+    },
+    {
+      "basename": "Authentification",
+      "path": "GIT/Authentification.md"
+    },
+    {
+      "basename": "ETL",
+      "path": "ETL/ETL.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "ETL/SQL/SQL.md"
+    },
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/PCA.md"
+    },
+    {
+      "basename": "Data Scaling",
+      "path": "ETL/Data Scaling.md"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "ML/Supervised Learning/XGBoost.md"
     },
     {
       "basename": "Transformers-2",
@@ -121,10 +177,6 @@
       "path": "figures/Activations.png"
     },
     {
-      "basename": "DataFrame",
-      "path": "ETL/Pandas/DataFrame.md"
-    },
-    {
       "basename": "Basic Ops",
       "path": "ETL/Pandas/Basic Ops.md"
     },
@@ -147,60 +199,9 @@
     {
       "basename": "t-SNE-1",
       "path": "figures/t-SNE-1.png"
-    },
-    {
-      "basename": "Activations-2",
-      "path": "figures/Activations-2.png"
-    },
-    {
-      "basename": "ML_scikit_learn",
-      "path": "ML/pdfs/ML_scikit_learn.pdf"
-    },
-    {
-      "basename": "Pytorch",
-      "path": "DL_framework/Pytorch.md"
-    },
-    {
-      "basename": "machine-learning-cheat-sheet",
-      "path": "ML/pdfs/machine-learning-cheat-sheet.pdf"
-    },
-    {
-      "basename": "Tensorboard",
-      "path": "MLOps/Monitoring/Tensorboard.md"
-    },
-    {
-      "basename": "Tensorflow",
-      "path": "DL_framework/Tensorflow.md"
-    },
-    {
-      "basename": "SAM",
-      "path": "AWS/SAM.md"
-    },
-    {
-      "basename": "Lambda",
-      "path": "AWS/Lambda.md"
-    },
-    {
-      "basename": "AWS Fargate",
-      "path": "AWS/AWS Fargate.md"
-    },
-    {
-      "basename": "numpy",
-      "path": "Python/numpy.md"
-    },
-    {
-      "basename": "The Gradient Descent",
-      "path": "ML/The Gradient Descent.md"
-    },
-    {
-      "basename": "dictionary",
-      "path": "Python/dictionary.md"
-    },
-    {
-      "basename": "Sagermaker",
-      "path": "AWS/Sagermaker.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

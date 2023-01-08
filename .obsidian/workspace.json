@@ -4,23 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "2f8d3a8cd02b02c4",
+        "id": "473a6889b046af47",
         "type": "tabs",
         "children": [
           {
-            "id": "70a991c449685ac6",
+            "id": "24634b781f89f8dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Authentification.md",
+                "file": "DL_framework/Keras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "877838535fa62045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Activations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9097cf97800d8949",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
+            "id": "9f0c039a1d910315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLOps/Weights & Biases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c08c84db5896df88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Cross-Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92831d2168860a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL_framework/DL Frameworks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Authentification.md",
+                "file": "DL_framework/DL Frameworks.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Authentification.md",
+                "file": "DL_framework/DL Frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Authentification.md"
+                "file": "DL_framework/DL Frameworks.md"
               }
             }
           },
@@ -155,23 +213,38 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 349.5
   },
-  "active": "f6b9d26829d768cd",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "92831d2168860a0e",
   "lastOpenFiles": [
-    "DL_framework/DL Frameworks.md",
-    "GIT/Authentification.md",
-    "ML/ML.md",
-    "ETL/ETL.md",
-    "ETL/SQL/SQL.md",
-    "README.md",
+    "DL_framework/Tensorflow.md",
+    "DL_framework/scikit-learn.md",
+    "DL_framework/Pytorch.md",
     "DL_framework/Keras.md",
+    "DL_framework/DL Frameworks.md",
+    "ML/ML.md",
     "ML/Supervised Learning/Transformers.md",
-    "ML/Statistical Techniques.md",
-    "ML/scikit-learn.md"
+    "ML/PNN/Probabilistic Neural Network (PNN).md",
+    "ML/Cross-Validation.md",
+    "Algorithms/Big O.md"
   ]
 }
