@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "Tuning cookbook",
+      "path": "ML/Tuning cookbook.md"
+    },
+    {
+      "basename": "Misc",
+      "path": "GIT/Misc.md"
+    },
+    {
+      "basename": "Merge , Rebase",
+      "path": "GIT/Merge , Rebase.md"
+    },
+    {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "Terminal utils",
+      "path": "OS/Terminal utils.md"
+    },
+    {
+      "basename": "Regularization Techniques",
+      "path": "ML/Regularization Techniques.md"
+    },
+    {
+      "basename": "Classification",
+      "path": "ML/Classification.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Supervised Learning/Transformers.md"
+    },
+    {
+      "basename": "ML",
+      "path": "ML/ML.md"
+    },
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "t-SNE",
+      "path": "ML/t-SNE.md"
+    },
+    {
+      "basename": "The Gradient Descent",
+      "path": "ML/The Gradient Descent.md"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
+    },
+    {
+      "basename": "VIM",
+      "path": "Tools/VIM.md"
+    },
+    {
+      "basename": "Probabilistic Neural Network (PNN)",
+      "path": "ML/PNN/Probabilistic Neural Network (PNN).md"
+    },
+    {
+      "basename": "scikit-learn",
+      "path": "DL_framework/scikit-learn.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/PCA.md"
+    },
+    {
+      "basename": "Weights & Biases",
+      "path": "MLOps/Monitoring/Weights & Biases.md"
+    },
+    {
+      "basename": "Tensorboard",
+      "path": "MLOps/Monitoring/Tensorboard.md"
+    },
+    {
       "basename": "MLflow",
       "path": "AWS/SageMaker/MLflow.md"
     },
@@ -33,10 +109,6 @@
       "path": "DL_framework/Keras.md"
     },
     {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
       "basename": "Cross-Validation",
       "path": "figures/Cross-Validation.png"
     },
@@ -61,24 +133,8 @@
       "path": "DL_framework/Tensorflow.md"
     },
     {
-      "basename": "scikit-learn",
-      "path": "DL_framework/scikit-learn.md"
-    },
-    {
       "basename": "Pytorch",
       "path": "DL_framework/Pytorch.md"
-    },
-    {
-      "basename": "ML",
-      "path": "ML/ML.md"
-    },
-    {
-      "basename": "Transformers",
-      "path": "ML/Supervised Learning/Transformers.md"
-    },
-    {
-      "basename": "Probabilistic Neural Network (PNN)",
-      "path": "ML/PNN/Probabilistic Neural Network (PNN).md"
     },
     {
       "basename": "Cross-Validation",
@@ -87,10 +143,6 @@
     {
       "basename": "DataFrame",
       "path": "ETL/Pandas/DataFrame.md"
-    },
-    {
-      "basename": "Weights & Biases",
-      "path": "MLOps/Weights & Biases.md"
     },
     {
       "basename": "Data Version Control (DVC)",
@@ -113,10 +165,6 @@
       "path": "ML/Supervised Learning/LSTM.md"
     },
     {
-      "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
-    },
-    {
       "basename": "Authentification",
       "path": "GIT/Authentification.md"
     },
@@ -127,14 +175,6 @@
     {
       "basename": "SQL",
       "path": "ETL/SQL/SQL.md"
-    },
-    {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "ML/PCA.md"
     },
     {
       "basename": "Data Scaling",
@@ -159,46 +199,6 @@
     {
       "basename": "Transformers",
       "path": "figures/Transformers.png"
-    },
-    {
-      "basename": "Time-Series",
-      "path": "figures/Time-Series.jpg"
-    },
-    {
-      "basename": "Time-Series-2",
-      "path": "figures/Time-Series-2.jpg"
-    },
-    {
-      "basename": "Time-Series-1",
-      "path": "figures/Time-Series-1.jpg"
-    },
-    {
-      "basename": "t-SNE",
-      "path": "ML/t-SNE.md"
-    },
-    {
-      "basename": "ML_algorithms",
-      "path": "ML/pdfs/ML_algorithms.pdf"
-    },
-    {
-      "basename": "Activations-1",
-      "path": "figures/Activations-1.png"
-    },
-    {
-      "basename": "Activations",
-      "path": "figures/Activations.png"
-    },
-    {
-      "basename": "Basic Ops",
-      "path": "ETL/Pandas/Basic Ops.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "figures/PCA.gif"
-    },
-    {
-      "basename": "t-SNE-3",
-      "path": "figures/t-SNE-3.png"
     }
   ],
   "omittedPaths": [],

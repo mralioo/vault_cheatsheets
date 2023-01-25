@@ -4,22 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "03e48870cd96b1a2",
+        "id": "54189fdf9c05ec5b",
         "type": "tabs",
         "children": [
           {
-            "id": "e4aca268aa1f354c",
+            "id": "aef952b119139d60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/SageMaker/MLflow.md",
+                "file": "Tools/VIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fc554fd0e4a839e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Supervised Learning/Transformers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6579a228c857a950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Activations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daeb596227ad452b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Activations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e1fe6dc9f35b5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Merge , Rebase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "645b473058750d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc4dec0c70cb6660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Tuning cookbook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -77,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 309.5
   },
   "right": {
     "id": "2b5e2d003146216d",
@@ -93,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/SageMaker/MLflow.md",
+                "file": "ML/Tuning cookbook.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/SageMaker/MLflow.md",
+                "file": "ML/Tuning cookbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/SageMaker/MLflow.md"
+                "file": "ML/Tuning cookbook.md"
               }
             }
           },
@@ -154,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,17 +248,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e4aca268aa1f354c",
+  "active": "bc4dec0c70cb6660",
   "lastOpenFiles": [
-    "AWS/SageMaker/SagerMaker.md",
-    "AWS/SageMaker/SageMaker Experiments.md",
-    "Algorithms/Big O.md",
-    "figures/attention_research_1-727x1024.webp",
-    "AWS/SageMaker/MLflow.md",
-    "figures/MLflow.jpg",
-    "figures/SageMaker Experiments.png",
-    "DL_framework/Keras.md",
+    "GIT/Misc.md",
+    "GIT/Merge , Rebase.md",
     "ML/Activations.md",
-    "figures/Cross-Validation.png"
+    "OS/Terminal utils.md",
+    "ML/Regularization Techniques.md",
+    "ML/Classification.md",
+    "ML/Supervised Learning/Transformers.md",
+    "ML/ML.md",
+    "ML/Statistical Techniques.md",
+    "ML/t-SNE.md"
   ]
 }

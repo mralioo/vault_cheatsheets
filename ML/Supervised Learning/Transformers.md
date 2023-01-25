@@ -1,5 +1,5 @@
 sources:
-* https://machinelearningmastery.com/the-transformer-model/?fbclid=IwAR0IQKCtCr6A7qKie70bUmwRyH71BWWZL6AHYf6rVErVtLK4T4flmdE42jk
+* [The Transformer Model](https://machinelearningmastery.com/the-transformer-model/?fbclid=IwAR0IQKCtCr6A7qKie70bUmwRyH71BWWZL6AHYf6rVErVtLK4T4flmdE42jk)
 * https://huggingface.co/docs/transformers/index
 - [The concept of attention](https://machinelearningmastery.com/what-is-attention/)
 - [What is attention](https://machinelearningmastery.com/what-is-attention/)
@@ -22,14 +22,16 @@ Think of an attention-based system consisting of three components:
 ✨Encoder-Decoder framework is an example of an attention mechanism.
 
 ## Attention mechanism
+
 The attention mechanism was introduced to **improve the performance of the encoder-decoder** model for machine translation.
 
 💫The idea behind the attention mechanism was to permit the decoder to utilize **the most relevant parts of the input sequence** in a flexible manner, by a weighted combination of all the encoded input vectors, with the most relevant vectors being attributed the highest weights.
 
 ## The Concept of attention
+
 The main components used by the Transformer attention are the following:
 
--   q and k denoting vectors of dimension, $d_k$, containing the queries and keys, respectively
+-   q and k denoting vectors of dimension, $d_k$, containing the **queries and keys**, respectively
 -   v denoting a vector of dimension, $d_v$, containing the values
 -   Q, K, and V denoting matrices packing together sets of queries, keys, and values, respectively.
 -   $W^Q$, $W^K$ and $W^V$ denoting projection matrices that are used in generating different subspace representations of the query, key, and value matrices
@@ -37,7 +39,7 @@ The main components used by the Transformer attention are the following:
 
 ### Scaled dot-product attention
 
-he scaled dot-product attention first computes a _dot product_ for each query, $q$, with all of the keys, $k$. It subsequently divides each result by $\sqrt{d_k}$ and proceeds to apply a softmax function. In doing so, it obtains the weights that are used to _scale_ the values, $v$.
+The scaled dot-product attention first computes a _dot product_ for each query, $q$, with all of the keys, $k$. It subsequently divides each result by $\sqrt{d_k}$ and proceeds to apply a softmax function. In doing so, it obtains the weights that are used to _scale_ the values, $v$.
 
 ![](../../figures/Transformers.webp)
 

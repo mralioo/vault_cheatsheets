@@ -2,7 +2,7 @@
 
 is kind of programming language, keystrokes (with mnemonic names) are commands, and these commands are composable.
 
-VIM has diffrent modes :
+VIM has different modes :
 -   **Normal**: for moving around a file and making edits
 -   **Insert**: for inserting text
 -   **Replace**: for replacing text
