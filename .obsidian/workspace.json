@@ -85,14 +85,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Tuning cookbook.md",
+                "file": "AWS/AWS Fargate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51c291f24bcd0ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/SageMaker/MLflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61f9a4f9fc961217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Activations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Tuning cookbook.md",
+                "file": "ML/Activations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Tuning cookbook.md",
+                "file": "ML/Activations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Tuning cookbook.md"
+                "file": "ML/Activations.md"
               }
             }
           },
@@ -248,17 +272,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "bc4dec0c70cb6660",
+  "active": "61f9a4f9fc961217",
   "lastOpenFiles": [
+    "DL_framework/Keras.md",
+    "AWS/SAM.md",
+    "AWS/Lambda.md",
+    "AWS/ECS.md",
+    "AWS/SageMaker/SageMaker Pipelines.md",
+    "AWS/SageMaker/MLflow.md",
+    "AWS/AWS Fargate.md",
+    "ML/Tuning cookbook.md",
     "GIT/Misc.md",
-    "GIT/Merge , Rebase.md",
-    "ML/Activations.md",
-    "OS/Terminal utils.md",
-    "ML/Regularization Techniques.md",
-    "ML/Classification.md",
-    "ML/Supervised Learning/Transformers.md",
-    "ML/ML.md",
-    "ML/Statistical Techniques.md",
-    "ML/t-SNE.md"
+    "GIT/Merge , Rebase.md"
   ]
 }

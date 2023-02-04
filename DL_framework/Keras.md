@@ -2,6 +2,7 @@
 
 [ref_1](https://www.tensorflow.org/guide/keras/save_and_serialize)
 [ref_2](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
+[ref3](https://stackoverflow.com/questions/66827371/difference-between-tf-saved-model-savemodel-path-to-dir-and-tf-keras-model-sa)
 
 ### easy mode
 ```python
@@ -35,7 +36,7 @@ A Keras model consists of multiple components:
 
 from tensorflow import keras
 reconstructed_model = keras.models.load_model('path/to/location')
-reconstructed_model.fit(test_input, test_target)](<model = get_model()
+reconstructed_model.fit(test_input, test_target)](<config_in_out_doormodel = get_model()
 
 # Train the model.
 test_input = np.random.random((128, 32))

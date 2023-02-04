@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "Keras",
+      "path": "DL_framework/Keras.md"
+    },
+    {
+      "basename": "SAM",
+      "path": "AWS/SAM.md"
+    },
+    {
+      "basename": "Lambda",
+      "path": "AWS/Lambda.md"
+    },
+    {
+      "basename": "ECS",
+      "path": "AWS/ECS.md"
+    },
+    {
+      "basename": "SageMaker Pipelines",
+      "path": "AWS/SageMaker/SageMaker Pipelines.md"
+    },
+    {
+      "basename": "MLflow",
+      "path": "AWS/SageMaker/MLflow.md"
+    },
+    {
+      "basename": "AWS Fargate",
+      "path": "AWS/AWS Fargate.md"
+    },
+    {
       "basename": "Tuning cookbook",
       "path": "ML/Tuning cookbook.md"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "Merge , Rebase",
       "path": "GIT/Merge , Rebase.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
     },
     {
       "basename": "Terminal utils",
@@ -77,10 +105,6 @@
       "path": "MLOps/Monitoring/Tensorboard.md"
     },
     {
-      "basename": "MLflow",
-      "path": "AWS/SageMaker/MLflow.md"
-    },
-    {
       "basename": "SagerMaker",
       "path": "AWS/SageMaker/SagerMaker.md"
     },
@@ -103,10 +127,6 @@
     {
       "basename": "SageMaker Experiments",
       "path": "figures/SageMaker Experiments.png"
-    },
-    {
-      "basename": "Keras",
-      "path": "DL_framework/Keras.md"
     },
     {
       "basename": "Cross-Validation",
@@ -149,18 +169,6 @@
       "path": "MLOps/Data Version Control (DVC).md"
     },
     {
-      "basename": "SAM",
-      "path": "AWS/SAM.md"
-    },
-    {
-      "basename": "Lambda",
-      "path": "AWS/Lambda.md"
-    },
-    {
-      "basename": "AWS Fargate",
-      "path": "AWS/AWS Fargate.md"
-    },
-    {
       "basename": "LSTM",
       "path": "ML/Supervised Learning/LSTM.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Transformers-1",
       "path": "figures/Transformers-1.png"
-    },
-    {
-      "basename": "Transformers",
-      "path": "figures/Transformers.webp"
-    },
-    {
-      "basename": "Transformers",
-      "path": "figures/Transformers.png"
     }
   ],
   "omittedPaths": [],
