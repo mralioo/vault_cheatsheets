@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "MLflow",
+      "path": "MLOps/Monitoring/MLflow.md"
+    },
+    {
+      "basename": "AWS Fargate",
+      "path": "AWS/AWS Fargate.md"
+    },
+    {
+      "basename": "ECS",
+      "path": "AWS/ECS.md"
+    },
+    {
+      "basename": "Lambda",
+      "path": "AWS/Lambda.md"
+    },
+    {
+      "basename": "SageMaker Experiments",
+      "path": "AWS/SageMaker/SageMaker Experiments.md"
+    },
+    {
+      "basename": "SagerMaker",
+      "path": "AWS/SageMaker/SagerMaker.md"
+    },
+    {
+      "basename": "SageMaker Pipelines",
+      "path": "AWS/SageMaker/SageMaker Pipelines.md"
+    },
+    {
+      "basename": "scikit-learn",
+      "path": "DL_framework/scikit-learn.md"
+    },
+    {
       "basename": "Activations",
       "path": "ML/Activations.md"
     },
@@ -11,26 +43,6 @@
     {
       "basename": "SAM",
       "path": "AWS/SAM.md"
-    },
-    {
-      "basename": "Lambda",
-      "path": "AWS/Lambda.md"
-    },
-    {
-      "basename": "ECS",
-      "path": "AWS/ECS.md"
-    },
-    {
-      "basename": "SageMaker Pipelines",
-      "path": "AWS/SageMaker/SageMaker Pipelines.md"
-    },
-    {
-      "basename": "MLflow",
-      "path": "AWS/SageMaker/MLflow.md"
-    },
-    {
-      "basename": "AWS Fargate",
-      "path": "AWS/AWS Fargate.md"
     },
     {
       "basename": "Tuning cookbook",
@@ -89,10 +101,6 @@
       "path": "ML/PNN/Probabilistic Neural Network (PNN).md"
     },
     {
-      "basename": "scikit-learn",
-      "path": "DL_framework/scikit-learn.md"
-    },
-    {
       "basename": "PCA",
       "path": "ML/PCA.md"
     },
@@ -105,14 +113,6 @@
       "path": "MLOps/Monitoring/Tensorboard.md"
     },
     {
-      "basename": "SagerMaker",
-      "path": "AWS/SageMaker/SagerMaker.md"
-    },
-    {
-      "basename": "SageMaker Experiments",
-      "path": "AWS/SageMaker/SageMaker Experiments.md"
-    },
-    {
       "basename": "Big O",
       "path": "Algorithms/Big O.md"
     },
@@ -121,8 +121,8 @@
       "path": "figures/attention_research_1-727x1024.webp"
     },
     {
-      "basename": "MLflow",
-      "path": "figures/MLflow.jpg"
+      "basename": "MLflow-2",
+      "path": "figures/MLflow-2.jpg"
     },
     {
       "basename": "SageMaker Experiments",

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/SageMaker/MLflow.md",
+                "file": "MLOps/Monitoring/MLflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Activations.md",
+                "file": "MLOps/Monitoring/MLflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Activations.md",
+                "file": "MLOps/Monitoring/MLflow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Activations.md",
+                "file": "MLOps/Monitoring/MLflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Activations.md"
+                "file": "MLOps/Monitoring/MLflow.md"
               }
             }
           },
@@ -274,15 +274,15 @@
   },
   "active": "61f9a4f9fc961217",
   "lastOpenFiles": [
-    "DL_framework/Keras.md",
-    "AWS/SAM.md",
-    "AWS/Lambda.md",
-    "AWS/ECS.md",
-    "AWS/SageMaker/SageMaker Pipelines.md",
-    "AWS/SageMaker/MLflow.md",
     "AWS/AWS Fargate.md",
-    "ML/Tuning cookbook.md",
-    "GIT/Misc.md",
-    "GIT/Merge , Rebase.md"
+    "AWS/ECS.md",
+    "MLOps/Monitoring/MLflow.md",
+    "AWS/Lambda.md",
+    "AWS/SageMaker/SageMaker Experiments.md",
+    "AWS/SageMaker/SagerMaker.md",
+    "AWS/SageMaker/SageMaker Pipelines.md",
+    "DL_framework/scikit-learn.md",
+    "ML/Activations.md",
+    "DL_framework/Keras.md"
   ]
 }
