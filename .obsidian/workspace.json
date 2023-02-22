@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "54189fdf9c05ec5b",
+        "id": "4f79ada65435165d",
         "type": "tabs",
         "children": [
           {
-            "id": "aef952b119139d60",
+            "id": "d1e410db194a8a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/VIM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc554fd0e4a839e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Supervised Learning/Transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6579a228c857a950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Activations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daeb596227ad452b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Activations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e1fe6dc9f35b5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Merge , Rebase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "645b473058750d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Misc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc4dec0c70cb6660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/AWS Fargate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51c291f24bcd0ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MLOps/Monitoring/MLflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61f9a4f9fc961217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MLOps/Monitoring/MLflow.md",
+                "file": "AWS/CloudForamtion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLOps/Monitoring/MLflow.md",
+                "file": "AWS/CloudForamtion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLOps/Monitoring/MLflow.md",
+                "file": "AWS/CloudForamtion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MLOps/Monitoring/MLflow.md"
+                "file": "AWS/CloudForamtion.md"
               }
             }
           },
@@ -272,17 +175,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "61f9a4f9fc961217",
+  "active": "d1e410db194a8a79",
   "lastOpenFiles": [
-    "AWS/AWS Fargate.md",
-    "AWS/ECS.md",
-    "MLOps/Monitoring/MLflow.md",
+    "figures/CloudForamtion.png",
+    "AWS/CloudForamtion.md",
+    "figures/CloudForamtion 1.png",
+    "figures/CloudForamtion-1.png",
+    "figures/SageMaker Experiments.png",
     "AWS/Lambda.md",
-    "AWS/SageMaker/SageMaker Experiments.md",
-    "AWS/SageMaker/SagerMaker.md",
-    "AWS/SageMaker/SageMaker Pipelines.md",
-    "DL_framework/scikit-learn.md",
-    "ML/Activations.md",
-    "DL_framework/Keras.md"
+    "AWS/ECS.md",
+    "AWS/VPC.md",
+    "AWS/AWS Fargate.md",
+    "AWS/SAM.md"
   ]
 }

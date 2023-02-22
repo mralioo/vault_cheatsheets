@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "MLflow",
-      "path": "MLOps/Monitoring/MLflow.md"
+      "basename": "CloudForamtion",
+      "path": "AWS/CloudForamtion.md"
     },
     {
-      "basename": "AWS Fargate",
-      "path": "AWS/AWS Fargate.md"
+      "basename": "CloudForamtion",
+      "path": "figures/CloudForamtion.png"
+    },
+    {
+      "basename": "SageMaker Experiments",
+      "path": "figures/SageMaker Experiments.png"
+    },
+    {
+      "basename": "Lambda",
+      "path": "AWS/Lambda.md"
     },
     {
       "basename": "ECS",
       "path": "AWS/ECS.md"
     },
     {
-      "basename": "Lambda",
-      "path": "AWS/Lambda.md"
+      "basename": "VPC",
+      "path": "AWS/VPC.md"
+    },
+    {
+      "basename": "AWS Fargate",
+      "path": "AWS/AWS Fargate.md"
+    },
+    {
+      "basename": "SAM",
+      "path": "AWS/SAM.md"
+    },
+    {
+      "basename": "Tuning cookbook",
+      "path": "ML/Tuning cookbook.md"
+    },
+    {
+      "basename": "DATA",
+      "path": "ETL/DATA.md"
+    },
+    {
+      "basename": "ETL",
+      "path": "ETL/ETL.md"
+    },
+    {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "LSTM",
+      "path": "ML/Supervised Learning/LSTM.md"
+    },
+    {
+      "basename": "ML",
+      "path": "ML/ML.md"
+    },
+    {
+      "basename": "Metrics",
+      "path": "ML/Metrics.md"
+    },
+    {
+      "basename": "Tensorflow",
+      "path": "DL_framework/Tensorflow.md"
+    },
+    {
+      "basename": "DL Frameworks",
+      "path": "DL_framework/DL Frameworks.md"
+    },
+    {
+      "basename": "MLflow",
+      "path": "MLOps/Monitoring/MLflow.md"
     },
     {
       "basename": "SageMaker Experiments",
@@ -33,20 +89,8 @@
       "path": "DL_framework/scikit-learn.md"
     },
     {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
       "basename": "Keras",
       "path": "DL_framework/Keras.md"
-    },
-    {
-      "basename": "SAM",
-      "path": "AWS/SAM.md"
-    },
-    {
-      "basename": "Tuning cookbook",
-      "path": "ML/Tuning cookbook.md"
     },
     {
       "basename": "Misc",
@@ -71,10 +115,6 @@
     {
       "basename": "Transformers",
       "path": "ML/Supervised Learning/Transformers.md"
-    },
-    {
-      "basename": "ML",
-      "path": "ML/ML.md"
     },
     {
       "basename": "Statistical Techniques",
@@ -125,10 +165,6 @@
       "path": "figures/MLflow-2.jpg"
     },
     {
-      "basename": "SageMaker Experiments",
-      "path": "figures/SageMaker Experiments.png"
-    },
-    {
       "basename": "Cross-Validation",
       "path": "figures/Cross-Validation.png"
     },
@@ -145,14 +181,6 @@
       "path": "README.md"
     },
     {
-      "basename": "DL Frameworks",
-      "path": "DL_framework/DL Frameworks.md"
-    },
-    {
-      "basename": "Tensorflow",
-      "path": "DL_framework/Tensorflow.md"
-    },
-    {
       "basename": "Pytorch",
       "path": "DL_framework/Pytorch.md"
     },
@@ -167,38 +195,6 @@
     {
       "basename": "Data Version Control (DVC)",
       "path": "MLOps/Data Version Control (DVC).md"
-    },
-    {
-      "basename": "LSTM",
-      "path": "ML/Supervised Learning/LSTM.md"
-    },
-    {
-      "basename": "Authentification",
-      "path": "GIT/Authentification.md"
-    },
-    {
-      "basename": "ETL",
-      "path": "ETL/ETL.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "ETL/SQL/SQL.md"
-    },
-    {
-      "basename": "Data Scaling",
-      "path": "ETL/Data Scaling.md"
-    },
-    {
-      "basename": "XGBoost",
-      "path": "ML/Supervised Learning/XGBoost.md"
-    },
-    {
-      "basename": "Transformers-2",
-      "path": "figures/Transformers-2.png"
-    },
-    {
-      "basename": "Transformers-1",
-      "path": "figures/Transformers-1.png"
     }
   ],
   "omittedPaths": [],
