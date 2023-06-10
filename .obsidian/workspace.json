@@ -4,22 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "4f79ada65435165d",
+        "id": "1156596bd5112e37",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e410db194a8a79",
+            "id": "4ee7d9ee79300ce0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "figures/SageMaker Experiments.png"
+              }
+            }
+          },
+          {
+            "id": "b36adb27267f7d87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/CloudForamtion.md",
+                "file": "AWS/SageMaker/Scikit-learn with SageMaker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1b6429dd6b7fa43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Metrics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e853d400c5d0a130",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "674562f46ecb7bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/SageMaker/Scikit-learn with SageMaker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea8dca1ba493297e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/XGBoost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a5990eec5dba0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETL/Outliers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -72,6 +139,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "41eb8b5ae19771a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/CloudForamtion.md",
+                "file": "ETL/Outliers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/CloudForamtion.md",
+                "file": "ETL/Outliers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/CloudForamtion.md"
+                "file": "ETL/Outliers.md"
               }
             }
           },
@@ -162,7 +237,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,20 +246,27 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d1e410db194a8a79",
+  "active": "dd7e1aa5f3db7594",
   "lastOpenFiles": [
-    "figures/CloudForamtion.png",
+    "figures/Outliers.png",
+    "ETL/Outliers.md",
+    "ML/XGBoost.md",
+    "figures/SageMaker Experiments.png",
+    "AWS/SageMaker/Scikit-learn with SageMaker.md",
+    "ML/Supervised Learning/XGBoost.md",
+    "ML/Metrics.md",
+    "ML/Supervised Learning/Transformers.md",
+    "ML/Supervised Learning/LSTM.md",
+    "ETL/Visualization/Bokeh.md",
+    "ML/PCA.md",
     "AWS/CloudForamtion.md",
+    "figures/CloudForamtion.png",
     "figures/CloudForamtion 1.png",
     "figures/CloudForamtion-1.png",
-    "figures/SageMaker Experiments.png",
-    "AWS/Lambda.md",
-    "AWS/ECS.md",
-    "AWS/VPC.md",
-    "AWS/AWS Fargate.md",
-    "AWS/SAM.md"
+    "AWS/Lambda.md"
   ]
 }

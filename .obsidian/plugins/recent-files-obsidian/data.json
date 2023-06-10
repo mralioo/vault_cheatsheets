@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Outliers",
+      "path": "ETL/Outliers.md"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "ML/XGBoost.md"
+    },
+    {
+      "basename": "Scikit-learn with SageMaker",
+      "path": "AWS/SageMaker/Scikit-learn with SageMaker.md"
+    },
+    {
+      "basename": "SageMaker Experiments",
+      "path": "figures/SageMaker Experiments.png"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "ML/Supervised Learning/XGBoost.md"
+    },
+    {
+      "basename": "Metrics",
+      "path": "ML/Metrics.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Supervised Learning/Transformers.md"
+    },
+    {
+      "basename": "LSTM",
+      "path": "ML/Supervised Learning/LSTM.md"
+    },
+    {
+      "basename": "Bokeh",
+      "path": "ETL/Visualization/Bokeh.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/PCA.md"
+    },
+    {
       "basename": "CloudForamtion",
       "path": "AWS/CloudForamtion.md"
     },
     {
       "basename": "CloudForamtion",
       "path": "figures/CloudForamtion.png"
-    },
-    {
-      "basename": "SageMaker Experiments",
-      "path": "figures/SageMaker Experiments.png"
     },
     {
       "basename": "Lambda",
@@ -49,16 +85,8 @@
       "path": "ML/Activations.md"
     },
     {
-      "basename": "LSTM",
-      "path": "ML/Supervised Learning/LSTM.md"
-    },
-    {
       "basename": "ML",
       "path": "ML/ML.md"
-    },
-    {
-      "basename": "Metrics",
-      "path": "ML/Metrics.md"
     },
     {
       "basename": "Tensorflow",
@@ -113,10 +141,6 @@
       "path": "ML/Classification.md"
     },
     {
-      "basename": "Transformers",
-      "path": "ML/Supervised Learning/Transformers.md"
-    },
-    {
       "basename": "Statistical Techniques",
       "path": "ML/Statistical Techniques.md"
     },
@@ -139,10 +163,6 @@
     {
       "basename": "Probabilistic Neural Network (PNN)",
       "path": "ML/PNN/Probabilistic Neural Network (PNN).md"
-    },
-    {
-      "basename": "PCA",
-      "path": "ML/PCA.md"
     },
     {
       "basename": "Weights & Biases",
@@ -179,22 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Pytorch",
-      "path": "DL_framework/Pytorch.md"
-    },
-    {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
-    },
-    {
-      "basename": "DataFrame",
-      "path": "ETL/Pandas/DataFrame.md"
-    },
-    {
-      "basename": "Data Version Control (DVC)",
-      "path": "MLOps/Data Version Control (DVC).md"
     }
   ],
   "omittedPaths": [],
