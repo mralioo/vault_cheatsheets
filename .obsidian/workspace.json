@@ -84,9 +84,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "785e8b90b6b00485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools & Libs/Yellowbrick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETL/Outliers.md",
+                "file": "Tools & Libs/Yellowbrick.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETL/Outliers.md",
+                "file": "Tools & Libs/Yellowbrick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETL/Outliers.md"
+                "file": "Tools & Libs/Yellowbrick.md"
               }
             }
           },
@@ -229,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,8 +262,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dd7e1aa5f3db7594",
+  "active": "bfc87b9e968e54ab",
   "lastOpenFiles": [
+    "Tools & Libs/Yellowbrick.md",
     "figures/Outliers.png",
     "ETL/Outliers.md",
     "ML/XGBoost.md",

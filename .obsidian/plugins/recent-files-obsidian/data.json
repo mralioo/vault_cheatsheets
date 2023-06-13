@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Yellowbrick",
+      "path": "Tools & Libs/Yellowbrick.md"
+    },
+    {
       "basename": "Outliers",
       "path": "ETL/Outliers.md"
     },
@@ -158,7 +162,7 @@
     },
     {
       "basename": "VIM",
-      "path": "Tools/VIM.md"
+      "path": "Tools & Libs/VIM.md"
     },
     {
       "basename": "Probabilistic Neural Network (PNN)",
@@ -195,10 +199,6 @@
     {
       "basename": "Big O",
       "path": "figures/Big O.png"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
