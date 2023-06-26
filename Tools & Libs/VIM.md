@@ -94,4 +94,4 @@ You can use modifiers to change the meaning of a noun. Some modifiers are `i`, 
     -   `:help w` opens help for the `w` movement
 
 
-
+## Resources 

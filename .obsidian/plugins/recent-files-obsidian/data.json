@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Bokeh",
+      "path": "ETL/Visualization/Bokeh.md"
+    },
+    {
+      "basename": "ETL",
+      "path": "ETL/ETL.md"
+    },
+    {
+      "basename": "Python env",
+      "path": "Tools & Libs/Python env.md"
+    },
+    {
+      "basename": "VIM",
+      "path": "Tools & Libs/VIM.md"
+    },
+    {
       "basename": "Yellowbrick",
       "path": "Tools & Libs/Yellowbrick.md"
+    },
+    {
+      "basename": "Mythical Mysfits Containers on AWS Workshop June 2023 (SLA)",
+      "path": "AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md"
+    },
+    {
+      "basename": "SageMaker Experiments",
+      "path": "figures/SageMaker Experiments.png"
     },
     {
       "basename": "Outliers",
@@ -15,10 +39,6 @@
     {
       "basename": "Scikit-learn with SageMaker",
       "path": "AWS/SageMaker/Scikit-learn with SageMaker.md"
-    },
-    {
-      "basename": "SageMaker Experiments",
-      "path": "figures/SageMaker Experiments.png"
     },
     {
       "basename": "XGBoost",
@@ -35,10 +55,6 @@
     {
       "basename": "LSTM",
       "path": "ML/Supervised Learning/LSTM.md"
-    },
-    {
-      "basename": "Bokeh",
-      "path": "ETL/Visualization/Bokeh.md"
     },
     {
       "basename": "PCA",
@@ -79,10 +95,6 @@
     {
       "basename": "DATA",
       "path": "ETL/DATA.md"
-    },
-    {
-      "basename": "ETL",
-      "path": "ETL/ETL.md"
     },
     {
       "basename": "Activations",
@@ -161,10 +173,6 @@
       "path": "ML/Time-Series.md"
     },
     {
-      "basename": "VIM",
-      "path": "Tools & Libs/VIM.md"
-    },
-    {
       "basename": "Probabilistic Neural Network (PNN)",
       "path": "ML/PNN/Probabilistic Neural Network (PNN).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Cross-Validation",
       "path": "figures/Cross-Validation.png"
-    },
-    {
-      "basename": "Big O-1",
-      "path": "figures/Big O-1.png"
-    },
-    {
-      "basename": "Big O",
-      "path": "figures/Big O.png"
     }
   ],
   "omittedPaths": [],
