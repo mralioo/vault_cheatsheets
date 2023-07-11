@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETL/Visualization/Bokeh.md",
+                "file": "GIT/Submodules.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETL/Visualization/Bokeh.md",
+                "file": "GIT/Submodules.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETL/Visualization/Bokeh.md",
+                "file": "GIT/Submodules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETL/Visualization/Bokeh.md"
+                "file": "GIT/Submodules.md"
               }
             }
           },
@@ -186,27 +185,39 @@
   },
   "active": "785e8b90b6b00485",
   "lastOpenFiles": [
-    "ETL/ETL.md",
+    "GIT/Authentification.md",
+    "GIT/Submodules.md",
+    "GIT/Misc.md",
+    "GIT/Merge , Rebase.md",
     "Tools & Libs/Python env.md",
-    "Tools & Libs/VIM.md",
+    "MLOps/Hydra.md",
+    "MLOps/Data Version Control (DVC).md",
+    "MLOps/Monitoring/MLflow.md",
     "Tools & Libs/Yellowbrick.md",
+    "AWS/SageMaker/Deploy.md",
+    "figures/Deploy-1.png",
+    "figures/Deploy.png",
+    "AWS/SageMaker/Scikit-learn with SageMaker.md",
+    "AWS/SageMaker/SagerMaker.md",
+    "AWS/SageMaker/SageMaker Pipelines.md",
+    "AWS/SageMaker/SageMaker Experiments.md",
+    "ETL/Visualization/Bokeh.md",
+    "ETL/ETL.md",
+    "Tools & Libs/VIM.md",
     "AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md",
     "figures/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).png",
     "figures/SageMaker Experiments.png",
     "figures/Outliers.png",
     "ETL/Outliers.md",
     "ML/XGBoost.md",
-    "AWS/SageMaker/Scikit-learn with SageMaker.md",
     "ML/Supervised Learning/XGBoost.md",
     "ML/Metrics.md",
     "ML/Supervised Learning/Transformers.md",
     "ML/Supervised Learning/LSTM.md",
-    "ETL/Visualization/Bokeh.md",
     "ML/PCA.md",
     "AWS/CloudForamtion.md",
     "figures/CloudForamtion.png",
     "figures/CloudForamtion 1.png",
-    "figures/CloudForamtion-1.png",
-    "AWS/Lambda.md"
+    "figures/CloudForamtion-1.png"
   ]
 }

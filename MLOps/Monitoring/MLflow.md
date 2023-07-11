@@ -45,3 +45,6 @@ MLflow tracking is based on two concepts, _experiments_ and _runs_:
 [`mlflow.set_experiment()`](https://mlflow.org/docs/latest/python_api/mlflow.html#mlflow.set_experiment "mlflow.set_experiment") sets an experiment as active. If the experiment does not exist, creates a new experiment. If you do not specify an experiment in [`mlflow.start_run()`](https://mlflow.org/docs/latest/python_api/mlflow.html#mlflow.start_run "mlflow.start_run"), new runs are launched under this experiment.
 
 [`mlflow.start_run()`](https://mlflow.org/docs/latest/python_api/mlflow.html#mlflow.start_run "mlflow.start_run") returns the currently active run (if one exists), or starts a new run and returns a [`mlflow.ActiveRun`](https://mlflow.org/docs/latest/python_api/mlflow.html#mlflow.ActiveRun "mlflow.ActiveRun") object usable as a context manager for the current run. You do not need to call `start_run` explicitly: calling one of the logging functions with no active run automatically starts a new one.
+
+
+
