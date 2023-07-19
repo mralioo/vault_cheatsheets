@@ -34,3 +34,21 @@ deactivate
 ```
 
 	source ven/bin/activate
+
+
+## Add env to ipykernel 
+
+https://queirozf.com/entries/jupyter-kernels-how-to-add-change-remove
+
+```shell
+pip install ipykernel
+```
+
+```shell
+ipython kernel install --name "local-venv" --user
+```
+
+
+```shell
+jupyter kernelspec uninstall envname
+```

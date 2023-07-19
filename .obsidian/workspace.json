@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Submodules.md",
+                "file": "Tools & Libs/Python env.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "997c5817820aca35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Submodules.md",
+                "file": "Tools & Libs/Python env.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Submodules.md",
+                "file": "Tools & Libs/Python env.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Submodules.md"
+                "file": "Tools & Libs/Python env.md"
               }
             }
           },
@@ -185,11 +193,19 @@
   },
   "active": "785e8b90b6b00485",
   "lastOpenFiles": [
-    "GIT/Authentification.md",
-    "GIT/Submodules.md",
-    "GIT/Misc.md",
-    "GIT/Merge , Rebase.md",
     "Tools & Libs/Python env.md",
+    "ML/Activations.md",
+    "ML/Classification.md",
+    "ML/Statistical Techniques.md",
+    "ML/Regularization Techniques.md",
+    "ML/Metrics.md",
+    "ML/ML.md",
+    "DL_framework/Pytorch.md",
+    "Tools & Libs/Univa Grid Engine Cluster.md",
+    "GIT/Misc.md",
+    "GIT/Submodules.md",
+    "GIT/Authentification.md",
+    "GIT/Merge , Rebase.md",
     "MLOps/Hydra.md",
     "MLOps/Data Version Control (DVC).md",
     "MLOps/Monitoring/MLflow.md",
@@ -208,14 +224,6 @@
     "figures/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).png",
     "figures/SageMaker Experiments.png",
     "figures/Outliers.png",
-    "ETL/Outliers.md",
-    "ML/XGBoost.md",
-    "ML/Supervised Learning/XGBoost.md",
-    "ML/Metrics.md",
-    "ML/Supervised Learning/Transformers.md",
-    "ML/Supervised Learning/LSTM.md",
-    "ML/PCA.md",
-    "AWS/CloudForamtion.md",
     "figures/CloudForamtion.png",
     "figures/CloudForamtion 1.png",
     "figures/CloudForamtion-1.png"
