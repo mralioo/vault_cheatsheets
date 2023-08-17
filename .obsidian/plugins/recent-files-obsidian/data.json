@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "Prompt with LLMs",
+      "path": "Tools & Libs/Prompt with LLMs.md"
+    },
+    {
+      "basename": "Exception & Error Handling-2",
+      "path": "figures/Exception & Error Handling-2.png"
+    },
+    {
+      "basename": "Exception & Error Handling",
+      "path": "Python/Exception & Error Handling.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
+      "basename": "Yellowbrick",
+      "path": "Tools & Libs/Yellowbrick.md"
+    },
+    {
       "basename": "Python env",
       "path": "Tools & Libs/Python env.md"
+    },
+    {
+      "basename": "Univa Grid Engine Cluster",
+      "path": "Tools & Libs/Univa Grid Engine Cluster.md"
+    },
+    {
+      "basename": "Misc",
+      "path": "GIT/Misc.md"
+    },
+    {
+      "basename": "Submodules",
+      "path": "GIT/Submodules.md"
+    },
+    {
+      "basename": "Merge , Rebase",
+      "path": "GIT/Merge , Rebase.md"
+    },
+    {
+      "basename": "DataFrame",
+      "path": "ETL/Pandas/DataFrame.md"
+    },
+    {
+      "basename": "Basic Ops",
+      "path": "ETL/Pandas/Basic Ops.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "The Gradient Descent",
+      "path": "ML/The Gradient Descent.md"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
+    },
+    {
+      "basename": "Tuning cookbook",
+      "path": "ML/Tuning cookbook.md"
+    },
+    {
+      "basename": "scikit-learn",
+      "path": "DL_framework/scikit-learn.md"
+    },
+    {
+      "basename": "MLflow",
+      "path": "MLOps/Monitoring/MLflow.md"
+    },
+    {
+      "basename": "Tensorboard",
+      "path": "MLOps/Monitoring/Tensorboard.md"
+    },
+    {
+      "basename": "Weights & Biases",
+      "path": "MLOps/Monitoring/Weights & Biases.md"
+    },
+    {
+      "basename": "Data Version Control (DVC)",
+      "path": "MLOps/Data Version Control (DVC).md"
+    },
+    {
+      "basename": "Dask",
+      "path": "ETL/Dask.md"
     },
     {
       "basename": "Activations",
@@ -33,40 +117,12 @@
       "path": "DL_framework/Pytorch.md"
     },
     {
-      "basename": "Univa Grid Engine Cluster",
-      "path": "Tools & Libs/Univa Grid Engine Cluster.md"
-    },
-    {
-      "basename": "Misc",
-      "path": "GIT/Misc.md"
-    },
-    {
-      "basename": "Submodules",
-      "path": "GIT/Submodules.md"
-    },
-    {
       "basename": "Authentification",
       "path": "GIT/Authentification.md"
     },
     {
-      "basename": "Merge , Rebase",
-      "path": "GIT/Merge , Rebase.md"
-    },
-    {
       "basename": "Hydra",
       "path": "MLOps/Hydra.md"
-    },
-    {
-      "basename": "Data Version Control (DVC)",
-      "path": "MLOps/Data Version Control (DVC).md"
-    },
-    {
-      "basename": "MLflow",
-      "path": "MLOps/Monitoring/MLflow.md"
-    },
-    {
-      "basename": "Yellowbrick",
-      "path": "Tools & Libs/Yellowbrick.md"
     },
     {
       "basename": "Deploy",
@@ -139,66 +195,6 @@
     {
       "basename": "CloudForamtion",
       "path": "figures/CloudForamtion.png"
-    },
-    {
-      "basename": "Lambda",
-      "path": "AWS/Lambda.md"
-    },
-    {
-      "basename": "ECS",
-      "path": "AWS/ECS.md"
-    },
-    {
-      "basename": "VPC",
-      "path": "AWS/VPC.md"
-    },
-    {
-      "basename": "AWS Fargate",
-      "path": "AWS/AWS Fargate.md"
-    },
-    {
-      "basename": "SAM",
-      "path": "AWS/SAM.md"
-    },
-    {
-      "basename": "Tuning cookbook",
-      "path": "ML/Tuning cookbook.md"
-    },
-    {
-      "basename": "DATA",
-      "path": "ETL/DATA.md"
-    },
-    {
-      "basename": "Tensorflow",
-      "path": "DL_framework/Tensorflow.md"
-    },
-    {
-      "basename": "DL Frameworks",
-      "path": "DL_framework/DL Frameworks.md"
-    },
-    {
-      "basename": "scikit-learn",
-      "path": "DL_framework/scikit-learn.md"
-    },
-    {
-      "basename": "Keras",
-      "path": "DL_framework/Keras.md"
-    },
-    {
-      "basename": "Terminal utils",
-      "path": "OS/Terminal utils.md"
-    },
-    {
-      "basename": "t-SNE",
-      "path": "ML/t-SNE.md"
-    },
-    {
-      "basename": "The Gradient Descent",
-      "path": "ML/The Gradient Descent.md"
-    },
-    {
-      "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
     }
   ],
   "omittedPaths": [],

@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "785e8b90b6b00485",
+            "id": "3c365c807619bfdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools & Libs/Python env.md",
+                "file": "Tools & Libs/Prompt with LLMs.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "997c5817820aca35",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 287.5
   },
   "right": {
     "id": "2b5e2d003146216d",
@@ -109,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools & Libs/Python env.md",
+                "file": "Tools & Libs/Prompt with LLMs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools & Libs/Python env.md",
+                "file": "Tools & Libs/Prompt with LLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +131,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -149,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools & Libs/Python env.md"
+                "file": "Tools & Libs/Prompt with LLMs.md"
               }
             }
           },
@@ -170,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,41 +183,44 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "785e8b90b6b00485",
+  "active": "3c365c807619bfdd",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Python/Exception & Error Handling.md",
+    "Tools & Libs/Prompt with LLMs.md",
+    "ML/Cross-Validation.md",
+    "figures/Exception & Error Handling-2.png",
+    "figures/Exception & Error Handling-1.png",
+    "figures/Exception & Error Handling.png",
+    "Tools & Libs/Yellowbrick.md",
     "Tools & Libs/Python env.md",
+    "Tools & Libs/Univa Grid Engine Cluster.md",
+    "GIT/Misc.md",
+    "GIT/Submodules.md",
+    "GIT/Merge , Rebase.md",
+    "ETL/Pandas/DataFrame.md",
+    "ETL/Pandas/Basic Ops.md",
+    "Multiprocessing",
+    "ML/The Gradient Descent.md",
+    "ML/Time-Series.md",
+    "ML/Tuning cookbook.md",
+    "DL_framework/scikit-learn.md",
+    "MLOps/Monitoring/MLflow.md",
+    "MLOps/Monitoring/Tensorboard.md",
+    "MLOps/Monitoring/Weights & Biases.md",
+    "MLOps/Data Version Control (DVC).md",
+    "ETL/Dask.md",
     "ML/Activations.md",
     "ML/Classification.md",
     "ML/Statistical Techniques.md",
     "ML/Regularization Techniques.md",
     "ML/Metrics.md",
-    "ML/ML.md",
-    "DL_framework/Pytorch.md",
-    "Tools & Libs/Univa Grid Engine Cluster.md",
-    "GIT/Misc.md",
-    "GIT/Submodules.md",
-    "GIT/Authentification.md",
-    "GIT/Merge , Rebase.md",
-    "MLOps/Hydra.md",
-    "MLOps/Data Version Control (DVC).md",
-    "MLOps/Monitoring/MLflow.md",
-    "Tools & Libs/Yellowbrick.md",
-    "AWS/SageMaker/Deploy.md",
     "figures/Deploy-1.png",
     "figures/Deploy.png",
-    "AWS/SageMaker/Scikit-learn with SageMaker.md",
-    "AWS/SageMaker/SagerMaker.md",
-    "AWS/SageMaker/SageMaker Pipelines.md",
-    "AWS/SageMaker/SageMaker Experiments.md",
-    "ETL/Visualization/Bokeh.md",
-    "ETL/ETL.md",
-    "Tools & Libs/VIM.md",
-    "AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md",
     "figures/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).png",
     "figures/SageMaker Experiments.png",
     "figures/Outliers.png",
     "figures/CloudForamtion.png",
-    "figures/CloudForamtion 1.png",
-    "figures/CloudForamtion-1.png"
+    "figures/CloudForamtion 1.png"
   ]
 }

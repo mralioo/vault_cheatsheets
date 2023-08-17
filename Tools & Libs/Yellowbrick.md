@@ -4,7 +4,6 @@
 * ## Rank 1D
 * ## Rank 2D
 * ## [Parallel Coordinates](https://www.scikit-yb.org/en/latest/api/features/pcoords.html#parallel-coordinates "Permalink to this heading")
-* 
 
 ## [Multi-class ROCAUC Curves](https://www.scikit-yb.org/en/latest/api/classifier/rocauc.html#multi-class-rocauc-curves "Permalink to this heading")
 
