@@ -3,6 +3,8 @@
 # Jobs
 
 From SGD to SLURM : https://github.com/aws/aws-parallelcluster/wiki/Transition-from-SGE-to-SLURM
+
+[SLURM CHEATING CARD](https://git.tu-berlin.de/ml-group/hydra/documentation/-/blob/main/cheating-card.md)
 ## Single job
 
 
@@ -24,11 +26,29 @@ sbatch --array=1-10 cpu_job.sh
 
 # Extra 
 
+
+* Interactive session
+
 ```shell
 srun --partition=cpu-2h --pty bash
 ```
 
+* List all running jobs for a user
+```shell
+squeue -u USERNAME -t RUNNING
+```
 
+* List detailed information for a job (useful for troubleshooting)
+
+```shell
+scontrol show jobid -dd JOBID
+```
+
+
+* Get priority of a job
+```shell
+sprio -j JOBID
+```
 
 ## Apptainer
 
@@ -62,11 +82,29 @@ squash-dataset ./S1_test/ ~/MA_BCI/squashfs_smr_data/Subj_1_test.sqfs
 ## MLFlow
 
 
+launch MLflow UI on remote server with port forwarding
+
+
+```shell
+ssh -L 5009:localhost:5009 ali_alouane@hydra.ml.tu-berlin.de "sh activate_env.sh; conda activate bbcpy_automl;mlflow ui --backend-store-uri file:///$HOME/MA_BCI/bbcpy_AutoML/logs/mlflow/ --port 5009"
+```
+
+~/MA_BCI/bbcpy_AutoML/logs/mlflow
+
+--backend-store-uri file:///$HOME/MA_BCI/bbcpy_AutoML/logs/mlflow/
 
 ```shell
 ssh -N -L 5000:localhost:5000 ali_alouane@hydra.ml.tu-berlin.de
 ```
 
 
-``
+```shell
+mlflow ui --port 5005 
+```
 
+``
+* Check if port is used 
+
+```shell
+netstat -tuln | grep <mlflow_port>
+```

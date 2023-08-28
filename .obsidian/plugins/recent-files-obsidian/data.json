@@ -5,6 +5,26 @@
       "path": "Tools & Libs/SLURM.md"
     },
     {
+      "basename": "Exception & Error Handling",
+      "path": "Python/Exception & Error Handling.md"
+    },
+    {
+      "basename": "Prompt with LLMs",
+      "path": "Tools & Libs/Prompt with LLMs.md"
+    },
+    {
+      "basename": "MLflow",
+      "path": "MLOps/Monitoring/MLflow.md"
+    },
+    {
+      "basename": "Tensorboard",
+      "path": "MLOps/Monitoring/Tensorboard.md"
+    },
+    {
+      "basename": "Weights & Biases",
+      "path": "MLOps/Monitoring/Weights & Biases.md"
+    },
+    {
       "basename": "VIM",
       "path": "Tools & Libs/VIM.md"
     },
@@ -17,20 +37,12 @@
       "path": "Tools & Libs/Python env.md"
     },
     {
-      "basename": "Exception & Error Handling",
-      "path": "Python/Exception & Error Handling.md"
-    },
-    {
       "basename": "VIMsheet",
       "path": "Tools & Libs/VIMsheet.md"
     },
     {
       "basename": "Bascis Linux",
       "path": "OS/Bascis Linux.md"
-    },
-    {
-      "basename": "Prompt with LLMs",
-      "path": "Tools & Libs/Prompt with LLMs.md"
     },
     {
       "basename": "Nano",
@@ -95,18 +107,6 @@
     {
       "basename": "scikit-learn",
       "path": "DL_framework/scikit-learn.md"
-    },
-    {
-      "basename": "MLflow",
-      "path": "MLOps/Monitoring/MLflow.md"
-    },
-    {
-      "basename": "Tensorboard",
-      "path": "MLOps/Monitoring/Tensorboard.md"
-    },
-    {
-      "basename": "Weights & Biases",
-      "path": "MLOps/Monitoring/Weights & Biases.md"
     },
     {
       "basename": "Data Version Control (DVC)",
