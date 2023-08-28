@@ -1,3 +1,5 @@
+
+
 ### [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/) 
 
 is kind of programming language, keystrokes (with mnemonic names) are commands, and these commands are composable.
@@ -95,3 +97,9 @@ You can use modifiers to change the meaning of a noun. Some modifiers are `i`, 
 
 
 ## Resources 
+
+* https://vimsheet.com/
+* https://devhints.io/vim
+* https://devhints.io/
+
+

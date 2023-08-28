@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1156596bd5112e37",
+        "id": "b375ec80fc854af1",
         "type": "tabs",
         "children": [
           {
-            "id": "3c365c807619bfdd",
+            "id": "e9ce858db0e65a23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools & Libs/Prompt with LLMs.md",
+                "file": "Tools & Libs/SLURM.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "visu",
+                "query": "tag:#Shortcuts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools & Libs/Prompt with LLMs.md",
+                "file": "Tools & Libs/SLURM.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools & Libs/Prompt with LLMs.md",
+                "file": "Tools & Libs/SLURM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools & Libs/Prompt with LLMs.md"
+                "file": "Tools & Libs/SLURM.md"
               }
             }
           },
@@ -183,20 +183,29 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3c365c807619bfdd",
+  "active": "e9ce858db0e65a23",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Tools & Libs/VIM.md",
+    "GIT/Submodules.md",
+    "Tools & Libs/Python env.md",
     "Python/Exception & Error Handling.md",
+    "Tools & Libs/VIMsheet.md",
+    "OS/Bascis Linux.md",
+    "Tools & Libs/SLURM.md",
     "Tools & Libs/Prompt with LLMs.md",
+    "Tools & Libs/Nano.md",
+    "OS/Terminal utils.md",
+    "Tools & Libs/SSH.md",
+    "().md",
+    "Tools & Libs/VIM-best.md",
+    "Tools & Libs/Yellowbrick.md",
+    "OS/Data Warngling.md",
+    "Untitled.canvas",
     "ML/Cross-Validation.md",
     "figures/Exception & Error Handling-2.png",
     "figures/Exception & Error Handling-1.png",
     "figures/Exception & Error Handling.png",
-    "Tools & Libs/Yellowbrick.md",
-    "Tools & Libs/Python env.md",
-    "Tools & Libs/Univa Grid Engine Cluster.md",
     "GIT/Misc.md",
-    "GIT/Submodules.md",
     "GIT/Merge , Rebase.md",
     "ETL/Pandas/DataFrame.md",
     "ETL/Pandas/Basic Ops.md",
@@ -207,14 +216,6 @@
     "DL_framework/scikit-learn.md",
     "MLOps/Monitoring/MLflow.md",
     "MLOps/Monitoring/Tensorboard.md",
-    "MLOps/Monitoring/Weights & Biases.md",
-    "MLOps/Data Version Control (DVC).md",
-    "ETL/Dask.md",
-    "ML/Activations.md",
-    "ML/Classification.md",
-    "ML/Statistical Techniques.md",
-    "ML/Regularization Techniques.md",
-    "ML/Metrics.md",
     "figures/Deploy-1.png",
     "figures/Deploy.png",
     "figures/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).png",
