@@ -82,7 +82,7 @@ squash-dataset ./S1_test/ ~/MA_BCI/squashfs_smr_data/Subj_1_test.sqfs
 ## MLFlow
 
 
-launch MLflow UI on remote server with port forwarding
+* Launch MLflow UI on remote server with port forwarding
 
 
 ```shell
@@ -108,3 +108,37 @@ mlflow ui --port 5005
 ```shell
 netstat -tuln | grep <mlflow_port>
 ```
+
+
+```shell
+\\sshfs\ali_alouane@hydra.ml.tu-berlin.de!22\home\ali_alouane\MA_BCI\bbcpy_AutoML\logs
+
+```
+
+
+
+* Copy folder with scp   
+
+```shell
+
+scp -r ali_alouane@hydra.ml.tu-berlin.de:~/MA_BCI/bbcpy_AutoML/logs/mlflow/ Desktop/MA/
+
+```
+
+```shell
+
+sshfs ali_alouane@hydra.ml.tu-berlin.de:/home/ali_alouane/MA_BCI/bbcpy_AutoML/logs/mlflow ./
+
+```
+
+```shell
+
+mlflow server --default-artifact-root sftp://ali_alouane@hydra.ml.tu-berlin.de:/home/ali_alouane/MA_BCI/bbcpy_AutoML/logs/mlflow/mlruns 
+
+```
+
+```shell
+mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts --host 0.0.0.0
+```
+
+
