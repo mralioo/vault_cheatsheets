@@ -5,8 +5,88 @@
       "path": "Tools & Libs/SLURM.md"
     },
     {
+      "basename": "Submodules",
+      "path": "GIT/Submodules.md"
+    },
+    {
+      "basename": "Merge , Rebase",
+      "path": "GIT/Merge , Rebase.md"
+    },
+    {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "Classification",
+      "path": "ML/Classification.md"
+    },
+    {
+      "basename": "Keras",
+      "path": "DL_framework/Keras.md"
+    },
+    {
+      "basename": "The Gradient Descent",
+      "path": "ML/The Gradient Descent.md"
+    },
+    {
+      "basename": "t-SNE",
+      "path": "ML/t-SNE.md"
+    },
+    {
+      "basename": "Regularization Techniques",
+      "path": "ML/Regularization Techniques.md"
+    },
+    {
+      "basename": "Pytorch-Lightning",
+      "path": "ML/Pytorch-Lightning.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/PCA.md"
+    },
+    {
+      "basename": "ML",
+      "path": "ML/ML.md"
+    },
+    {
+      "basename": "Metrics",
+      "path": "ML/Metrics.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Supervised Learning/Transformers.md"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "ML/Supervised Learning/XGBoost.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
       "basename": "Exception & Error Handling",
       "path": "Python/Exception & Error Handling.md"
+    },
+    {
+      "basename": "Python env",
+      "path": "Tools & Libs/Python env.md"
+    },
+    {
+      "basename": "Bascis Linux",
+      "path": "OS/Bascis Linux.md"
+    },
+    {
+      "basename": "Memory Usage",
+      "path": "Python/Memory Usage.md"
+    },
+    {
+      "basename": "Terminal utils",
+      "path": "OS/Terminal utils.md"
     },
     {
       "basename": "Prompt with LLMs",
@@ -29,28 +109,12 @@
       "path": "Tools & Libs/VIM.md"
     },
     {
-      "basename": "Submodules",
-      "path": "GIT/Submodules.md"
-    },
-    {
-      "basename": "Python env",
-      "path": "Tools & Libs/Python env.md"
-    },
-    {
       "basename": "VIMsheet",
       "path": "Tools & Libs/VIMsheet.md"
     },
     {
-      "basename": "Bascis Linux",
-      "path": "OS/Bascis Linux.md"
-    },
-    {
       "basename": "Nano",
       "path": "Tools & Libs/Nano.md"
-    },
-    {
-      "basename": "Terminal utils",
-      "path": "OS/Terminal utils.md"
     },
     {
       "basename": "SSH",
@@ -69,16 +133,8 @@
       "path": "figures/Exception & Error Handling-2.png"
     },
     {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
-    },
-    {
       "basename": "Misc",
       "path": "GIT/Misc.md"
-    },
-    {
-      "basename": "Merge , Rebase",
-      "path": "GIT/Merge , Rebase.md"
     },
     {
       "basename": "DataFrame",
@@ -91,10 +147,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "The Gradient Descent",
-      "path": "ML/The Gradient Descent.md"
     },
     {
       "basename": "Time-Series",
@@ -115,30 +167,6 @@
     {
       "basename": "Dask",
       "path": "ETL/Dask.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
-      "basename": "Classification",
-      "path": "ML/Classification.md"
-    },
-    {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
-    },
-    {
-      "basename": "Regularization Techniques",
-      "path": "ML/Regularization Techniques.md"
-    },
-    {
-      "basename": "Metrics",
-      "path": "ML/Metrics.md"
-    },
-    {
-      "basename": "ML",
-      "path": "ML/ML.md"
     },
     {
       "basename": "Pytorch",
@@ -171,30 +199,6 @@
     {
       "basename": "SageMaker Experiments",
       "path": "AWS/SageMaker/SageMaker Experiments.md"
-    },
-    {
-      "basename": "Bokeh",
-      "path": "ETL/Visualization/Bokeh.md"
-    },
-    {
-      "basename": "ETL",
-      "path": "ETL/ETL.md"
-    },
-    {
-      "basename": "Mythical Mysfits Containers on AWS Workshop June 2023 (SLA)",
-      "path": "AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md"
-    },
-    {
-      "basename": "SageMaker Experiments",
-      "path": "figures/SageMaker Experiments.png"
-    },
-    {
-      "basename": "Outliers",
-      "path": "ETL/Outliers.md"
-    },
-    {
-      "basename": "XGBoost",
-      "path": "ML/XGBoost.md"
     }
   ],
   "omittedPaths": [],

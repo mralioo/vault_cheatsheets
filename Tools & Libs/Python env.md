@@ -35,6 +35,9 @@ deactivate
 
 	source ven/bin/activate
 
+```python
+pip3 freeze > requirements.txt
+```
 
 ## Add env to ipykernel 
 
