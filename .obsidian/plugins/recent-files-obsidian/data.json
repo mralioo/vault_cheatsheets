@@ -1,8 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "RAG",
+      "path": "ML/LLM/RAG.md"
+    },
+    {
+      "basename": "Open Source Models",
+      "path": "ML/LLM/Open Source Models.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Neural Nets Layers",
+      "path": "ML/Neural Nets Layers.md"
+    },
+    {
+      "basename": "Formatting",
+      "path": "Latex/Formatting.md"
+    },
+    {
+      "basename": "OOP",
+      "path": "Python/OOP.md"
+    },
+    {
+      "basename": "Classen",
+      "path": "Python/Classen.md"
+    },
+    {
+      "basename": "dictionary",
+      "path": "Python/dictionary.md"
+    },
+    {
+      "basename": "Exception & Error Handling",
+      "path": "Python/Exception & Error Handling.md"
+    },
+    {
+      "basename": "numpy",
+      "path": "Python/numpy.md"
+    },
+    {
       "basename": "SLURM",
       "path": "Tools & Libs/SLURM.md"
+    },
+    {
+      "basename": "Drawing 2023-11-15 10.48.34.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-15 10.48.34.excalidraw.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "ML/RL/Resources.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Supervised Learning/Transformers.md"
+    },
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "Pytorch-Lightning",
+      "path": "ML/Pytorch-Lightning.md"
+    },
+    {
+      "basename": "Regularization Techniques",
+      "path": "ML/Regularization Techniques.md"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
+    },
+    {
+      "basename": "ML",
+      "path": "figures/ML.jpg"
+    },
+    {
+      "basename": "ML",
+      "path": "ML/ML.md"
+    },
+    {
+      "basename": "Features Selection",
+      "path": "ML/Features Selection.md"
+    },
+    {
+      "basename": "Transformers-3",
+      "path": "figures/Transformers-3.png"
+    },
+    {
+      "basename": "Weights & Biases",
+      "path": "figures/Weights & Biases.png"
+    },
+    {
+      "basename": "Transformers-2",
+      "path": "figures/Transformers-2.png"
+    },
+    {
+      "basename": "Transformers-1",
+      "path": "figures/Transformers-1.png"
+    },
+    {
+      "basename": "LSTM",
+      "path": "ML/Supervised Learning/LSTM.md"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "ML/XGBoost.md"
     },
     {
       "basename": "Submodules",
@@ -15,10 +123,6 @@
     {
       "basename": "Activations",
       "path": "ML/Activations.md"
-    },
-    {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
     },
     {
       "basename": "Classification",
@@ -37,40 +141,16 @@
       "path": "ML/t-SNE.md"
     },
     {
-      "basename": "Regularization Techniques",
-      "path": "ML/Regularization Techniques.md"
-    },
-    {
-      "basename": "Pytorch-Lightning",
-      "path": "ML/Pytorch-Lightning.md"
-    },
-    {
       "basename": "PCA",
       "path": "ML/PCA.md"
-    },
-    {
-      "basename": "ML",
-      "path": "ML/ML.md"
     },
     {
       "basename": "Metrics",
       "path": "ML/Metrics.md"
     },
     {
-      "basename": "Transformers",
-      "path": "ML/Supervised Learning/Transformers.md"
-    },
-    {
-      "basename": "XGBoost",
-      "path": "ML/Supervised Learning/XGBoost.md"
-    },
-    {
       "basename": "Cross-Validation",
       "path": "ML/Cross-Validation.md"
-    },
-    {
-      "basename": "Exception & Error Handling",
-      "path": "Python/Exception & Error Handling.md"
     },
     {
       "basename": "Python env",
@@ -119,86 +199,6 @@
     {
       "basename": "SSH",
       "path": "Tools & Libs/SSH.md"
-    },
-    {
-      "basename": "Yellowbrick",
-      "path": "Tools & Libs/Yellowbrick.md"
-    },
-    {
-      "basename": "Data Warngling",
-      "path": "OS/Data Warngling.md"
-    },
-    {
-      "basename": "Exception & Error Handling-2",
-      "path": "figures/Exception & Error Handling-2.png"
-    },
-    {
-      "basename": "Misc",
-      "path": "GIT/Misc.md"
-    },
-    {
-      "basename": "DataFrame",
-      "path": "ETL/Pandas/DataFrame.md"
-    },
-    {
-      "basename": "Basic Ops",
-      "path": "ETL/Pandas/Basic Ops.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
-    },
-    {
-      "basename": "Tuning cookbook",
-      "path": "ML/Tuning cookbook.md"
-    },
-    {
-      "basename": "scikit-learn",
-      "path": "DL_framework/scikit-learn.md"
-    },
-    {
-      "basename": "Data Version Control (DVC)",
-      "path": "MLOps/Data Version Control (DVC).md"
-    },
-    {
-      "basename": "Dask",
-      "path": "ETL/Dask.md"
-    },
-    {
-      "basename": "Pytorch",
-      "path": "DL_framework/Pytorch.md"
-    },
-    {
-      "basename": "Authentification",
-      "path": "GIT/Authentification.md"
-    },
-    {
-      "basename": "Hydra",
-      "path": "MLOps/Hydra.md"
-    },
-    {
-      "basename": "Deploy",
-      "path": "AWS/SageMaker/Deploy.md"
-    },
-    {
-      "basename": "Scikit-learn with SageMaker",
-      "path": "AWS/SageMaker/Scikit-learn with SageMaker.md"
-    },
-    {
-      "basename": "SagerMaker",
-      "path": "AWS/SageMaker/SagerMaker.md"
-    },
-    {
-      "basename": "SageMaker Pipelines",
-      "path": "AWS/SageMaker/SageMaker Pipelines.md"
-    },
-    {
-      "basename": "SageMaker Experiments",
-      "path": "AWS/SageMaker/SageMaker Experiments.md"
     }
   ],
   "omittedPaths": [],

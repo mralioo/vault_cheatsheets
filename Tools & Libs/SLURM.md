@@ -1,5 +1,3 @@
-
-
 # Jobs
 
 From SGD to SLURM : https://github.com/aws/aws-parallelcluster/wiki/Transition-from-SGE-to-SLURM
@@ -71,7 +69,7 @@ scancel -u USERNAME
 * Create apptainer image container
 
 ```shell
-apptainer build bbcpy_env_1.sif update_env.def
+apptainer build bbcpy_env_1.sif new.def
 ```
 
 * Test created image on cpu
@@ -97,6 +95,11 @@ srun --partition=gpu-test --gpus=1 --pty bash
 
 ```shell
 apptainer run --nv bbcpy_en.sif python -c "import mlflow; print(mlflow.__version__)"
+```
+
+```Shell
+apptainer run --nv bbcpy_env.sif python -c "import sqlalchemy; print(sqlalchemy.__version__)"
+
 ```
 
 1

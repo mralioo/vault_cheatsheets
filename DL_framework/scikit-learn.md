@@ -1,4 +1,4 @@
-![[ML_algorithms.pdf]]
+![[../ML/Resources-pdfs/ML_algorithms.pdf]]
 
 
 ## GridSearchCV
