@@ -1,10 +1,13 @@
 # Cheat-sheets
+Welcome to my personal collection of useful cheat sheets and notes!
 
-My personal collection of useful cheat sheet and notes.  
+🏗️ This collection is constantly evolving and contains summaries of valuable articles, forum answers, and blogs.
 
-🏗️ The collection is always changing, and contains summary of useful articles, forum answers and blog. <br>
-©️  I provide the reference links from the original sources. <br>
-💫 I used [obsidian](https://obsidian.md/) as Markdown editor (dynamic graph view)
+©️ I provide reference links to the original sources for further exploration.
+
+💫 Created using Obsidian as a Markdown editor with dynamic graph view.
+
+Feel free to explore and utilize these resources to enhance your understanding and productivity!
 
 
 ## Outline
