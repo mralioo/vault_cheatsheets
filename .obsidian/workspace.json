@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/LLM/RAG.md",
+                "file": "LLM/Courses.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/LLM/RAG.md",
+                "file": "LLM/Courses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/LLM/RAG.md",
+                "file": "LLM/Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/LLM/RAG.md"
+                "file": "LLM/Courses.md"
               }
             }
           },
@@ -223,8 +223,20 @@
   },
   "active": "6558a41f9b573ad1",
   "lastOpenFiles": [
-    "ML/LLM/Open Source Models.md",
+    "Data Engineering/Databases.md",
+    "LLM/Courses.md",
+    "LLM",
+    "figures/Databases.jpg",
+    "Tools & Libs/Mendix.md",
+    "Data Engineering",
+    "Tools & Libs/OpenRelic.md",
+    "figures/Mendix_RAD_process.webp",
+    "figures/Mendix-1.webp",
+    "figures/Mendix.webp",
+    "figures/Mendix.png",
+    "ML/Metrics.md",
     "ML/LLM/RAG.md",
+    "ML/LLM/Open Source Models.md",
     "Untitled.md",
     "README.md",
     "ML/Neural Nets Layers.md",
@@ -251,18 +263,8 @@
     "ML/Regularization Techniques.md",
     "ML/Time-Series.md",
     "local/TODO/2022-10-11.md",
-    "figures/ML.jpg",
-    "ML/ML.md",
     "Excalidraw",
-    "ML/Features Selection.md",
-    "figures/Features Selection.png",
-    "figures/Transformers-3.png",
-    "figures/Weights & Biases.png",
-    "figures/Transformers-2.png",
     "ML/LLM",
-    "ML/Supervised Learning/LSTM.md",
-    "ML/Supervised Learning/XGBoost.md",
-    "ML/XGBoost.md",
     "Untitled.canvas",
     "Multiprocessing"
   ]

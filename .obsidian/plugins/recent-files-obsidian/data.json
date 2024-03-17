@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Courses",
+      "path": "LLM/Courses.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Data Engineering/Databases.md"
+    },
+    {
+      "basename": "Mendix",
+      "path": "Tools & Libs/Mendix.md"
+    },
+    {
+      "basename": "OpenRelic",
+      "path": "Tools & Libs/OpenRelic.md"
+    },
+    {
+      "basename": "Metrics",
+      "path": "ML/Metrics.md"
+    },
+    {
       "basename": "RAG",
       "path": "ML/LLM/RAG.md"
     },
@@ -145,10 +165,6 @@
       "path": "ML/PCA.md"
     },
     {
-      "basename": "Metrics",
-      "path": "ML/Metrics.md"
-    },
-    {
       "basename": "Cross-Validation",
       "path": "ML/Cross-Validation.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Weights & Biases",
       "path": "MLOps/Monitoring/Weights & Biases.md"
-    },
-    {
-      "basename": "VIM",
-      "path": "Tools & Libs/VIM.md"
-    },
-    {
-      "basename": "VIMsheet",
-      "path": "Tools & Libs/VIMsheet.md"
-    },
-    {
-      "basename": "Nano",
-      "path": "Tools & Libs/Nano.md"
-    },
-    {
-      "basename": "SSH",
-      "path": "Tools & Libs/SSH.md"
     }
   ],
   "omittedPaths": [],
