@@ -1,0 +1,7 @@
+Flask==2.3.x  # Web framework
+gunicorn==21.x  # Production WSGI server (optional)
+Jinja2==3.x  # Templating engine
+Werkzeug==2.x  # WSGI utility library
+requests==2.28.x  # Making HTTP requests (optional for APIs)
+SQLAlchemy==1.4.x  # Database interaction (optional)
+psycopg2==3.x  # PostgreSQL database adapter (if using SQLAlchemy)

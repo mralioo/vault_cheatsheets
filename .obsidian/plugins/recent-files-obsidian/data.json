@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Manipulation",
+      "path": "Hackathon Swiss knife/Data Manipulation.md"
+    },
+    {
+      "basename": "Brainstorming",
+      "path": "Hackathon Swiss knife/Brainstorming.md"
+    },
+    {
+      "basename": "Best practises",
+      "path": "Hackathon Swiss knife/Best practises.md"
+    },
+    {
+      "basename": "Hardware",
+      "path": "Hackathon Swiss knife/Hardware.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "1_Blog",
       "path": "Blog posts Drafts/1_Blog.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "Open Source Models",
       "path": "ML/LLM/Open Source Models.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Neural Nets Layers",
@@ -179,18 +195,6 @@
     {
       "basename": "Cross-Validation",
       "path": "ML/Cross-Validation.md"
-    },
-    {
-      "basename": "Python env",
-      "path": "Tools & Libs/Python env.md"
-    },
-    {
-      "basename": "Bascis Linux",
-      "path": "OS/Bascis Linux.md"
-    },
-    {
-      "basename": "Memory Usage",
-      "path": "Python/Memory Usage.md"
     }
   ],
   "omittedPaths": [],
