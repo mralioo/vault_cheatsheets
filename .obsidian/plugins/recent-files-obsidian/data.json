@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "1_Blog",
+      "path": "Blog posts Drafts/1_Blog.md"
+    },
+    {
+      "basename": "0_Topics and Goals",
+      "path": "Blog posts Drafts/0_Topics and Goals.md"
+    },
+    {
+      "basename": "OOP",
+      "path": "Python/OOP.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Courses",
       "path": "LLM/Courses.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Data Engineering/Resources.md"
     },
     {
       "basename": "Databases",
@@ -33,20 +53,12 @@
       "path": "Untitled.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Neural Nets Layers",
       "path": "ML/Neural Nets Layers.md"
     },
     {
       "basename": "Formatting",
       "path": "Latex/Formatting.md"
-    },
-    {
-      "basename": "OOP",
-      "path": "Python/OOP.md"
     },
     {
       "basename": "Classen",
@@ -179,26 +191,6 @@
     {
       "basename": "Memory Usage",
       "path": "Python/Memory Usage.md"
-    },
-    {
-      "basename": "Terminal utils",
-      "path": "OS/Terminal utils.md"
-    },
-    {
-      "basename": "Prompt with LLMs",
-      "path": "Tools & Libs/Prompt with LLMs.md"
-    },
-    {
-      "basename": "MLflow",
-      "path": "MLOps/Monitoring/MLflow.md"
-    },
-    {
-      "basename": "Tensorboard",
-      "path": "MLOps/Monitoring/Tensorboard.md"
-    },
-    {
-      "basename": "Weights & Biases",
-      "path": "MLOps/Monitoring/Weights & Biases.md"
     }
   ],
   "omittedPaths": [],
