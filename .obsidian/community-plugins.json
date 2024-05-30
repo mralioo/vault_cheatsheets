@@ -11,5 +11,7 @@
   "obsidian-paste-image-rename",
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-imgur-plugin",
-  "webpage-html-export"
+  "webpage-html-export",
+  "obsidian-table-generator",
+  "obsidian-plugin-toc"
 ]

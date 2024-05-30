@@ -1,3 +1,5 @@
+#os #linux 
+
 https://quickref.me/ssh.html
 ## Authentification
 

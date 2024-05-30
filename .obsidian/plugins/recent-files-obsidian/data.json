@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Data Manipulation",
-      "path": "Hackathon Swiss knife/Data Manipulation.md"
+      "basename": "Bokeh",
+      "path": "ETL/Visualization/Bokeh.md"
     },
     {
-      "basename": "Brainstorming",
-      "path": "Hackathon Swiss knife/Brainstorming.md"
+      "basename": "ETL",
+      "path": "ETL/ETL.md"
     },
     {
-      "basename": "Best practises",
-      "path": "Hackathon Swiss knife/Best practises.md"
+      "basename": "Yellowbrick",
+      "path": "Tools & Libs/Yellowbrick.md"
     },
     {
-      "basename": "Hardware",
-      "path": "Hackathon Swiss knife/Hardware.md"
+      "basename": "VIMsheet",
+      "path": "Tools & Libs/VIMsheet.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "VIM",
+      "path": "Tools & Libs/VIM.md"
     },
     {
-      "basename": "1_Blog",
-      "path": "Blog posts Drafts/1_Blog.md"
-    },
-    {
-      "basename": "0_Topics and Goals",
-      "path": "Blog posts Drafts/0_Topics and Goals.md"
-    },
-    {
-      "basename": "OOP",
-      "path": "Python/OOP.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Courses",
-      "path": "LLM/Courses.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Data Engineering/Resources.md"
-    },
-    {
-      "basename": "Databases",
-      "path": "Data Engineering/Databases.md"
-    },
-    {
-      "basename": "Mendix",
-      "path": "Tools & Libs/Mendix.md"
-    },
-    {
-      "basename": "OpenRelic",
-      "path": "Tools & Libs/OpenRelic.md"
-    },
-    {
-      "basename": "Metrics",
-      "path": "ML/Metrics.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "ML/LLM/RAG.md"
-    },
-    {
-      "basename": "Open Source Models",
-      "path": "ML/LLM/Open Source Models.md"
-    },
-    {
-      "basename": "Neural Nets Layers",
-      "path": "ML/Neural Nets Layers.md"
-    },
-    {
-      "basename": "Formatting",
-      "path": "Latex/Formatting.md"
-    },
-    {
-      "basename": "Classen",
-      "path": "Python/Classen.md"
-    },
-    {
-      "basename": "dictionary",
-      "path": "Python/dictionary.md"
-    },
-    {
-      "basename": "Exception & Error Handling",
-      "path": "Python/Exception & Error Handling.md"
-    },
-    {
-      "basename": "numpy",
-      "path": "Python/numpy.md"
+      "basename": "SSH",
+      "path": "Tools & Libs/SSH.md"
     },
     {
       "basename": "SLURM",
       "path": "Tools & Libs/SLURM.md"
     },
     {
+      "basename": "Python env",
+      "path": "Tools & Libs/Python env.md"
+    },
+    {
+      "basename": "Prompt with LLMs",
+      "path": "Tools & Libs/Prompt with LLMs.md"
+    },
+    {
+      "basename": "Data Warngling",
+      "path": "OS/Data Warngling.md"
+    },
+    {
+      "basename": "Bascis Linux",
+      "path": "OS/Bascis Linux.md"
+    },
+    {
+      "basename": "Terminal utils",
+      "path": "OS/Terminal utils.md"
+    },
+    {
+      "basename": "Courses",
+      "path": "LLM/Courses.md"
+    },
+    {
+      "basename": "Unstructured Data",
+      "path": "LLM/Unstructured Data.md"
+    },
+    {
+      "basename": "Evaluate LLM",
+      "path": "LLM/Evaluate LLM.md"
+    },
+    {
+      "basename": "Vectara",
+      "path": "LLM/Vectara.md"
+    },
+    {
+      "basename": "Vector Database",
+      "path": "LLM/Vector Database.md"
+    },
+    {
+      "basename": "Embedding",
+      "path": "LLM/Embedding.md"
+    },
+    {
+      "basename": "Mendix",
+      "path": "Tools & Libs/Mendix.md"
+    },
+    {
       "basename": "Drawing 2023-11-15 10.48.34.excalidraw",
       "path": "Excalidraw/Drawing 2023-11-15 10.48.34.excalidraw.md"
     },
     {
-      "basename": "Resources",
-      "path": "ML/RL/Resources.md"
+      "basename": "VPC",
+      "path": "AWS/VPC.md"
     },
     {
-      "basename": "Transformers",
-      "path": "ML/Supervised Learning/Transformers.md"
+      "basename": "SAM",
+      "path": "AWS/SAM.md"
     },
     {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
+      "basename": "Mythical Mysfits Containers on AWS Workshop June 2023 (SLA)",
+      "path": "AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md"
     },
     {
-      "basename": "Pytorch-Lightning",
-      "path": "ML/Pytorch-Lightning.md"
+      "basename": "Lambda",
+      "path": "AWS/Lambda.md"
     },
     {
-      "basename": "Regularization Techniques",
-      "path": "ML/Regularization Techniques.md"
+      "basename": "ECS",
+      "path": "AWS/ECS.md"
     },
     {
-      "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
+      "basename": "Deploy",
+      "path": "AWS/SageMaker/Deploy.md"
     },
     {
-      "basename": "ML",
-      "path": "figures/ML.jpg"
+      "basename": "AWS Fargate",
+      "path": "AWS/AWS Fargate.md"
     },
     {
-      "basename": "ML",
-      "path": "ML/ML.md"
+      "basename": "Scikit-learn with SageMaker",
+      "path": "AWS/SageMaker/Scikit-learn with SageMaker.md"
     },
     {
-      "basename": "Features Selection",
-      "path": "ML/Features Selection.md"
+      "basename": "SagerMaker",
+      "path": "AWS/SageMaker/SagerMaker.md"
     },
     {
-      "basename": "Transformers-3",
-      "path": "figures/Transformers-3.png"
+      "basename": "Pipelines",
+      "path": "AWS/SageMaker/Pipelines.md"
+    },
+    {
+      "basename": "Experiments",
+      "path": "AWS/SageMaker/Experiments.md"
+    },
+    {
+      "basename": "Hydra",
+      "path": "MLOps/Hydra.md"
+    },
+    {
+      "basename": "DVC",
+      "path": "MLOps/DVC.md"
     },
     {
       "basename": "Weights & Biases",
-      "path": "figures/Weights & Biases.png"
+      "path": "MLOps/Monitoring/Weights & Biases.md"
     },
     {
-      "basename": "Transformers-2",
-      "path": "figures/Transformers-2.png"
+      "basename": "Tensorboard",
+      "path": "MLOps/Monitoring/Tensorboard.md"
     },
     {
-      "basename": "Transformers-1",
-      "path": "figures/Transformers-1.png"
+      "basename": "MLflow",
+      "path": "MLOps/Monitoring/MLflow.md"
     },
     {
-      "basename": "LSTM",
-      "path": "ML/Supervised Learning/LSTM.md"
-    },
-    {
-      "basename": "XGBoost",
-      "path": "ML/XGBoost.md"
-    },
-    {
-      "basename": "Submodules",
-      "path": "GIT/Submodules.md"
-    },
-    {
-      "basename": "Merge , Rebase",
-      "path": "GIT/Merge , Rebase.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
-      "basename": "Classification",
-      "path": "ML/Classification.md"
+      "basename": "DL Frameworks",
+      "path": "DL_framework/DL Frameworks.md"
     },
     {
       "basename": "Keras",
       "path": "DL_framework/Keras.md"
     },
     {
-      "basename": "The Gradient Descent",
-      "path": "ML/The Gradient Descent.md"
+      "basename": "Authentification",
+      "path": "GIT/Authentification.md"
     },
     {
-      "basename": "t-SNE",
-      "path": "ML/t-SNE.md"
+      "basename": "Merge , Rebase",
+      "path": "GIT/Merge , Rebase.md"
     },
     {
-      "basename": "PCA",
-      "path": "ML/PCA.md"
+      "basename": "Misc",
+      "path": "GIT/Misc.md"
     },
     {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
+      "basename": "Submodules",
+      "path": "GIT/Submodules.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "AI Sessions/Docker.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Data Engineering/Databases.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Data Engineering/Resources.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Data Structures & Algorithms/Resources.md"
+    },
+    {
+      "basename": "Big O",
+      "path": "Data Structures & Algorithms/Big O.md"
+    },
+    {
+      "basename": "Pytorch",
+      "path": "DL_framework/Pytorch.md"
+    },
+    {
+      "basename": "scikit-learn",
+      "path": "DL_framework/scikit-learn.md"
+    },
+    {
+      "basename": "Tensorflow",
+      "path": "DL_framework/Tensorflow.md"
     }
   ],
   "omittedPaths": [],

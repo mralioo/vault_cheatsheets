@@ -1,6 +1,5 @@
 
-[ref](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/)
-https://docs.databricks.com/_static/notebooks/mlflow/mlflow-quick-start-training.html
+#datascience #monitoring
 
 ## Intro 
 
@@ -48,3 +47,7 @@ MLflow tracking is based on two concepts, _experiments_ and _runs_:
 
 
 
+## Resources 
+
+[ref](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/)
+https://docs.databricks.com/_static/notebooks/mlflow/mlflow-quick-start-training.html

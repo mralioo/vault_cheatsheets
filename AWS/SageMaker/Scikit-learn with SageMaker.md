@@ -1,3 +1,6 @@
+#scikt-learn #machinelearning #aws #experiment 
+
+
 To train a Scikit-learn model by using the SageMaker Python SDK:
 
 1.  [Prepare a training script](https://sagemaker.readthedocs.io/en/stable/frameworks/sklearn/using_sklearn.html#prepare-a-scikit-learn-training-script)
@@ -10,6 +13,7 @@ To train a Scikit-learn model by using the SageMaker Python SDK:
 
 ## deploy model from tar.gz
 
+#deploy
 
 To deploy the model, first create a class with at least four required methods:
 
