@@ -1,3 +1,4 @@
+#datascience #aws #experiment #mlops 
 ## Training with TensorFlow 
 
 1.  [Prepare a training script](https://sagemaker.readthedocs.io/en/stable/frameworks/tensorflow/using_tf.html#prepare-a-training-script)

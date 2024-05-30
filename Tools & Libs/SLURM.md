@@ -1,3 +1,4 @@
+#os
 # Jobs
 
 From SGD to SLURM : https://github.com/aws/aws-parallelcluster/wiki/Transition-from-SGE-to-SLURM

@@ -1,3 +1,4 @@
+#os #linux
 # Conda 
 
 ```shell 

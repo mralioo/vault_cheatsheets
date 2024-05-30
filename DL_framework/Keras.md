@@ -1,4 +1,7 @@
+#datascience #machinelearning 
 ## Save and load models
+
+#deploy 
 
 [ref_1](https://www.tensorflow.org/guide/keras/save_and_serialize)
 [ref_2](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
