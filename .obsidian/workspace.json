@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETL/Visualization/Bokeh.md",
+                "file": "Cloud services/Azure/vCore-based.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETL/Visualization/Bokeh.md",
+                "file": "Cloud services/Azure/vCore-based.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETL/Visualization/Bokeh.md",
+                "file": "Cloud services/Azure/vCore-based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETL/Visualization/Bokeh.md"
+                "file": "Cloud services/Azure/vCore-based.md"
               }
             }
           },
@@ -214,6 +213,21 @@
   },
   "active": "2b436452d314a757",
   "lastOpenFiles": [
+    "Cloud services/Azure/Azure OpenAI.md",
+    "Cloud services/Azure/vCore-based.md",
+    "Cloud services/Azure/Copilot.md",
+    "figures/Copilot.png",
+    "Cloud services/Azure/Cosmos DB.md",
+    "Technical Interview/Problem Solving.md",
+    "Cloud services",
+    "Cloud services/Azure",
+    "Data Structures & Algorithms/Big O.md",
+    "figures/Big O-3.png",
+    "Data Structures & Algorithms/Resources.md",
+    "Python/Exception & Error Handling.md",
+    "Technical Interview",
+    "AI Sessions/Docker.md",
+    "ETL/Visualization/Bokeh.md",
     "ETL/ETL.md",
     "Tools & Libs/Yellowbrick.md",
     "Tools & Libs/VIMsheet.md",
@@ -230,16 +244,6 @@
     "LLM/Evaluate LLM.md",
     "LLM/Vectara.md",
     "LLM/Vector Database.md",
-    "LLM/Embedding.md",
-    "Tools & Libs/Mendix.md",
-    "Excalidraw/Drawing 2023-11-15 10.48.34.excalidraw.md",
-    "AWS/VPC.md",
-    "AWS/SAM.md",
-    "AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md",
-    "AWS/Lambda.md",
-    "AWS/ECS.md",
-    "AWS/SageMaker/Deploy.md",
-    "AWS/AWS Fargate.md",
     "Writing",
     "AI Sessions/Untitled",
     "figures/Deploy.png",
@@ -254,12 +258,7 @@
     "Data Structures & Algorithms/Algorithms",
     "Data Structures & Algorithms/Data Structures",
     "Hackathon Swiss knife/python_envs/rl_env.txt",
-    "Hackathon Swiss knife/python_envs/New Text Document.txt",
-    "Hackathon Swiss knife/python_envs/robotics_env.txt",
-    "Hackathon Swiss knife/python_envs/CV_env.txt",
     "Untitled.canvas",
-    "figures/Databases.jpg",
-    "figures/Mendix_RAD_process.webp",
-    "figures/Mendix-1.webp"
+    "figures/Databases.jpg"
   ]
 }

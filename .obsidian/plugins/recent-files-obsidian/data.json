@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "vCore-based",
+      "path": "Cloud services/Azure/vCore-based.md"
+    },
+    {
+      "basename": "Azure OpenAI",
+      "path": "Cloud services/Azure/Azure OpenAI.md"
+    },
+    {
+      "basename": "Copilot",
+      "path": "Cloud services/Azure/Copilot.md"
+    },
+    {
+      "basename": "Cosmos DB",
+      "path": "Cloud services/Azure/Cosmos DB.md"
+    },
+    {
+      "basename": "Problem Solving",
+      "path": "Technical Interview/Problem Solving.md"
+    },
+    {
+      "basename": "Big O",
+      "path": "Data Structures & Algorithms/Big O.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Data Structures & Algorithms/Resources.md"
+    },
+    {
+      "basename": "Exception & Error Handling",
+      "path": "Python/Exception & Error Handling.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "AI Sessions/Docker.md"
+    },
+    {
       "basename": "Bokeh",
       "path": "ETL/Visualization/Bokeh.md"
     },
@@ -82,47 +118,47 @@
     },
     {
       "basename": "VPC",
-      "path": "AWS/VPC.md"
+      "path": "Cloud services/AWS/VPC.md"
     },
     {
       "basename": "SAM",
-      "path": "AWS/SAM.md"
+      "path": "Cloud services/AWS/SAM.md"
     },
     {
       "basename": "Mythical Mysfits Containers on AWS Workshop June 2023 (SLA)",
-      "path": "AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md"
+      "path": "Cloud services/AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md"
     },
     {
       "basename": "Lambda",
-      "path": "AWS/Lambda.md"
+      "path": "Cloud services/AWS/Lambda.md"
     },
     {
       "basename": "ECS",
-      "path": "AWS/ECS.md"
+      "path": "Cloud services/AWS/ECS.md"
     },
     {
       "basename": "Deploy",
-      "path": "AWS/SageMaker/Deploy.md"
+      "path": "Cloud services/AWS/SageMaker/Deploy.md"
     },
     {
       "basename": "AWS Fargate",
-      "path": "AWS/AWS Fargate.md"
+      "path": "Cloud services/AWS/AWS Fargate.md"
     },
     {
       "basename": "Scikit-learn with SageMaker",
-      "path": "AWS/SageMaker/Scikit-learn with SageMaker.md"
+      "path": "Cloud services/AWS/SageMaker/Scikit-learn with SageMaker.md"
     },
     {
       "basename": "SagerMaker",
-      "path": "AWS/SageMaker/SagerMaker.md"
+      "path": "Cloud services/AWS/SageMaker/SagerMaker.md"
     },
     {
       "basename": "Pipelines",
-      "path": "AWS/SageMaker/Pipelines.md"
+      "path": "Cloud services/AWS/SageMaker/Pipelines.md"
     },
     {
       "basename": "Experiments",
-      "path": "AWS/SageMaker/Experiments.md"
+      "path": "Cloud services/AWS/SageMaker/Experiments.md"
     },
     {
       "basename": "Hydra",
@@ -163,42 +199,6 @@
     {
       "basename": "Misc",
       "path": "GIT/Misc.md"
-    },
-    {
-      "basename": "Submodules",
-      "path": "GIT/Submodules.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "AI Sessions/Docker.md"
-    },
-    {
-      "basename": "Databases",
-      "path": "Data Engineering/Databases.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Data Engineering/Resources.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Data Structures & Algorithms/Resources.md"
-    },
-    {
-      "basename": "Big O",
-      "path": "Data Structures & Algorithms/Big O.md"
-    },
-    {
-      "basename": "Pytorch",
-      "path": "DL_framework/Pytorch.md"
-    },
-    {
-      "basename": "scikit-learn",
-      "path": "DL_framework/scikit-learn.md"
-    },
-    {
-      "basename": "Tensorflow",
-      "path": "DL_framework/Tensorflow.md"
     }
   ],
   "omittedPaths": [],

@@ -11,7 +11,7 @@
 
  * CloudFormation can help you simplify infrastructure management, quickly replicate your infrastructure, and easily control and track changes to your infrastructure.
 
-![](../figures/CloudForamtion.png)
+![](../../figures/CloudForamtion.png)
 
 # Stack 
 
