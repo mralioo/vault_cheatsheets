@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ResNet model",
+      "path": "AI Sessions/Computer Vision/ResNet model.md"
+    },
+    {
+      "basename": "Whisper",
+      "path": "AI Sessions/NLP/Whisper.md"
+    },
+    {
+      "basename": "Deploy",
+      "path": "figures/Deploy.png"
+    },
+    {
       "basename": "vCore-based",
       "path": "Cloud services/Azure/vCore-based.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Keras",
       "path": "DL_framework/Keras.md"
-    },
-    {
-      "basename": "Authentification",
-      "path": "GIT/Authentification.md"
-    },
-    {
-      "basename": "Merge , Rebase",
-      "path": "GIT/Merge , Rebase.md"
-    },
-    {
-      "basename": "Misc",
-      "path": "GIT/Misc.md"
     }
   ],
   "omittedPaths": [],
