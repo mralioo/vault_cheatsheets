@@ -11,9 +11,11 @@
             "id": "871ee6e715f24dee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "figures/Deploy.png"
+                "file": "ETL/Dask.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud services/Azure/vCore-based.md",
+                "file": "LLM/RAG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 358.5
   },
   "right": {
     "id": "2b5e2d003146216d",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud services/Azure/vCore-based.md",
+                "file": "ETL/Dask.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud services/Azure/vCore-based.md",
+                "file": "ETL/Dask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud services/Azure/vCore-based.md"
+                "file": "ETL/Dask.md"
               }
             }
           },
@@ -211,54 +212,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b436452d314a757",
+  "active": "871ee6e715f24dee",
   "lastOpenFiles": [
+    "ETL/Visualization/Altar.md",
+    "ETL/Visualization/Bokeh.md",
+    "ETL/Pandas/DataFrame.md",
+    "ETL/Pandas/Basic Ops.md",
+    "AI Sessions/Docker.md",
+    "AI Sessions/NLP/xLSTM.md",
+    "AI Sessions/NLP/Text Summarization.md",
+    "AI Sessions/NLP/Speech2Summary.md",
+    "AI Sessions/Computer Vision/Untitled.md",
+    "AI Sessions/Computer Vision/ResNet model.md",
+    "ML/Neural Nets Layers.md",
+    "ML/PCA.md",
+    "ML/Pytorch-Lightning.md",
+    "ML/Regularization Techniques.md",
+    "ML/Statistical Techniques.md",
+    "Tools & Libs/Colab.md",
+    "ML/Unsupervised Learning/Clustering.md",
+    "ML/Unsupervised Learning",
+    "figures/Deploy.png",
+    "LLM/RAG.md",
+    "LLM/Unstructured Data.md",
+    "figures/Speech2Summary.png",
+    "Python/dictionary.md",
+    "ML/Supervised Learning/LSTM.md",
+    "ML/Supervised Learning/Transformers.md",
+    "AI Sessions/NLP",
+    "figures/RAG-2.png",
+    "figures/RAG-1.png",
+    "LLM/Open Source Models.md",
+    "figures/RAG.png",
+    "LLM/LangChain.md",
+    "figures/LangChain.png",
+    "DL_framework/DL Frameworks.md",
     "Cloud services/Azure/Azure OpenAI.md",
-    "Cloud services/Azure/vCore-based.md",
-    "Cloud services/Azure/Copilot.md",
     "figures/Copilot.png",
-    "Cloud services/Azure/Cosmos DB.md",
-    "Technical Interview/Problem Solving.md",
     "Cloud services",
     "Cloud services/Azure",
-    "Data Structures & Algorithms/Big O.md",
     "figures/Big O-3.png",
-    "Data Structures & Algorithms/Resources.md",
-    "Python/Exception & Error Handling.md",
     "Technical Interview",
-    "AI Sessions/Docker.md",
-    "ETL/Visualization/Bokeh.md",
-    "ETL/ETL.md",
-    "Tools & Libs/Yellowbrick.md",
-    "Tools & Libs/VIMsheet.md",
-    "Tools & Libs/VIM.md",
-    "Tools & Libs/SSH.md",
-    "Tools & Libs/SLURM.md",
-    "Tools & Libs/Python env.md",
-    "Tools & Libs/Prompt with LLMs.md",
-    "OS/Data Warngling.md",
-    "OS/Bascis Linux.md",
-    "OS/Terminal utils.md",
-    "LLM/Courses.md",
-    "LLM/Unstructured Data.md",
-    "LLM/Evaluate LLM.md",
-    "LLM/Vectara.md",
-    "LLM/Vector Database.md",
     "Writing",
     "AI Sessions/Untitled",
-    "figures/Deploy.png",
     "AI Sessions/Computer Vision",
     "AI Sessions",
     "figures/Deploy-1.png",
     "figures/Activations-1.png",
-    "figures/Activations-2.png",
-    "figures/attention_research_1-727x1024.webp",
-    "figures/Embedding.webp",
-    "figures/Embedding.png",
     "Data Structures & Algorithms/Algorithms",
-    "Data Structures & Algorithms/Data Structures",
-    "Hackathon Swiss knife/python_envs/rl_env.txt",
-    "Untitled.canvas",
-    "figures/Databases.jpg"
+    "Untitled.canvas"
   ]
 }
