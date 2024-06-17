@@ -8,11 +8,6 @@
 ![](../figures/Activations-2.png)
 
 
-
-2
-
-[](https://stackoverflow.com/posts/53418478/timeline)
-
 In categorical cross entropy :
 
 -   if it is `prediction` it will compute the `cross entropy` directly

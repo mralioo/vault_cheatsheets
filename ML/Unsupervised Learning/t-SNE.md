@@ -1,3 +1,5 @@
+#unsupervised_learning
+
 ## Definition
 
 [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://towardsdatascience.com/t-distributed-stochastic-neighbor-embedding-t-sne-bb60ff109561) is a technique for dimensionality reduction that is particularly well suited for **the visualization of high-dimensional datasets**.
@@ -22,7 +24,7 @@
 #### Step 1
 t-SNE converts the **high-dimensional Euclidean** distances between datapoints xᵢ and xⱼ into **conditional probabilities P(j|i)**.
 
-![](../figures/t-SNE.png)
+![](../../figures/t-SNE.png)
 #### Step 2 
 
 Map each **point in high dimensional space** to a l**ow dimensional map** based on the **pairwise similarity** of points in the high dimensional space.
@@ -31,7 +33,7 @@ Map each **point in high dimensional space** to a l**ow dimensional map** based 
 #### Step 3 
 Find a low-dimensional data representation that minimizes the mismatch between Pᵢⱼ and qᵢⱼ (of the lower dimensional space)using gradient descent based on **Kullback-Leibler divergence(KL Divergence)**
 
-![](../figures/t-SNE-1.png)
+![](../../figures/t-SNE-1.png)
 
 
 🏹 t-SNE optimizes the points in lower dimensional space using gradient descent.
@@ -40,7 +42,7 @@ Find a low-dimensional data representation that minimizes the mismatch between P
 Use Student-t distribution to compute the similarity between two points in the low-dimensional space
 
 
-## [[../DL_framework/scikit-learn]]
+## [[../../DL_framework/scikit-learn]]
 ```python
 TSNE(_n_components=2_, _*_, _perplexity=30.0_, _early_exaggeration=12.0_, _learning_rate='warn'_, _n_iter=1000_, _n_iter_without_progress=300_, _min_grad_norm=1e-07_, _metric='euclidean'_, _metric_params=None_, _init='warn'_, _verbose=0_, _random_state=None_, _method='barnes_hut'_, _angle=0.5_, _n_jobs=None_, _square_distances='deprecated'_)
 
@@ -59,14 +61,14 @@ t-SNE parameters :
 
 **Visualization for different values of perplexity**
 
-![](../figures/t-SNE-2.png)
+![](../../figures/t-SNE-2.png)
 
 **Visualization for different values for n_iter**
 
-![](../figures/t-SNE-3.png)
+![](../../figures/t-SNE-3.png)
 
 
-We can see that the clusters generated from t-SNE plots are much more defined than the ones using [[PCA]].
+We can see that the clusters generated from t-SNE plots are much more defined than the ones using [[Unsupervised Learning/PCA]].
 
 -   **PCA is deterministic**, whereas t-SNE is not deterministic and is randomized.
 -   t-SNE tries to map **only local neighbors** whereas PCA is just a diagonal rotation of our initial covariance matrix and the eigenvectors represent and preserve the global properties

@@ -5,6 +5,12 @@ sources:
 - [What is attention](https://machinelearningmastery.com/what-is-attention/)
 - [The Attention Mechanism from Scratch](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
 
+
+![](../../figures/Transformers.jpg)
+
+
+
+
 ## Attention
 
 is the ability **to dynamically highlight and use the _salient_ parts of the information at hand**—in a similar manner as it does in the human brain—that makes attention such an attractive concept in machine learning.

@@ -7,9 +7,9 @@
 
 
 
+![](../figures/XGBoost.png)
 
-* 
-*![XGBoost](../figures/Pasted%20image%2020231115093015.png)
+
 
 
 2/ When to Use XGBoost:

@@ -12,7 +12,7 @@
 ## 5/ Shrinkage:
 
 ## 6/Dimension Reduction: 
-[[PCA]] [[t-SNE]]
+[[Unsupervised Learning/PCA]] [[Unsupervised Learning/t-SNE]]
 
 ## **7/ Nonlinear Models:**
 ## **8/Tree-Based Methods:**

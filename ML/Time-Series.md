@@ -4,7 +4,7 @@
 
 Here are some of statistcal transforamtion that can b applied on time-serie  data  in order to investigate the feature space and to look deeper in the data dependency and correlation. 
 
-As a first step before trying complicated methods, its usually helpful to apply simple algorithms depending on the problem type (e.g SVM, Random forest ...) and not to forget dimensionality reduction using [[PCA]] and [[t-SNE]] techniques.
+As a first step before trying complicated methods, its usually helpful to apply simple algorithms depending on the problem type (e.g SVM, Random forest ...) and not to forget dimensionality reduction using [[Unsupervised Learning/PCA]] and [[Unsupervised Learning/t-SNE]] techniques.
 
 ```ad-note
 

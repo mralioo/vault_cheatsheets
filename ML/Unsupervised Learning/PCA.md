@@ -1,3 +1,5 @@
+#unsupervised_learning 
+
 ## Definition
 
 [Principal Component Analysis (PCA)](https://towardsdatascience.com/principal-component-analysis-pca-explained-visually-with-zero-math-1cbf392b9e7d) is an exploratory approach to reduce the data set's dimensionality to 2D or 3D.
@@ -9,7 +11,7 @@
 -   The highest variance by any projection of the data set appears to laze on the first axis.
 -   The second biggest variance on the second axis, and so on.
 
-![](../figures/PCA.gif)
+![](../../figures/PCA.gif)
 
 ![](https://lh5.googleusercontent.com/j8sejouDw9H7tOSJb2CHLXXsWCJ3xkTyrHMM9SIGe-H-RCjOpkCNKdnTH4j5CYe1-cgX0Bp4EsnqSORZ4mf8szhLazHJEpReZDaLbqt4aTSiEWNkFJzBD11WRqlpPLGvqTNlVY62Ivr_AxORFDGUhrQmDc-tJofcz02SDQpZUbmUsZW-3vuTWe6A)
 
@@ -28,7 +30,7 @@ Mathematically the main objective of PCA is to:
 -   Find the eigenvalues and eigenvectors for the covariance matrix.
 -   Plot the vectors on the scaled data.
 
- [[../DL_framework/scikit-learn]]
+ [[../../DL_framework/scikit-learn]]
 
 ```python
 sklearn.decomposition.PCA(_n_components=None_, _*_, _copy=True_, _whiten=False_, _svd_solver='auto'_, _tol=0.0_, _iterated_power='auto'_, _n_oversamples=10_, _power_iteration_normalizer='auto'_, _random_state=None_)

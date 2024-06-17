@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETL/Dask.md",
+                "file": "ML/Deep learning architectures/Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETL/Dask.md",
+                "file": "ML/Deep learning architectures/Transformers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETL/Dask.md",
+                "file": "ML/Deep learning architectures/Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETL/Dask.md"
+                "file": "ML/Deep learning architectures/Transformers.md"
               }
             }
           },
@@ -185,8 +185,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,52 +213,52 @@
   },
   "active": "871ee6e715f24dee",
   "lastOpenFiles": [
-    "ETL/Visualization/Altar.md",
-    "ETL/Visualization/Bokeh.md",
-    "ETL/Pandas/DataFrame.md",
-    "ETL/Pandas/Basic Ops.md",
-    "AI Sessions/Docker.md",
-    "AI Sessions/NLP/xLSTM.md",
-    "AI Sessions/NLP/Text Summarization.md",
-    "AI Sessions/NLP/Speech2Summary.md",
-    "AI Sessions/Computer Vision/Untitled.md",
-    "AI Sessions/Computer Vision/ResNet model.md",
+    "figures/Transformers.jpg",
     "ML/Neural Nets Layers.md",
-    "ML/PCA.md",
-    "ML/Pytorch-Lightning.md",
+    "DL_framework/DL Frameworks.md",
+    "DL_framework/Tensorflow.md",
+    "DL_framework/scikit-learn.md",
+    "DL_framework/Pytorch.md",
+    "DL_framework/Keras.md",
+    "figures/zero-padding.png",
+    "figures/attention_research_1-727x1024.webp",
+    "figures/Algorithms.png",
+    "figures/Exception & Error Handling.png",
+    "figures/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).png",
+    "figures/Regularization Techniques-1.webp",
+    "figures/SageMaker Experiments.png",
+    "figures/Text Summarization-1.jpg",
+    "figures/Text Summarization.jpg",
+    "figures/Time-Series-2.jpg",
+    "ML/XGBoost.md",
+    "ML/RL/Resources.md",
+    "ML/Activations.md",
+    "ML/Algorithms.md",
+    "ML/Classification.md",
+    "ML/Cross-Validation.md",
+    "ML/Features Selection.md",
+    "ML/Metrics.md",
+    "DL_framework/Pytorch-Lightning.md",
+    "ML/Resources-pdfs/ML_scikit_learn.pdf",
+    "ML/Resources-pdfs/ML_overview.pdf",
+    "ML/Resources-pdfs/ML_algorthims_diagram.pdf",
+    "ML/Resources-pdfs/ML_algorithms.pdf",
+    "ML/Probabilistic models/Probabilistic Neural Network (PNN).md",
+    "ML/Deep learning architectures/Transformers.md",
+    "ML/Unsupervised Learning/Clustering.md",
+    "ML/Unsupervised Learning/PCA.md",
     "ML/Regularization Techniques.md",
     "ML/Statistical Techniques.md",
-    "Tools & Libs/Colab.md",
-    "ML/Unsupervised Learning/Clustering.md",
+    "ML/Unsupervised Learning/t-SNE.md",
+    "ML/Tuning cookbook.md",
+    "ML/Time-Series.md",
+    "AI Sessions/NLP/Text Summarization.md",
     "ML/Unsupervised Learning",
-    "figures/Deploy.png",
-    "LLM/RAG.md",
-    "LLM/Unstructured Data.md",
-    "figures/Speech2Summary.png",
-    "Python/dictionary.md",
-    "ML/Supervised Learning/LSTM.md",
-    "ML/Supervised Learning/Transformers.md",
     "AI Sessions/NLP",
-    "figures/RAG-2.png",
-    "figures/RAG-1.png",
-    "LLM/Open Source Models.md",
-    "figures/RAG.png",
-    "LLM/LangChain.md",
-    "figures/LangChain.png",
-    "DL_framework/DL Frameworks.md",
-    "Cloud services/Azure/Azure OpenAI.md",
-    "figures/Copilot.png",
     "Cloud services",
     "Cloud services/Azure",
-    "figures/Big O-3.png",
     "Technical Interview",
     "Writing",
-    "AI Sessions/Untitled",
-    "AI Sessions/Computer Vision",
-    "AI Sessions",
-    "figures/Deploy-1.png",
-    "figures/Activations-1.png",
-    "Data Structures & Algorithms/Algorithms",
     "Untitled.canvas"
   ]
 }

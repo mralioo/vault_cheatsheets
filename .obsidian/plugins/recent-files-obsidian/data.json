@@ -1,12 +1,180 @@
 {
   "recentFiles": [
     {
-      "basename": "Dask",
-      "path": "ETL/Dask.md"
+      "basename": "Transformers",
+      "path": "ML/Deep learning architectures/Transformers.md"
+    },
+    {
+      "basename": "Neural Nets Layers",
+      "path": "ML/Neural Nets Layers.md"
+    },
+    {
+      "basename": "DL Frameworks",
+      "path": "DL_framework/DL Frameworks.md"
+    },
+    {
+      "basename": "Tensorflow",
+      "path": "DL_framework/Tensorflow.md"
+    },
+    {
+      "basename": "scikit-learn",
+      "path": "DL_framework/scikit-learn.md"
+    },
+    {
+      "basename": "Pytorch",
+      "path": "DL_framework/Pytorch.md"
+    },
+    {
+      "basename": "Keras",
+      "path": "DL_framework/Keras.md"
+    },
+    {
+      "basename": "zero-padding",
+      "path": "figures/zero-padding.png"
+    },
+    {
+      "basename": "attention_research_1-727x1024",
+      "path": "figures/attention_research_1-727x1024.webp"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "figures/Algorithms.png"
+    },
+    {
+      "basename": "Exception & Error Handling",
+      "path": "figures/Exception & Error Handling.png"
+    },
+    {
+      "basename": "Mythical Mysfits Containers on AWS Workshop June 2023 (SLA)",
+      "path": "figures/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).png"
+    },
+    {
+      "basename": "Regularization Techniques-1",
+      "path": "figures/Regularization Techniques-1.webp"
+    },
+    {
+      "basename": "SageMaker Experiments",
+      "path": "figures/SageMaker Experiments.png"
+    },
+    {
+      "basename": "Text Summarization-1",
+      "path": "figures/Text Summarization-1.jpg"
+    },
+    {
+      "basename": "Text Summarization",
+      "path": "figures/Text Summarization.jpg"
+    },
+    {
+      "basename": "Time-Series-2",
+      "path": "figures/Time-Series-2.jpg"
+    },
+    {
+      "basename": "Time-Series-1",
+      "path": "figures/Time-Series-1.jpg"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "figures/Time-Series.jpg"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "ML/XGBoost.md"
+    },
+    {
+      "basename": "XGBoost",
+      "path": "figures/XGBoost.png"
+    },
+    {
+      "basename": "Resources",
+      "path": "ML/RL/Resources.md"
+    },
+    {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "ML/Algorithms.md"
+    },
+    {
+      "basename": "Classification",
+      "path": "ML/Classification.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
+      "basename": "Features Selection",
+      "path": "ML/Features Selection.md"
+    },
+    {
+      "basename": "Metrics",
+      "path": "ML/Metrics.md"
+    },
+    {
+      "basename": "Pytorch-Lightning",
+      "path": "DL_framework/Pytorch-Lightning.md"
+    },
+    {
+      "basename": "ML_scikit_learn",
+      "path": "ML/Resources-pdfs/ML_scikit_learn.pdf"
+    },
+    {
+      "basename": "ML_overview",
+      "path": "ML/Resources-pdfs/ML_overview.pdf"
+    },
+    {
+      "basename": "ML_algorthims_diagram",
+      "path": "ML/Resources-pdfs/ML_algorthims_diagram.pdf"
+    },
+    {
+      "basename": "ML_algorithms",
+      "path": "ML/Resources-pdfs/ML_algorithms.pdf"
+    },
+    {
+      "basename": "Probabilistic Neural Network (PNN)",
+      "path": "ML/Probabilistic models/Probabilistic Neural Network (PNN).md"
+    },
+    {
+      "basename": "Clustering",
+      "path": "ML/Unsupervised Learning/Clustering.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/Unsupervised Learning/PCA.md"
+    },
+    {
+      "basename": "Regularization Techniques",
+      "path": "ML/Regularization Techniques.md"
+    },
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "t-SNE",
+      "path": "ML/Unsupervised Learning/t-SNE.md"
+    },
+    {
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
+    },
+    {
+      "basename": "Text Summarization",
+      "path": "AI Sessions/NLP/Text Summarization.md"
+    },
+    {
+      "basename": "xLSTM",
+      "path": "AI Sessions/NLP/xLSTM.md"
     },
     {
       "basename": "Altar",
       "path": "ETL/Visualization/Altar.md"
+    },
+    {
+      "basename": "Dask",
+      "path": "ETL/Dask.md"
     },
     {
       "basename": "Bokeh",
@@ -25,180 +193,12 @@
       "path": "AI Sessions/Docker.md"
     },
     {
-      "basename": "xLSTM",
-      "path": "AI Sessions/NLP/xLSTM.md"
-    },
-    {
-      "basename": "Text Summarization",
-      "path": "AI Sessions/NLP/Text Summarization.md"
-    },
-    {
       "basename": "Speech2Summary",
       "path": "AI Sessions/NLP/Speech2Summary.md"
     },
     {
       "basename": "Untitled",
       "path": "AI Sessions/Computer Vision/Untitled.md"
-    },
-    {
-      "basename": "ResNet model",
-      "path": "AI Sessions/Computer Vision/ResNet model.md"
-    },
-    {
-      "basename": "Neural Nets Layers",
-      "path": "ML/Neural Nets Layers.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "ML/PCA.md"
-    },
-    {
-      "basename": "Pytorch-Lightning",
-      "path": "ML/Pytorch-Lightning.md"
-    },
-    {
-      "basename": "Regularization Techniques",
-      "path": "ML/Regularization Techniques.md"
-    },
-    {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
-    },
-    {
-      "basename": "Colab",
-      "path": "Tools & Libs/Colab.md"
-    },
-    {
-      "basename": "Clustering",
-      "path": "ML/Unsupervised Learning/Clustering.md"
-    },
-    {
-      "basename": "Deploy",
-      "path": "figures/Deploy.png"
-    },
-    {
-      "basename": "RAG",
-      "path": "LLM/RAG.md"
-    },
-    {
-      "basename": "Unstructured Data",
-      "path": "LLM/Unstructured Data.md"
-    },
-    {
-      "basename": "dictionary",
-      "path": "Python/dictionary.md"
-    },
-    {
-      "basename": "LSTM",
-      "path": "ML/Supervised Learning/LSTM.md"
-    },
-    {
-      "basename": "Transformers",
-      "path": "ML/Supervised Learning/Transformers.md"
-    },
-    {
-      "basename": "Open Source Models",
-      "path": "LLM/Open Source Models.md"
-    },
-    {
-      "basename": "LangChain",
-      "path": "LLM/LangChain.md"
-    },
-    {
-      "basename": "DL Frameworks",
-      "path": "DL_framework/DL Frameworks.md"
-    },
-    {
-      "basename": "Azure OpenAI",
-      "path": "Cloud services/Azure/Azure OpenAI.md"
-    },
-    {
-      "basename": "Copilot",
-      "path": "Cloud services/Azure/Copilot.md"
-    },
-    {
-      "basename": "Cosmos DB",
-      "path": "Cloud services/Azure/Cosmos DB.md"
-    },
-    {
-      "basename": "vCore-based",
-      "path": "Cloud services/Azure/vCore-based.md"
-    },
-    {
-      "basename": "Chatbot Arena",
-      "path": "LLM/Chatbot Arena.md"
-    },
-    {
-      "basename": "Problem Solving",
-      "path": "Technical Interview/Problem Solving.md"
-    },
-    {
-      "basename": "Big O",
-      "path": "Data Structures & Algorithms/Big O.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Data Structures & Algorithms/Resources.md"
-    },
-    {
-      "basename": "Exception & Error Handling",
-      "path": "Python/Exception & Error Handling.md"
-    },
-    {
-      "basename": "ETL",
-      "path": "ETL/ETL.md"
-    },
-    {
-      "basename": "Yellowbrick",
-      "path": "Tools & Libs/Yellowbrick.md"
-    },
-    {
-      "basename": "VIMsheet",
-      "path": "Tools & Libs/VIMsheet.md"
-    },
-    {
-      "basename": "VIM",
-      "path": "Tools & Libs/VIM.md"
-    },
-    {
-      "basename": "SSH",
-      "path": "Tools & Libs/SSH.md"
-    },
-    {
-      "basename": "SLURM",
-      "path": "Tools & Libs/SLURM.md"
-    },
-    {
-      "basename": "Python env",
-      "path": "Tools & Libs/Python env.md"
-    },
-    {
-      "basename": "Prompt with LLMs",
-      "path": "Tools & Libs/Prompt with LLMs.md"
-    },
-    {
-      "basename": "Data Warngling",
-      "path": "OS/Data Warngling.md"
-    },
-    {
-      "basename": "Bascis Linux",
-      "path": "OS/Bascis Linux.md"
-    },
-    {
-      "basename": "Terminal utils",
-      "path": "OS/Terminal utils.md"
-    },
-    {
-      "basename": "Courses",
-      "path": "LLM/Courses.md"
-    },
-    {
-      "basename": "Evaluate LLM",
-      "path": "LLM/Evaluate LLM.md"
-    },
-    {
-      "basename": "Vectara",
-      "path": "LLM/Vectara.md"
     }
   ],
   "omittedPaths": [],
