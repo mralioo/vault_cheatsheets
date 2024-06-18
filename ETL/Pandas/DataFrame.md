@@ -1,3 +1,6 @@
+
+#dataengineering #datascience 
+
 ## Statistics
 ### nested dfs
 - we have list of dataframes of length N, one df has the following shape: 

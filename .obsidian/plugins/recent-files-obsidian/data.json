@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "ResNet model",
       "path": "AI Sessions/Computer Vision/ResNet model.md"
     },
@@ -15,6 +16,114 @@
     {
       "basename": "vCore-based",
       "path": "Cloud services/Azure/vCore-based.md"
+=======
+      "basename": "Dask",
+      "path": "ETL/Dask.md"
+>>>>>>> deb2f7d4d15c8740437f1182706b0d186f9b35eb
+    },
+    {
+      "basename": "Altar",
+      "path": "ETL/Visualization/Altar.md"
+    },
+    {
+      "basename": "Bokeh",
+      "path": "ETL/Visualization/Bokeh.md"
+    },
+    {
+      "basename": "DataFrame",
+      "path": "ETL/Pandas/DataFrame.md"
+    },
+    {
+      "basename": "Basic Ops",
+      "path": "ETL/Pandas/Basic Ops.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "AI Sessions/Docker.md"
+    },
+    {
+      "basename": "xLSTM",
+      "path": "AI Sessions/NLP/xLSTM.md"
+    },
+    {
+      "basename": "Text Summarization",
+      "path": "AI Sessions/NLP/Text Summarization.md"
+    },
+    {
+      "basename": "Speech2Summary",
+      "path": "AI Sessions/NLP/Speech2Summary.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "AI Sessions/Computer Vision/Untitled.md"
+    },
+    {
+      "basename": "ResNet model",
+      "path": "AI Sessions/Computer Vision/ResNet model.md"
+    },
+    {
+      "basename": "Neural Nets Layers",
+      "path": "ML/Neural Nets Layers.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "ML/PCA.md"
+    },
+    {
+      "basename": "Pytorch-Lightning",
+      "path": "ML/Pytorch-Lightning.md"
+    },
+    {
+      "basename": "Regularization Techniques",
+      "path": "ML/Regularization Techniques.md"
+    },
+    {
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "Colab",
+      "path": "Tools & Libs/Colab.md"
+    },
+    {
+      "basename": "Clustering",
+      "path": "ML/Unsupervised Learning/Clustering.md"
+    },
+    {
+      "basename": "Deploy",
+      "path": "figures/Deploy.png"
+    },
+    {
+      "basename": "RAG",
+      "path": "LLM/RAG.md"
+    },
+    {
+      "basename": "Unstructured Data",
+      "path": "LLM/Unstructured Data.md"
+    },
+    {
+      "basename": "dictionary",
+      "path": "Python/dictionary.md"
+    },
+    {
+      "basename": "LSTM",
+      "path": "ML/Supervised Learning/LSTM.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Supervised Learning/Transformers.md"
+    },
+    {
+      "basename": "Open Source Models",
+      "path": "LLM/Open Source Models.md"
+    },
+    {
+      "basename": "LangChain",
+      "path": "LLM/LangChain.md"
+    },
+    {
+      "basename": "DL Frameworks",
+      "path": "DL_framework/DL Frameworks.md"
     },
     {
       "basename": "Azure OpenAI",
@@ -27,6 +136,14 @@
     {
       "basename": "Cosmos DB",
       "path": "Cloud services/Azure/Cosmos DB.md"
+    },
+    {
+      "basename": "vCore-based",
+      "path": "Cloud services/Azure/vCore-based.md"
+    },
+    {
+      "basename": "Chatbot Arena",
+      "path": "LLM/Chatbot Arena.md"
     },
     {
       "basename": "Problem Solving",
@@ -43,14 +160,6 @@
     {
       "basename": "Exception & Error Handling",
       "path": "Python/Exception & Error Handling.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "AI Sessions/Docker.md"
-    },
-    {
-      "basename": "Bokeh",
-      "path": "ETL/Visualization/Bokeh.md"
     },
     {
       "basename": "ETL",
@@ -93,6 +202,10 @@
       "path": "OS/Bascis Linux.md"
     },
     {
+<<<<<<< HEAD
+      "basename": "Keras",
+      "path": "DL_framework/Keras.md"
+=======
       "basename": "Terminal utils",
       "path": "OS/Terminal utils.md"
     },
@@ -101,104 +214,13 @@
       "path": "LLM/Courses.md"
     },
     {
-      "basename": "Unstructured Data",
-      "path": "LLM/Unstructured Data.md"
-    },
-    {
       "basename": "Evaluate LLM",
       "path": "LLM/Evaluate LLM.md"
     },
     {
       "basename": "Vectara",
       "path": "LLM/Vectara.md"
-    },
-    {
-      "basename": "Vector Database",
-      "path": "LLM/Vector Database.md"
-    },
-    {
-      "basename": "Embedding",
-      "path": "LLM/Embedding.md"
-    },
-    {
-      "basename": "Mendix",
-      "path": "Tools & Libs/Mendix.md"
-    },
-    {
-      "basename": "Drawing 2023-11-15 10.48.34.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-15 10.48.34.excalidraw.md"
-    },
-    {
-      "basename": "VPC",
-      "path": "Cloud services/AWS/VPC.md"
-    },
-    {
-      "basename": "SAM",
-      "path": "Cloud services/AWS/SAM.md"
-    },
-    {
-      "basename": "Mythical Mysfits Containers on AWS Workshop June 2023 (SLA)",
-      "path": "Cloud services/AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md"
-    },
-    {
-      "basename": "Lambda",
-      "path": "Cloud services/AWS/Lambda.md"
-    },
-    {
-      "basename": "ECS",
-      "path": "Cloud services/AWS/ECS.md"
-    },
-    {
-      "basename": "Deploy",
-      "path": "Cloud services/AWS/SageMaker/Deploy.md"
-    },
-    {
-      "basename": "AWS Fargate",
-      "path": "Cloud services/AWS/AWS Fargate.md"
-    },
-    {
-      "basename": "Scikit-learn with SageMaker",
-      "path": "Cloud services/AWS/SageMaker/Scikit-learn with SageMaker.md"
-    },
-    {
-      "basename": "SagerMaker",
-      "path": "Cloud services/AWS/SageMaker/SagerMaker.md"
-    },
-    {
-      "basename": "Pipelines",
-      "path": "Cloud services/AWS/SageMaker/Pipelines.md"
-    },
-    {
-      "basename": "Experiments",
-      "path": "Cloud services/AWS/SageMaker/Experiments.md"
-    },
-    {
-      "basename": "Hydra",
-      "path": "MLOps/Hydra.md"
-    },
-    {
-      "basename": "DVC",
-      "path": "MLOps/DVC.md"
-    },
-    {
-      "basename": "Weights & Biases",
-      "path": "MLOps/Monitoring/Weights & Biases.md"
-    },
-    {
-      "basename": "Tensorboard",
-      "path": "MLOps/Monitoring/Tensorboard.md"
-    },
-    {
-      "basename": "MLflow",
-      "path": "MLOps/Monitoring/MLflow.md"
-    },
-    {
-      "basename": "DL Frameworks",
-      "path": "DL_framework/DL Frameworks.md"
-    },
-    {
-      "basename": "Keras",
-      "path": "DL_framework/Keras.md"
+>>>>>>> deb2f7d4d15c8740437f1182706b0d186f9b35eb
     }
   ],
   "omittedPaths": [],
