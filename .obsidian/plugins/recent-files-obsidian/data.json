@@ -1,207 +1,45 @@
 {
   "recentFiles": [
     {
-      "basename": "Transformers",
-      "path": "ML/Deep learning architectures/Transformers.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "Neural Nets Layers",
-      "path": "ML/Neural Nets Layers.md"
+      "basename": "Untitled",
+      "path": "AI Sessions/Computer Vision/Untitled.md"
     },
     {
-      "basename": "DL Frameworks",
-      "path": "DL_framework/DL Frameworks.md"
+      "basename": "ResNet model",
+      "path": "AI Sessions/Computer Vision/ResNet model.md"
     },
     {
-      "basename": "Tensorflow",
-      "path": "DL_framework/Tensorflow.md"
-    },
-    {
-      "basename": "scikit-learn",
-      "path": "DL_framework/scikit-learn.md"
-    },
-    {
-      "basename": "Pytorch",
-      "path": "DL_framework/Pytorch.md"
-    },
-    {
-      "basename": "Keras",
-      "path": "DL_framework/Keras.md"
-    },
-    {
-      "basename": "zero-padding",
-      "path": "figures/zero-padding.png"
-    },
-    {
-      "basename": "attention_research_1-727x1024",
-      "path": "figures/attention_research_1-727x1024.webp"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "figures/Algorithms.png"
-    },
-    {
-      "basename": "Exception & Error Handling",
-      "path": "figures/Exception & Error Handling.png"
-    },
-    {
-      "basename": "Mythical Mysfits Containers on AWS Workshop June 2023 (SLA)",
-      "path": "figures/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).png"
-    },
-    {
-      "basename": "Regularization Techniques-1",
-      "path": "figures/Regularization Techniques-1.webp"
-    },
-    {
-      "basename": "SageMaker Experiments",
-      "path": "figures/SageMaker Experiments.png"
-    },
-    {
-      "basename": "Text Summarization-1",
-      "path": "figures/Text Summarization-1.jpg"
-    },
-    {
-      "basename": "Text Summarization",
-      "path": "figures/Text Summarization.jpg"
-    },
-    {
-      "basename": "Time-Series-2",
-      "path": "figures/Time-Series-2.jpg"
-    },
-    {
-      "basename": "Time-Series-1",
-      "path": "figures/Time-Series-1.jpg"
-    },
-    {
-      "basename": "Time-Series",
-      "path": "figures/Time-Series.jpg"
-    },
-    {
-      "basename": "XGBoost",
-      "path": "ML/XGBoost.md"
-    },
-    {
-      "basename": "XGBoost",
-      "path": "figures/XGBoost.png"
-    },
-    {
-      "basename": "Resources",
-      "path": "ML/RL/Resources.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "ML/Algorithms.md"
-    },
-    {
-      "basename": "Classification",
-      "path": "ML/Classification.md"
-    },
-    {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
-    },
-    {
-      "basename": "Features Selection",
-      "path": "ML/Features Selection.md"
-    },
-    {
-      "basename": "Metrics",
-      "path": "ML/Metrics.md"
-    },
-    {
-      "basename": "Pytorch-Lightning",
-      "path": "DL_framework/Pytorch-Lightning.md"
-    },
-    {
-      "basename": "ML_scikit_learn",
-      "path": "ML/Resources-pdfs/ML_scikit_learn.pdf"
-    },
-    {
-      "basename": "ML_overview",
-      "path": "ML/Resources-pdfs/ML_overview.pdf"
-    },
-    {
-      "basename": "ML_algorthims_diagram",
-      "path": "ML/Resources-pdfs/ML_algorthims_diagram.pdf"
-    },
-    {
-      "basename": "ML_algorithms",
-      "path": "ML/Resources-pdfs/ML_algorithms.pdf"
-    },
-    {
-      "basename": "Probabilistic Neural Network (PNN)",
-      "path": "ML/Probabilistic models/Probabilistic Neural Network (PNN).md"
-    },
-    {
-      "basename": "Clustering",
-      "path": "ML/Unsupervised Learning/Clustering.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "ML/Unsupervised Learning/PCA.md"
-    },
-    {
-      "basename": "Regularization Techniques",
-      "path": "ML/Regularization Techniques.md"
-    },
-    {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
-    },
-    {
-      "basename": "t-SNE",
-      "path": "ML/Unsupervised Learning/t-SNE.md"
-    },
-    {
-      "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
-    },
-    {
-      "basename": "Text Summarization",
-      "path": "AI Sessions/NLP/Text Summarization.md"
+      "basename": "Whisper",
+      "path": "AI Sessions/NLP/Whisper.md"
     },
     {
       "basename": "xLSTM",
       "path": "AI Sessions/NLP/xLSTM.md"
     },
     {
-      "basename": "Altar",
-      "path": "ETL/Visualization/Altar.md"
-    },
-    {
-      "basename": "Dask",
-      "path": "ETL/Dask.md"
-    },
-    {
-      "basename": "Bokeh",
-      "path": "ETL/Visualization/Bokeh.md"
-    },
-    {
-      "basename": "DataFrame",
-      "path": "ETL/Pandas/DataFrame.md"
-    },
-    {
-      "basename": "Basic Ops",
-      "path": "ETL/Pandas/Basic Ops.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "AI Sessions/Docker.md"
+      "basename": "Text Summarization",
+      "path": "AI Sessions/NLP/Text Summarization.md"
     },
     {
       "basename": "Speech2Summary",
       "path": "AI Sessions/NLP/Speech2Summary.md"
     },
     {
-      "basename": "Untitled",
-      "path": "AI Sessions/Computer Vision/Untitled.md"
+      "basename": "Fundamentals of Deep Learning",
+      "path": "AI Sessions/Nvidia DL Workshop/Fundamentals of Deep Learning.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "LLM/RAG.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Deep learning architectures/Transformers.md"
     }
   ],
-  "omittedPaths": [],
-  "maxLength": null,
-  "openType": "tab"
+  "omittedPaths": []
 }

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d73831eee0b5087",
+        "id": "22c0fa585720e757",
         "type": "tabs",
         "children": [
           {
-            "id": "871ee6e715f24dee",
+            "id": "28d509fce1766d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep learning architectures/Transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b436452d314a757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/RAG.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#datascience",
+                "query": "tag:#tocheck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep learning architectures/Transformers.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep learning architectures/Transformers.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep learning architectures/Transformers.md"
+                "file": "README.md"
               }
             }
           },
@@ -211,11 +199,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "871ee6e715f24dee",
+  "active": "28d509fce1766d7b",
   "lastOpenFiles": [
+    "AI Sessions/Computer Vision/Untitled.md",
+    "AI Sessions/Computer Vision/ResNet model.md",
+    "AI Sessions/NLP/Whisper.md",
+    "AI Sessions/NLP/xLSTM.md",
+    "AI Sessions/NLP/Text Summarization.md",
+    "AI Sessions/NLP/Speech2Summary.md",
+    "AI Sessions/Nvidia DL Workshop/Fundamentals of Deep Learning.md",
+    "LLM/RAG.md",
+    "figures/Fundamentals of Deep Learning.png",
+    "figures/Fundamentals of Deep Learning-1.pdf",
+    "figures/Fundamentals of Deep Learning.pdf",
+    "ML/Deep learning architectures/Transformers.md",
+    "figures/Transformers-6.png",
     "figures/Transformers-5.png",
     "figures/Transformers-4.png",
-    "AI Sessions/NLP/Whisper.md",
     "figures/Transformers.jpg",
     "ML/Neural Nets Layers.md",
     "DL_framework/DL Frameworks.md",
@@ -228,9 +228,6 @@
     "figures/Algorithms.png",
     "figures/Exception & Error Handling.png",
     "figures/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).png",
-    "figures/Regularization Techniques-1.webp",
-    "figures/SageMaker Experiments.png",
-    "figures/Text Summarization-1.jpg",
     "ML/XGBoost.md",
     "ML/RL/Resources.md",
     "ML/Activations.md",
@@ -245,20 +242,20 @@
     "ML/Resources-pdfs/ML_algorthims_diagram.pdf",
     "ML/Resources-pdfs/ML_algorithms.pdf",
     "ML/Probabilistic models/Probabilistic Neural Network (PNN).md",
-    "ML/Deep learning architectures/Transformers.md",
     "ML/Unsupervised Learning/Clustering.md",
-    "ML/Unsupervised Learning/PCA.md",
-    "ML/Regularization Techniques.md",
-    "ML/Statistical Techniques.md",
-    "ML/Unsupervised Learning/t-SNE.md",
-    "ML/Tuning cookbook.md",
-    "ML/Time-Series.md",
     "ML/Unsupervised Learning",
     "AI Sessions/NLP",
     "Cloud services",
     "Cloud services/Azure",
+    "figures/Big O-3.png",
     "Technical Interview",
     "Writing",
+    "AI Sessions/Untitled",
+    "AI Sessions/Computer Vision",
+    "AI Sessions",
+    "figures/Deploy-1.png",
+    "figures/Activations-1.png",
+    "Data Structures & Algorithms/Algorithms",
     "Untitled.canvas"
   ]
 }

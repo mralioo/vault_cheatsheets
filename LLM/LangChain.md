@@ -13,7 +13,11 @@ LangChain agents can leverage tools and toolkits. A tool can be an integration i
 
 
 
+<<<<<<< HEAD
 ![](../figures/Transformers-5.png)
+=======
+![](../figures/Transformers-6.png)
+>>>>>>> 09e0da1345d7e35b018edcc1da4beb42a54f54af
 
 the RAG pattern is implemented as part of a chain that combines a retriever and a Large Language Model (generator). The retriever is responsible for finding the most relevant documents for a given query, in this case, doing a vector search on vCore-based Azure Cosmos DB for MongoDB, and the LLM (generator) is responsible for reasoning over the incoming prompt and context.
 
