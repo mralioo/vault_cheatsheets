@@ -10,5 +10,9 @@ Embeddings are foundational because:
 4. They are the output of deep learning layers providing comprehensible linear views into complex non-linear relationships learned by models
 
 
-## BERT Tokenizer 
+# BERT Tokenizer 
 
+# Generating Text 
+#LLM 
+
+![](../figures/Embedding.jpg)

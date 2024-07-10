@@ -47,7 +47,6 @@ docker run --entrypoint /bin/bash --rm -it language-detection-tool:0.1
 
 RESTAPI
 
-
 SWAGGEWR
 
 FASTAPI

@@ -1,6 +1,6 @@
 
 
-Tokinazation
+Tokenization
 
 
 just mapping has no meaning from word to number 

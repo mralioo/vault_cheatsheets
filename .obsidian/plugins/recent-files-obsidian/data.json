@@ -1,44 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "AI Sessions/Computer Vision/Untitled.md"
-    },
-    {
-      "basename": "ResNet model",
-      "path": "AI Sessions/Computer Vision/ResNet model.md"
-    },
-    {
-      "basename": "Whisper",
-      "path": "AI Sessions/NLP/Whisper.md"
-    },
-    {
-      "basename": "xLSTM",
-      "path": "AI Sessions/NLP/xLSTM.md"
+      "basename": "Speech2Summary",
+      "path": "AI Sessions/NLP/Speech2Summary.md"
     },
     {
       "basename": "Text Summarization",
       "path": "AI Sessions/NLP/Text Summarization.md"
     },
     {
-      "basename": "Speech2Summary",
-      "path": "AI Sessions/NLP/Speech2Summary.md"
-    },
-    {
       "basename": "Fundamentals of Deep Learning",
       "path": "AI Sessions/Nvidia DL Workshop/Fundamentals of Deep Learning.md"
+    },
+    {
+      "basename": "Grounding DINO",
+      "path": "AI Sessions/Paper Reading/Grounding DINO.md"
+    },
+    {
+      "basename": "BERT",
+      "path": "AI Sessions/Paper Reading/BERT.md"
+    },
+    {
+      "basename": "xLSTM",
+      "path": "AI Sessions/Paper Reading/xLSTM.md"
+    },
+    {
+      "basename": "ResNet model",
+      "path": "AI Sessions/Computer Vision/ResNet model.md"
+    },
+    {
+      "basename": "Vision Transformer",
+      "path": "AI Sessions/Computer Vision/Vision Transformer.md"
+    },
+    {
+      "basename": "Random varibiale",
+      "path": "FSP/Random varibiale.md"
+    },
+    {
+      "basename": "Classification",
+      "path": "ML/Classification.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Deep learning architectures/Transformers.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Data Engineering/Resources.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Data Engineering/Databases.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "AI Sessions/Docker.md"
+    },
+    {
+      "basename": "Whisper",
+      "path": "AI Sessions/NLP/Whisper.md"
+    },
+    {
+      "basename": "Courses",
+      "path": "MLOps/Courses.md"
+    },
+    {
+      "basename": "Hydra",
+      "path": "MLOps/Hydra.md"
+    },
+    {
+      "basename": "DVC",
+      "path": "MLOps/DVC.md"
+    },
+    {
+      "basename": "Embedding",
+      "path": "LLM/Embedding.md"
+    },
+    {
+      "basename": "Courses",
+      "path": "LLM/Courses.md"
+    },
+    {
+      "basename": "Vector Database",
+      "path": "LLM/Vector Database.md"
+    },
+    {
+      "basename": "Vectara",
+      "path": "LLM/Vectara.md"
+    },
+    {
+      "basename": "Unstructured Data",
+      "path": "LLM/Unstructured Data.md"
     },
     {
       "basename": "RAG",
       "path": "LLM/RAG.md"
     },
     {
-      "basename": "Transformers",
-      "path": "ML/Deep learning architectures/Transformers.md"
+      "basename": "Open Source Models",
+      "path": "LLM/Open Source Models.md"
+    },
+    {
+      "basename": "LangChain",
+      "path": "LLM/LangChain.md"
+    },
+    {
+      "basename": "Evaluate LLM",
+      "path": "LLM/Evaluate LLM.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": []

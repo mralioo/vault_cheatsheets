@@ -99,3 +99,9 @@ The decoder also consists of a stack of N = 6 identical layers that are each c
 Furthermore, the three sublayers on the decoder side also have residual connections around them and are succeeded by a normalization layer.
 
 Positional encodings are also added to the input embeddings of the decoder in the same manner as previously explained for the encoder.
+
+
+
+# Self-Attention vs Cross-Attention
+
+![](../../figures/Transformers-1.jpg)
