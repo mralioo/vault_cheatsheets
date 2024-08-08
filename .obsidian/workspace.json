@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aebc947c4a5d6891",
+        "id": "c9dafc014c9811e7",
         "type": "tabs",
         "children": [
           {
-            "id": "400d2c3e2874d3d6",
+            "id": "e279b6784ad4ef7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Sessions/NLP/Speech2Summary.md",
+                "file": "Tools & Libs/Node-RED.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7758f034371cd29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Sessions/Paper Reading/Meta Continual Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#datascience",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Sessions/NLP/Speech2Summary.md",
+                "file": "AI Sessions/Paper Reading/Meta Continual Learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Sessions/NLP/Speech2Summary.md",
+                "file": "AI Sessions/Paper Reading/Meta Continual Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Sessions/NLP/Speech2Summary.md"
+                "file": "AI Sessions/Paper Reading/Meta Continual Learning.md"
               }
             }
           },
@@ -150,14 +163,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6b9d26829d768cd",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
               "state": {}
             }
           },
@@ -172,8 +177,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "699a56bf657131a5",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,41 +213,42 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "400d2c3e2874d3d6",
+  "active": "7758f034371cd29a",
   "lastOpenFiles": [
-    "AI Sessions/NLP/Text Summarization.md",
+    "AI Sessions/NLP/BERTopic.md",
+    "AI Sessions/Paper Reading/Meta Continual Learning.md",
     "AI Sessions/Nvidia DL Workshop/Fundamentals of Deep Learning.md",
-    "AI Sessions/Paper Reading/Grounding DINO.md",
     "AI Sessions/Paper Reading/BERT.md",
-    "AI Sessions/Paper Reading/xLSTM.md",
-    "AI Sessions/Computer Vision/ResNet model.md",
-    "AI Sessions/Computer Vision/Vision Transformer.md",
-    "FSP/Random varibiale.md",
-    "ML/Classification.md",
-    "FSP",
-    "figures/Classification.png",
-    "ML/Deep learning architectures/Transformers.md",
-    "figures/Transformers-1.jpg",
-    "Data Engineering/Resources.md",
-    "Data Engineering/Databases.md",
-    "AI Sessions/Docker.md",
+    "GIT/Submodules.md",
+    "GIT/Merge , Rebase.md",
+    "GIT/Misc.md",
+    "GIT/Authentification.md",
+    "Hackathon Swiss knife/Best practises.md",
+    "Hackathon Swiss knife/Hardware.md",
+    "Hackathon Swiss knife/Data Manipulation.md",
+    "Hackathon Swiss knife/Brainstorming.md",
+    "LLM/RAG.md",
+    "Tools & Libs/FireCrawl.md",
+    "AI Sessions/NLP/Text Summarization.md",
     "AI Sessions/NLP/Whisper.md",
     "AI Sessions/NLP/Speech2Summary.md",
+    "Tools & Libs/Node-RED.md",
+    "Cloud services/AWS/SAM.md",
+    "AI Sessions/Docker.md",
+    "AI Sessions/Paper Reading/xLSTM.md",
+    "AI Sessions/Paper Reading/Grounding DINO.md",
+    "OS/Data Warngling.md",
+    "OS/Terminal utils.md",
+    "OS/Bascis Linux.md",
+    "Python/Data Classes.md",
+    "Untitled.canvas",
+    "FSP",
+    "figures/Classification.png",
+    "figures/Transformers-1.jpg",
     "figures/Vision Transformer.jpg",
     "figures/Untitled.jpg",
-    "MLOps/Courses.md",
-    "MLOps/Hydra.md",
-    "MLOps/DVC.md",
     "AI Sessions/Paper Reading",
-    "LLM/Embedding.md",
-    "LLM/Courses.md",
     "figures/Embedding.jpg",
-    "LLM/Vector Database.md",
-    "LLM/Vectara.md",
-    "LLM/Unstructured Data.md",
-    "LLM/RAG.md",
-    "LLM/Open Source Models.md",
-    "LLM/LangChain.md",
     "figures/Fundamentals of Deep Learning.png",
     "figures/Fundamentals of Deep Learning-1.pdf",
     "figures/Fundamentals of Deep Learning.pdf",
@@ -246,7 +261,6 @@
     "ML/Resources-pdfs/ML_algorthims_diagram.pdf",
     "ML/Resources-pdfs/ML_algorithms.pdf",
     "ML/Unsupervised Learning",
-    "AI Sessions/NLP",
-    "Untitled.canvas"
+    "AI Sessions/NLP"
   ]
 }

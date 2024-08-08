@@ -1,4 +1,4 @@
-#datascience #pytorch
+#datascience #pytorch #TODO #DNN 
 
 ## Session 29.05
 

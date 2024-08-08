@@ -1,3 +1,5 @@
+#machinelearning #deeplearning #DNN 
+
 Resources : 
 
 [The Gradient Descent Algorithm and its Variants](https://pub.towardsai.net/the-gradient-descent-algorithm-and-its-variants-e0915796dbf2)

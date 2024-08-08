@@ -1,6 +1,0 @@
-Dash==2.7.x  # Data visualization framework
-Dash-Core-Components==2.7.x  # Core Dash components
-plotly==5.11.x  # Interactive visualization library
-pandas==1.5.x  # Data manipulation and analysis
-Flask==2.3.x  # Web framework (if using Dash standalone)
-gunicorn==21.x  # Production WSGI server (optional)

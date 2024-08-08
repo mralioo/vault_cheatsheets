@@ -1,4 +1,0 @@
-opencv-python==4.8.x  # Computer vision library
-Pillow==9.5.x  # Image processing
-scikit-image==0.20.x  # Image processing algorithms
-matplotlib==3.6.x  # Data visualization

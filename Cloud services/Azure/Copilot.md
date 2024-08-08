@@ -1,4 +1,4 @@
-#GenAI
+#GenAI #azure
 
 ![](../../figures/Copilot.png)
 

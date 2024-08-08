@@ -1,6 +1,0 @@
-pandas==1.5.x  # Data manipulation and analysis
-NumPy==1.24.x  # Numerical computing
-statsmodels==0.13.x  # Statistical modeling
-scikit-learn==1.2.x  # Machine learning algorithms
-matplotlib==3.6.x  # Data visualization
-seaborn==0.12.x  # Statistical data visualization

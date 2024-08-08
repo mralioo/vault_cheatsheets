@@ -1,3 +1,5 @@
+#DNN #deeplearning 
+
 sources:
 * [The Transformer Model](https://machinelearningmastery.com/the-transformer-model/?fbclid=IwAR0IQKCtCr6A7qKie70bUmwRyH71BWWZL6AHYf6rVErVtLK4T4flmdE42jk)
 * https://huggingface.co/docs/transformers/index

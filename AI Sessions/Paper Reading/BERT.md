@@ -10,6 +10,8 @@ BERT visualization : [jessevig/bertviz: BertViz: Visualize Attention in NLP Mode
 
 ![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUfypJbLhxdqjdmkpzeP0LuzdkQHaYYsQKGGNvTWDVSyKdNIa_-8c4OgOJhapufr205Pk78dCj8xnLe7q7yki02Mc_AzBhfrtEDw9qLh3cSjG3lJkznwKE1nazrCan9wImzQjdb2kjWzMMHHo94Vr48WvP6zg65G=s2048?key=GNhf98lbYa4VBnFU7PkgHg)  
 
+### STEPS (from down to up)
+
 1. Inputs: Text is turned into numerical inputs  
     “Hello World” => [1064, 246]
 2. Input Embedding: The inputs are converted into embeddings (index look-up)
@@ -35,4 +37,14 @@ Notebook : [BERT MLM Demo (10_07_24) | Kaggle](https://www.kaggle.com/code/mrali
 ## Cloze-style questions approach
 
 https://aclanthology.org/2021.eacl-main.20.pdf
-**![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUed0hnhP4cv_fOesJNDTN1vmYbldJs4MaTvPR4klSw9nAaPPZlTdWZhJ_ZkhGKf9vHGNx2dOllPgh59YB1W2kqvpSZZeYUYnGWpCB8tA8gD5OkzTLaVSZh2Si9te4seHMm_7qStlbE96RuVvkUOpSZkfwIBRQ=s2048?key=GNhf98lbYa4VBnFU7PkgHg)**
+![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUed0hnhP4cv_fOesJNDTN1vmYbldJs4MaTvPR4klSw9nAaPPZlTdWZhJ_ZkhGKf9vHGNx2dOllPgh59YB1W2kqvpSZZeYUYnGWpCB8tA8gD5OkzTLaVSZh2Si9te4seHMm_7qStlbE96RuVvkUOpSZkfwIBRQ=s2048?key=GNhf98lbYa4VBnFU7PkgHg)
+
+
+
+## Other Models
+#LLM #NLP 
+
+
+* **ALBERT** paper with sentence order prediction: [https://arxiv.org/abs/1909.11942](https://arxiv.org/abs/1909.11942)
+* Optimized BERT: **ROBERTA**: [https://arxiv.org/abs/1907.11692](https://arxiv.org/abs/1907.11692)
+* Most commonly used encoder (based on **ELECTRA**) these days: **DEBERTAv3**: [https://arxiv.org/abs/2111.09543](https://arxiv.org/abs/2111.09543) 

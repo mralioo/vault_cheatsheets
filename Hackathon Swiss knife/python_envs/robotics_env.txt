@@ -1,4 +1,0 @@
-rospy==3.2.x  # ROS (Robot Operating System) client library (if using ROS)
-pybullet==3.x  # Physics simulation library (alternative to ROS)
-numpy==1.24.x  # Numerical computing
-scipy==1.9.x  # Scientific computing library

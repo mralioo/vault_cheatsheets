@@ -1,4 +1,4 @@
-#os #linux
+#os #linux #python 
 # Conda 
 
 ```shell 

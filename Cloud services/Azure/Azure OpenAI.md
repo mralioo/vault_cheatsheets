@@ -1,4 +1,4 @@
-
+#azure
 # Azure OpenAI REST API
 
 https://learn.microsoft.com/en-us/training/modules/build-language-solution-azure-openai/3-use-openai-rest

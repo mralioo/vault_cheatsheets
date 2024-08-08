@@ -1,4 +1,4 @@
-
+#azure
 
 Explore vCore-based Azure Cosmos DB for MongoDB, covering everything from basic concepts to initial setup. Understand the cost and scalability aspects, and how this service integrates with Azure for application development.
 

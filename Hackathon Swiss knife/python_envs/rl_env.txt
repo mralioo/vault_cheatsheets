@@ -1,4 +1,0 @@
-gym==0.23.x  # Reinforcement learning environment toolkit
-stable-baselines3==1.2.x  # OpenAI Gym-compatible RL algorithms
-tensorboard==2.9.x  # Visualization toolkit for RL experiments (optional)
-tensorflow==2.10.x  # Machine learning framework (consider PyTorch as well)
