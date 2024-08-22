@@ -1,20 +1,156 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2024-08-21 15.18.45.excalidraw",
+      "path": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-08-22 18.45.10.excalidraw",
+      "path": "Excalidraw/Drawing 2024-08-22 18.45.10.excalidraw.md"
+    },
+    {
+      "basename": "Vision Transformer (ViT)",
+      "path": "AI Sessions/Paper Reading/Vision Transformer (ViT).md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "ML/Deep learning architectures/Transformers.md"
+    },
+    {
+      "basename": "Haystack",
+      "path": "ML/LLM/Haystack.md"
+    },
+    {
+      "basename": "Vector Database",
+      "path": "ML/LLM/Vector Database.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "ML/RL/Resources.md"
+    },
+    {
+      "basename": "Vectara",
+      "path": "ML/LLM/Vectara.md"
+    },
+    {
+      "basename": "Unstructured Data",
+      "path": "ML/LLM/Unstructured Data.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "ML/LLM/RAG.md"
+    },
+    {
+      "basename": "Open Source Models",
+      "path": "ML/LLM/Open Source Models.md"
+    },
+    {
+      "basename": "LangChain",
+      "path": "ML/LLM/LangChain.md"
+    },
+    {
+      "basename": "Evaluate LLM",
+      "path": "ML/LLM/Evaluate LLM.md"
+    },
+    {
+      "basename": "Embedding",
+      "path": "ML/LLM/Embedding.md"
+    },
+    {
+      "basename": "YOLO",
+      "path": "AI Sessions/Paper Reading/YOLO.md"
+    },
+    {
+      "basename": "Convolution layer",
+      "path": "ML/Deep learning architectures/Convolution layer.md"
+    },
+    {
+      "basename": "Node-RED",
+      "path": "Tools & Libs/Node-RED.md"
+    },
+    {
       "basename": "Meta Continual Learning",
       "path": "AI Sessions/Paper Reading/Meta Continual Learning.md"
+    },
+    {
+      "basename": "ResNet model",
+      "path": "AI Sessions/Computer Vision/ResNet model.md"
+    },
+    {
+      "basename": "Vision Transformer",
+      "path": "AI Sessions/Computer Vision/Vision Transformer.md"
+    },
+    {
+      "basename": "Text Summarization",
+      "path": "AI Sessions/NLP/Text Summarization.md"
+    },
+    {
+      "basename": "Speech2Summary",
+      "path": "AI Sessions/NLP/Speech2Summary.md"
     },
     {
       "basename": "BERTopic",
       "path": "AI Sessions/NLP/BERTopic.md"
     },
     {
-      "basename": "Fundamentals of Deep Learning",
-      "path": "AI Sessions/Nvidia DL Workshop/Fundamentals of Deep Learning.md"
+      "basename": "Metrics",
+      "path": "ML/Metrics.md"
+    },
+    {
+      "basename": "Features Selection",
+      "path": "ML/Features Selection.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
+      "basename": "Classification",
+      "path": "ML/Classification.md"
+    },
+    {
+      "basename": "Best practice",
+      "path": "ML/Best practice.md"
+    },
+    {
+      "basename": "LSTM",
+      "path": "ML/Deep learning architectures/LSTM.md"
+    },
+    {
+      "basename": "The Gradient Descent",
+      "path": "ML/The Gradient Descent.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "ML/Algorithms.md"
+    },
+    {
+      "basename": "Activations",
+      "path": "ML/Activations.md"
     },
     {
       "basename": "BERT",
       "path": "AI Sessions/Paper Reading/BERT.md"
+    },
+    {
+      "basename": "xLSTM",
+      "path": "AI Sessions/Paper Reading/xLSTM.md"
+    },
+    {
+      "basename": "Grounding DINO",
+      "path": "AI Sessions/Paper Reading/Grounding DINO.md"
+    },
+    {
+      "basename": "Financial ML",
+      "path": "ML-Applications/Financial ML.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "AI Sessions/Docker.md"
+    },
+    {
+      "basename": "Fundamentals of Deep Learning",
+      "path": "AI Sessions/Nvidia DL Workshop/Fundamentals of Deep Learning.md"
     },
     {
       "basename": "Submodules",
@@ -49,156 +185,16 @@
       "path": "Hackathon Swiss knife/Brainstorming.md"
     },
     {
-      "basename": "RAG",
-      "path": "LLM/RAG.md"
-    },
-    {
       "basename": "FireCrawl",
       "path": "Tools & Libs/FireCrawl.md"
-    },
-    {
-      "basename": "Text Summarization",
-      "path": "AI Sessions/NLP/Text Summarization.md"
     },
     {
       "basename": "Whisper",
       "path": "AI Sessions/NLP/Whisper.md"
     },
     {
-      "basename": "Speech2Summary",
-      "path": "AI Sessions/NLP/Speech2Summary.md"
-    },
-    {
-      "basename": "Node-RED",
-      "path": "Tools & Libs/Node-RED.md"
-    },
-    {
       "basename": "SAM",
       "path": "Cloud services/AWS/SAM.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "AI Sessions/Docker.md"
-    },
-    {
-      "basename": "xLSTM",
-      "path": "AI Sessions/Paper Reading/xLSTM.md"
-    },
-    {
-      "basename": "Grounding DINO",
-      "path": "AI Sessions/Paper Reading/Grounding DINO.md"
-    },
-    {
-      "basename": "Data Warngling",
-      "path": "OS/Data Warngling.md"
-    },
-    {
-      "basename": "Terminal utils",
-      "path": "OS/Terminal utils.md"
-    },
-    {
-      "basename": "Bascis Linux",
-      "path": "OS/Bascis Linux.md"
-    },
-    {
-      "basename": "Data Classes",
-      "path": "Python/Data Classes.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
-      "basename": "t-SNE",
-      "path": "ML/Unsupervised Learning/t-SNE.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "ML/Unsupervised Learning/PCA.md"
-    },
-    {
-      "basename": "Clustering",
-      "path": "ML/Unsupervised Learning/Clustering.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Data Engineering/Resources.md"
-    },
-    {
-      "basename": "Databases",
-      "path": "Data Engineering/Databases.md"
-    },
-    {
-      "basename": "vCore-based",
-      "path": "Cloud services/Azure/vCore-based.md"
-    },
-    {
-      "basename": "Cosmos DB",
-      "path": "Cloud services/Azure/Cosmos DB.md"
-    },
-    {
-      "basename": "Copilot",
-      "path": "Cloud services/Azure/Copilot.md"
-    },
-    {
-      "basename": "Azure OpenAI",
-      "path": "Cloud services/Azure/Azure OpenAI.md"
-    },
-    {
-      "basename": "Deploy",
-      "path": "Cloud services/AWS/SageMaker/Deploy.md"
-    },
-    {
-      "basename": "Experiments",
-      "path": "Cloud services/AWS/SageMaker/Experiments.md"
-    },
-    {
-      "basename": "Pipelines",
-      "path": "Cloud services/AWS/SageMaker/Pipelines.md"
-    },
-    {
-      "basename": "SagerMaker",
-      "path": "Cloud services/AWS/SageMaker/SagerMaker.md"
-    },
-    {
-      "basename": "Scikit-learn with SageMaker",
-      "path": "Cloud services/AWS/SageMaker/Scikit-learn with SageMaker.md"
-    },
-    {
-      "basename": "AWS Fargate",
-      "path": "Cloud services/AWS/AWS Fargate.md"
-    },
-    {
-      "basename": "CloudForamtion",
-      "path": "Cloud services/AWS/CloudForamtion.md"
-    },
-    {
-      "basename": "ECS",
-      "path": "Cloud services/AWS/ECS.md"
-    },
-    {
-      "basename": "Lambda",
-      "path": "Cloud services/AWS/Lambda.md"
-    },
-    {
-      "basename": "VPC",
-      "path": "Cloud services/AWS/VPC.md"
-    },
-    {
-      "basename": "Mythical Mysfits Containers on AWS Workshop June 2023 (SLA)",
-      "path": "Cloud services/AWS/Mythical Mysfits Containers on AWS Workshop June 2023 (SLA).md"
-    },
-    {
-      "basename": "Vision Transformer",
-      "path": "AI Sessions/Computer Vision/Vision Transformer.md"
-    },
-    {
-      "basename": "ResNet model",
-      "path": "AI Sessions/Computer Vision/ResNet model.md"
-    },
-    {
-      "basename": "Tensorflow",
-      "path": "DL_framework/Tensorflow.md"
     }
   ],
   "omittedPaths": []

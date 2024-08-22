@@ -1,11 +1,12 @@
-#DNN #deeplearning 
+#DNN #deeplearning
 
 
 resources:
 [cs231n](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture10.pdf)
 [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-## 
+[CS 230 - Recurrent Neural Networks Cheatsheet (stanford.edu)](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+
 
 
 ## Stateful LSTM 

@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "c9dafc014c9811e7",
+        "id": "7a7a78242310adce",
         "type": "tabs",
+        "dimension": 77.6228016979988,
         "children": [
           {
-            "id": "e279b6784ad4ef7f",
+            "id": "e05a13c4947dc64f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Tools & Libs/Node-RED.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md"
               }
             }
           },
           {
-            "id": "7758f034371cd29a",
+            "id": "328a60f36c620947",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "47b8afdf708f8a49",
+        "type": "tabs",
+        "dimension": 22.377198302001215,
+        "children": [
+          {
+            "id": "a2b0277668adb40e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {
-                "file": "AI Sessions/Paper Reading/Meta Continual Learning.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#datascience",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 226.5
   },
   "right": {
     "id": "2b5e2d003146216d",
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Sessions/Paper Reading/Meta Continual Learning.md",
+                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Sessions/Paper Reading/Meta Continual Learning.md",
+                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Sessions/Paper Reading/Meta Continual Learning.md"
+                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md"
               }
             }
           },
@@ -196,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -204,58 +216,57 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
+      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7758f034371cd29a",
+  "active": "e05a13c4947dc64f",
   "lastOpenFiles": [
-    "AI Sessions/NLP/BERTopic.md",
-    "AI Sessions/Paper Reading/Meta Continual Learning.md",
-    "AI Sessions/Nvidia DL Workshop/Fundamentals of Deep Learning.md",
-    "AI Sessions/Paper Reading/BERT.md",
-    "GIT/Submodules.md",
-    "GIT/Merge , Rebase.md",
-    "GIT/Misc.md",
-    "GIT/Authentification.md",
-    "Hackathon Swiss knife/Best practises.md",
-    "Hackathon Swiss knife/Hardware.md",
-    "Hackathon Swiss knife/Data Manipulation.md",
-    "Hackathon Swiss knife/Brainstorming.md",
-    "LLM/RAG.md",
-    "Tools & Libs/FireCrawl.md",
-    "AI Sessions/NLP/Text Summarization.md",
-    "AI Sessions/NLP/Whisper.md",
-    "AI Sessions/NLP/Speech2Summary.md",
+    "Excalidraw/Drawing 2024-08-22 18.45.10.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-15 10.48.34.excalidraw.md",
+    "AI Sessions/Paper Reading/Vision Transformer (ViT).md",
+    "figures/Vision Transformer (ViT).avif",
+    "figures/Vision Transformer (ViT)-1.png",
+    "figures/Pasted Image 20240822184641_123.png",
+    "ML/Deep learning architectures/Transformers.md",
+    "ML/LLM/Haystack.md",
+    "figures/Haystack.png",
+    "ML/LLM/Vector Database.md",
+    "ML/RL/Resources.md",
+    "ML/LLM/Vectara.md",
+    "ML/LLM/Unstructured Data.md",
+    "ML/LLM/RAG.md",
+    "ML/LLM/Open Source Models.md",
+    "ML/LLM/LangChain.md",
+    "ML/LLM/Evaluate LLM.md",
+    "ML/LLM/Embedding.md",
+    "AI Sessions/Paper Reading/YOLO.md",
+    "figures/YOLO.jpg",
+    "ML/Deep learning architectures/Convolution layer.md",
     "Tools & Libs/Node-RED.md",
-    "Cloud services/AWS/SAM.md",
-    "AI Sessions/Docker.md",
-    "AI Sessions/Paper Reading/xLSTM.md",
-    "AI Sessions/Paper Reading/Grounding DINO.md",
-    "OS/Data Warngling.md",
-    "OS/Terminal utils.md",
-    "OS/Bascis Linux.md",
-    "Python/Data Classes.md",
+    "AI Sessions/Paper Reading/Meta Continual Learning.md",
+    "AI Sessions/Computer Vision/ResNet model.md",
+    "AI Sessions/Computer Vision/Vision Transformer.md",
+    "AI Sessions/NLP/Text Summarization.md",
+    "AI Sessions/NLP/Speech2Summary.md",
+    "AI Sessions/NLP/BERTopic.md",
+    "ML/Metrics.md",
+    "ML/Features Selection.md",
+    "figures/Vision Transformer (ViT).png",
+    "figures/Pasted Image 20240821151900_380.png",
+    "figures/Vector Database.png",
+    "figures/Best practice.jpg",
+    "figures/Evaluate LLM.jpg",
     "Untitled.canvas",
     "FSP",
-    "figures/Classification.png",
-    "figures/Transformers-1.jpg",
-    "figures/Vision Transformer.jpg",
-    "figures/Untitled.jpg",
     "AI Sessions/Paper Reading",
-    "figures/Embedding.jpg",
-    "figures/Fundamentals of Deep Learning.png",
     "figures/Fundamentals of Deep Learning-1.pdf",
     "figures/Fundamentals of Deep Learning.pdf",
-    "figures/Transformers-6.png",
-    "figures/Transformers-5.png",
-    "figures/Transformers-4.png",
-    "figures/Transformers.jpg",
     "ML/Resources-pdfs/ML_scikit_learn.pdf",
     "ML/Resources-pdfs/ML_overview.pdf",
     "ML/Resources-pdfs/ML_algorthims_diagram.pdf",

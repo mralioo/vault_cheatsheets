@@ -1,4 +1,4 @@
-#DNN #deeplearning 
+#DNN #deeplearning #Transformer 
 
 sources:
 * [The Transformer Model](https://machinelearningmastery.com/the-transformer-model/?fbclid=IwAR0IQKCtCr6A7qKie70bUmwRyH71BWWZL6AHYf6rVErVtLK4T4flmdE42jk)
@@ -6,6 +6,17 @@ sources:
 - [The concept of attention](https://machinelearningmastery.com/what-is-attention/)
 - [What is attention](https://machinelearningmastery.com/what-is-attention/)
 - [The Attention Mechanism from Scratch](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
+
+
+Code : 
+
+[Problems (neetcode.io)](https://neetcode.io/problems/self-attention)
+
+
+Visualization: 
+[poloclub.github.io/transformer-explainer/](https://poloclub.github.io/transformer-explainer/)
+
+
 
 
 ![](../../figures/Transformers.jpg)

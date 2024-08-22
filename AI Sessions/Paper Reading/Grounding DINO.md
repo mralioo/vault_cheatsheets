@@ -1,4 +1,4 @@
-#CV 
+#CV #AI_session 
 
 [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/abs/2303.05499)
 

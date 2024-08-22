@@ -1,9 +1,11 @@
-#NLP #LLM
+#NLP #LLM #Transformer 
 
 presentation :  https://docs.google.com/presentation/d/1LNx_1Fs4n6_5tk63I3shI0shHRqAJZhJUzaZ3aI9OAI/edit?usp=sharing
 
 
-BERT visualization : [jessevig/bertviz: BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) (github.com)](https://github.com/jessevig/bertviz)
+BERT visualization : 
+
+* [jessevig/bertviz: BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) (github.com)](https://github.com/jessevig/bertviz)
 
 
 [google-bert/bert-base-uncased · Hugging Face](https://huggingface.co/google-bert/bert-base-uncased)
