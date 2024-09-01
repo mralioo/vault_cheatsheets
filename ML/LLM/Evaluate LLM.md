@@ -3,8 +3,6 @@
 
 
 ![](../../figures/Evaluate%20LLM.jpg)
-
-
 𝐋𝐋𝐌 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧 𝐔𝐧𝐩𝐚𝐜𝐤𝐞𝐝: 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐟𝐨𝐫 𝐏𝐞𝐚𝐤 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞  
   
   
@@ -23,29 +21,29 @@ Includes NLI scorers and BLEURT, improving upon statistical methods but struggli
   
 ## Advanced Frameworks and Methods  
   
-◉ Prometheus  
+## Prometheus  
   
 A fine-tuned LLM evaluation model based on Llama-2-Chat, focusing on open-source, detailed feedback.  
   
-◉ Combining Scorers  
+### Combining Scorers  
   
 Merging statistical and model-based methods for enhanced evaluation accuracy.  
   
-◉ GPTScore & SelfCheckGPT  
+### GPTScore & SelfCheckGPT  
   
 New methodologies for nuanced insights into performance, particularly in identifying errors and inaccuracies.  
   
 ## Tailored Evaluation for Specific Use Cases  
   
-◉ RAG Metrics  
+*  RAG Metrics  
   
 Custom metrics for Retrieval-Augmented Generation systems, assessing faithfulness, relevancy, and precision.  
   
-◉ Fine-Tuning Metrics  
+*  Fine-Tuning Metrics  
   
 Important for aligning LLMs with specific needs or ethical standards, focusing on reducing hallucinations and toxicity.  
   
-◉ Use Case Specific Metrics  
+*  Use Case Specific Metrics  
   
 For summarization tasks, emphasizing factual alignment and comprehensive information inclusion.  
   
@@ -53,14 +51,7 @@ For summarization tasks, emphasizing factual alignment and comprehensive informa
 📚 Innovative Tools  
   
 Tools like DeepEval and frameworks such as G-Eval and Prometheus arm developers with the necessary resources to refine LLM applications for precise goals and ethical standards.
-
-
-
 # Tonic.ai 
 
-
 Tonic is a tool for monitoring the LLM model performance and 
-
-
 ## Truelens
-

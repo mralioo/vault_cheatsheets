@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7a78242310adce",
+        "id": "8c69248a489c96ac",
         "type": "tabs",
-        "dimension": 77.6228016979988,
         "children": [
           {
-            "id": "e05a13c4947dc64f",
+            "id": "6123d9074a730b9b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md"
+                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "328a60f36c620947",
+            "id": "a00d25400718ecfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "47b8afdf708f8a49",
-        "type": "tabs",
-        "dimension": 22.377198302001215,
-        "children": [
-          {
-            "id": "a2b0277668adb40e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md"
+                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#datascience",
+                "query": "tag:#LULC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 200
   },
   "right": {
     "id": "2b5e2d003146216d",
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md",
+                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md",
+                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md"
+                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md"
               }
             }
           },
@@ -202,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,54 +212,54 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e05a13c4947dc64f",
+  "active": "a00d25400718ecfc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-22 18.45.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-15 10.48.34.excalidraw.md",
-    "AI Sessions/Paper Reading/Vision Transformer (ViT).md",
-    "figures/Vision Transformer (ViT).avif",
-    "figures/Vision Transformer (ViT)-1.png",
-    "figures/Pasted Image 20240822184641_123.png",
-    "ML/Deep learning architectures/Transformers.md",
-    "ML/LLM/Haystack.md",
-    "figures/Haystack.png",
-    "ML/LLM/Vector Database.md",
-    "ML/RL/Resources.md",
-    "ML/LLM/Vectara.md",
-    "ML/LLM/Unstructured Data.md",
-    "ML/LLM/RAG.md",
-    "ML/LLM/Open Source Models.md",
-    "ML/LLM/LangChain.md",
-    "ML/LLM/Evaluate LLM.md",
-    "ML/LLM/Embedding.md",
-    "AI Sessions/Paper Reading/YOLO.md",
-    "figures/YOLO.jpg",
-    "ML/Deep learning architectures/Convolution layer.md",
-    "Tools & Libs/Node-RED.md",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python.gz",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python-1.pdf",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python-1.png",
+    "AI Sessions/Nvidia/Fundamentals of Deep Learning.md",
+    "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
+    "AI Sessions/Nvidia/Drawing 2024-09-01 13.52.19.excalidraw.md",
+    "figures/Pasted Image 20240901135249_450.png",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python.pdf",
+    "Python/Exception & Error Handling.md",
+    "ML/LLM/LLM Models.md",
+    "ML-Applications/Time Serie.md",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python.png",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python.ipynb",
+    "figures/Drawing 2024-08-28 14.53.44.excalidraw.md",
+    "ML-Applications/Remote Sensing.md",
+    "ML/Deep learning architectures/Generative Modeling.md",
+    "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md",
     "AI Sessions/Paper Reading/Meta Continual Learning.md",
-    "AI Sessions/Computer Vision/ResNet model.md",
-    "AI Sessions/Computer Vision/Vision Transformer.md",
-    "AI Sessions/NLP/Text Summarization.md",
-    "AI Sessions/NLP/Speech2Summary.md",
-    "AI Sessions/NLP/BERTopic.md",
-    "ML/Metrics.md",
-    "ML/Features Selection.md",
-    "figures/Vision Transformer (ViT).png",
-    "figures/Pasted Image 20240821151900_380.png",
-    "figures/Vector Database.png",
-    "figures/Best practice.jpg",
-    "figures/Evaluate LLM.jpg",
-    "Untitled.canvas",
-    "FSP",
-    "AI Sessions/Paper Reading",
-    "figures/Fundamentals of Deep Learning-1.pdf",
-    "figures/Fundamentals of Deep Learning.pdf",
-    "ML/Resources-pdfs/ML_scikit_learn.pdf",
-    "ML/Resources-pdfs/ML_overview.pdf",
-    "ML/Resources-pdfs/ML_algorthims_diagram.pdf",
-    "ML/Resources-pdfs/ML_algorithms.pdf",
-    "ML/Unsupervised Learning",
-    "AI Sessions/NLP"
+    "AI Sessions/Paper Reading/Grounding DINO.md",
+    "AI Sessions/Nvidia/Generative AI with Diffusion Models.md",
+    "ML/Deep learning architectures/AutoEncoder.md",
+    "AI Sessions/Untitled.md",
+    "AI Sessions/Nvidia",
+    "ML/Deep learning architectures/Convolution Models.md",
+    "ML/Deep learning architectures/Introduction to  Deep Learning.md",
+    "figures/AutoEncoder.pdf",
+    "Embedded System/Courses.md",
+    "Untitled.md",
+    "Embedded System",
+    "README.md",
+    "ML/Deep learning architectures/Transformers Models.md",
+    "Generative Modeling.canvas",
+    "ML/Deep learning architectures/Recurrent Neural Network.md",
+    "ML-Applications/Computer Vision.md",
+    "figures/LLM Models.png",
+    "figures/LLM Models.gif",
+    "CUDA/Sources.md",
+    "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md",
+    "CUDA",
+    "figures/Contrastive Language-Image Pretraining (CLIP).png",
+    "figures/LLaVA Large Language and Vision Assistant.pdf",
+    "figures/Best practice.gif",
+    "figures/Classification.jpg",
+    "figures/RAG.jpg",
+    "figures/RAG-4.png",
+    "figures/Neural-symbolic AI.pdf",
+    "figures/Recurrent Neural Network.pdf"
   ]
 }

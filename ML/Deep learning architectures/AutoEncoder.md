@@ -1,0 +1,9 @@
+
+Sources 
+
+
+| Title | Link                                                                                                                                                                                                                                                                                                                                                                                    | Description | Note              |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------- |
+|       |                                                                                                                                                                                                                                                                                                                                                                                         |             |                   |
+|       | [(1) λux auf X: „DAILY ML GRIND: - studied for 8.5 hrs - studied autoencoders - under complete and over complete autoencoders, deriving loss function, input cases - learned about regularization in autoencoders - understood denoising autoencoders - pmpp grind : studied redn trees, redn kernel https://t.co/3hgprawRsV“ / X](https://x.com/novasarc01/status/1828114893960024131) | cheat sheet | good illustration |
+![](../../figures/AutoEncoder.pdf)

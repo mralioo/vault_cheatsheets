@@ -22,7 +22,6 @@ Embedders in Haystack transform texts or Documents into vector representations u
 ==YOU can write you own components and add it to the pipeline==
 
 
-
 ## Pipelines
 [Pipelines](https://docs.haystack.deepset.ai/docs/pipelines) are powerful abstractions that allow you to define the flow of data through your LLM application. They consist of _components_.
 

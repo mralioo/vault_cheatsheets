@@ -4,5 +4,10 @@
   "attachmentFolderPath": "figures",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "spellcheck": true
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "livePreview": true,
+  "tabSize": 3,
+  "readableLineLength": false
 }

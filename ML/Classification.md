@@ -3,4 +3,8 @@
 
 ![](../figures/Classification.png)
 
-## Imbalanced classes 
+## Imbalanced classes
+
+
+
+![](../figures/Classification.jpg)
