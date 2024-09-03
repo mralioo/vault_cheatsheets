@@ -486,3 +486,198 @@ def histogram(x, xmin, xmax, histogram_out):
 
 
 
+### coalesced memory access
+
+* Memory coalescing is a technique which allows optimal usage of the global memory bandwidth. That is, when parallel threads running the same instruction access to consecutive locations in the global memory, the most favorable access pattern is achieved.
+![](../../figures/Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python-2.pdf)
+
+
+![](../../figures/Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python-4.png)
+
+## Shared Memory
+
+
+- So far we have been differentiating between host and device memory, as if device memory were a single kind of memory. But in fact, CUDA has an even more fine-grained [memory hierarchy](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#memory-hierarchy). 
+
+- The device memory we have been utilizing thus far is called ====**global memory**==== which is available to any thread or block on the device, can persist for the lifetime of the application, and is a relatively large memory space.
+
+- We will now discuss how to utilize a region of on-chip device memory called **shared memory**. ====Shared memory is a programmer defined cache of limited size that [depends on the GPU](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#compute-capabilities) being used and is **shared** between all threads in a block. ====
+
+- It is a scarce resource, cannot be accessed by threads outside of the block where it was allocated, and does not persist after a kernel finishes executing.
+
+- Shared memory however has a much higher bandwidth than global memory and can be used to great effect in many kernels, especially to optimize performance.
+
+Here are a few common use cases for shared memory:
+- Caching memory read from global memory that will need to be read multiple times within a block.
+- ====Buffering output from threads==== so it can be coalesced before writing it back to global memory.
+- Staging data for scatter/gather operations within a block.
+### Shared Memory Syntax
+
+- Numba provides [functions](https://numba.pydata.org/numba-doc/dev/cuda/memory.html#shared-memory-and-thread-synchronization) for allocating shared memory as well as for synchronizing between threads in a block, which is often necessary after parallel threads read from or write to shared memory.
+
+- When declaring shared memory, you provide the shape of the shared array, as well as its type, using a [Numba type](https://numba.pydata.org/numba-doc/dev/reference/types.html#numba-types). 
+- **The shape of the array must be a constant value**, and therefore, you cannot use arguments passed into the function, or, provided variables like `numba.cuda.blockDim.x`, or the calculated values of `cuda.griddim`. 
+
+Here is a convoluted example to demonstrate the syntax with comments pointing out the movement from host memory to global device memory, to shared memory, back to global device memory, and finally back to host memory:
+
+
+
+``` python
+
+import numpy as np
+from numba import types, cuda
+
+vector = np.arange(4).astype(np.int32) 
+swapped = np.zeros_like(vector)
+
+# Move host memory to device (global) memory
+d_vector = cuda.to_device(vector)
+d_swapped = cuda.to_device(swapped)
+
+
+'''
+Swap Elements Using Shared Memory
+
+The following kernel takes an input vector, where each thread will first write one element of the vector to shared memory, and then, after syncing such that all elements have been written to shared memory, will write one element out of shared memory into the swapped output vector.
+
+Worth noting is that each thread will be writing a swapped value from shared memory that was written into shared memory by another thread.
+'''
+
+@cuda.jit
+def swap_with_shared(vector, swapped):
+    # Allocate a 4 element vector containing int32 values in shared memory.
+    temp = cuda.shared.array(4, dtype=types.int32)
+    
+    idx = cuda.grid(1)
+    
+    # Move an element from global memory into shared memory
+    temp[idx] = vector[idx]
+    
+    # cuda.syncthreads will force all threads in the block to synchronize here, which is necessary because...
+    cuda.syncthreads()
+    #...the following operation is reading an element written to shared memory by another thread.
+    
+    # Move an element from shared memory back into global memory
+    swapped[idx] = temp[3 - cuda.threadIdx.x] # swap elements
+
+```
+
+![](../../figures/Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python-3.pdf)
+
+![](../../figures/Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python-6.png)
+
+### Coalesced Reads, Uncoalesced Writes
+
+``` python
+
+import numpy as np
+from numba import cuda, types as numba_types
+
+n = 4096*4096 # 16M
+
+# 2D blocks
+threads_per_block = (32, 32)
+#2D grid
+blocks = (128, 128)
+
+# 4096x4096 input and output matrices
+a = np.arange(n).reshape((4096,4096)).astype(np.float32)
+transposed = np.zeros_like(a).astype(np.float32)
+
+d_a = cuda.to_device(a)
+d_transposed = cuda.to_device(transposed)
+
+@cuda.jit
+def tile_transpose(a, transposed):
+    # `tile_transpose` assumes it is launched with a 32x32 block dimension,
+    # and that `a` is a multiple of these dimensions.
+    
+    # 1) Create 32x32 shared memory array.
+    tile = cuda.shared.array((32,32), numba_types.float32) 
+    
+
+    # Compute offsets into global input array. Recall for coalesced access we want to map threadIdx.x increments to
+    # the fastest changing index in the data, i.e. the column in our array.
+    # Note: `a_col` and `a_row` are already correct.
+    a_col = cuda.blockIdx.x * cuda.blockDim.x + cuda.threadIdx.x
+    a_row = cuda.blockIdx.y * cuda.blockDim.y + cuda.threadIdx.y
+    
+    # 2) Make coalesced read from global memory (using grid indices)
+    # into shared memory array (using thread indices).
+    
+    tile[cuda.threadIdx.y, cuda.threadIdx.x] = a[a_row, a_col]
+
+    # 3) Wait for all threads in the block to finish updating shared memory.
+    
+    cuda.syncthreads()
+    
+    # 4) Calculate transposed location for the shared memory array tile
+    # to be written back to global memory. Note that blockIdx.y*blockDim.y 
+    # and blockIdx.x* blockDim.x are swapped (because we want to write to the
+    # transpose locations), but we want to keep access coalesced, so match up the
+    # threadIdx.x to the fastest changing index, i.e. the column./
+    # Note: `t_col` and `t_row` are already correct.
+    t_col = cuda.blockIdx.y * cuda.blockDim.y + cuda.threadIdx.x
+    t_row = cuda.blockIdx.x * cuda.blockDim.x + cuda.threadIdx.y
+
+    # 5) Write from shared memory (using thread indices)
+    # back to global memory (using grid indices)
+    # transposing each element within the shared memory array.
+    transposed[t_row, t_col] = tile[cuda.threadIdx.x, cuda.threadIdx.y]
+```
+
+## Memory Bank Conflicts
+
+![](../../figures/Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python-4.pdf)
+
+
+
+| Bank Conflict                                                                               | Solution                                               |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| ![](../../figures/Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python-9.png) | ![](../../figures/Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python-11.png) |
+
+``` python
+import numpy as np
+from numba import cuda, types as numba_types
+
+
+n = 4096*4096 # 16M
+threads_per_block = (32, 32)
+blocks = (128, 128)
+
+a = np.arange(n).reshape((4096,4096)).astype(np.float32)
+transposed = np.zeros_like(a).astype(np.float32)
+
+d_a = cuda.to_device(a)
+d_transposed = cuda.to_device(transposed)
+
+@cuda.jit
+def tile_transpose_conflict_free(a, transposed):
+    # `tile_transpose` assumes it is launched with a 32x32 block dimension,
+    # and that `a` is a multiple of these dimensions.
+    
+    # 1) Create 32x32 shared memory array.
+    tile = cuda.shared.array((32, 33), numba_types.float32) # add extra col 
+
+    # Compute offsets into global input array.
+    x = cuda.blockIdx.x * cuda.blockDim.x + cuda.threadIdx.x
+    y = cuda.blockIdx.y * cuda.blockDim.y + cuda.threadIdx.y
+    
+    # 2) Make coalesced read from global memory into shared memory array.
+    # Note the use of local thread indices for the shared memory write,
+    # and global offsets for global memory read.
+    tile[cuda.threadIdx.y, cuda.threadIdx.x] = a[y, x]
+
+    # 3) Wait for all threads in the block to finish updating shared memory.
+    cuda.syncthreads()
+    
+    # 4) Calculate transposed location for the shared memory array tile
+    # to be written back to global memory.
+    t_x = cuda.blockIdx.y * cuda.blockDim.y + cuda.threadIdx.x
+    t_y = cuda.blockIdx.x * cuda.blockDim.x + cuda.threadIdx.y
+
+    # 5) Write back to global memory,
+    # transposing each element within the shared memory array.
+    transposed[t_y, t_x] = tile[cuda.threadIdx.x, cuda.threadIdx.y]
+
+```

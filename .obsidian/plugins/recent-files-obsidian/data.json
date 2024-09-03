@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Deploying RAG Pipelines for Production at Scale",
+      "path": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md"
+    },
+    {
+      "basename": "Generative AI with Diffusion Models",
+      "path": "AI Sessions/Nvidia/Generative AI with Diffusion Models.md"
+    },
+    {
       "basename": "Fundamentals of Accelerated Computing with CUDA Python",
       "path": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md"
+    },
+    {
+      "basename": "Contrastive Language-Image Pretraining (CLIP)",
+      "path": "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md"
+    },
+    {
+      "basename": "BERT",
+      "path": "AI Sessions/Paper Reading/BERT.md"
     },
     {
       "basename": "Fundamentals of Deep Learning",
       "path": "AI Sessions/Nvidia/Fundamentals of Deep Learning.md"
     },
     {
-      "basename": "Drawing 2024-09-01 13.52.19.excalidraw",
-      "path": "AI Sessions/Nvidia/Drawing 2024-09-01 13.52.19.excalidraw.md"
+      "basename": "Docker",
+      "path": "AI Sessions/Docker.md"
+    },
+    {
+      "basename": "YOLO",
+      "path": "AI Sessions/Paper Reading/YOLO.md"
+    },
+    {
+      "basename": "xLSTM",
+      "path": "AI Sessions/Paper Reading/xLSTM.md"
+    },
+    {
+      "basename": "Vision Transformer",
+      "path": "AI Sessions/Computer Vision/Vision Transformer.md"
+    },
+    {
+      "basename": "ResNet model",
+      "path": "AI Sessions/Computer Vision/ResNet model.md"
+    },
+    {
+      "basename": "BERTopic",
+      "path": "AI Sessions/NLP/BERTopic.md"
+    },
+    {
+      "basename": "Speech2Summary",
+      "path": "AI Sessions/NLP/Speech2Summary.md"
+    },
+    {
+      "basename": "Text Summarization",
+      "path": "AI Sessions/NLP/Text Summarization.md"
+    },
+    {
+      "basename": "Whisper",
+      "path": "AI Sessions/NLP/Whisper.md"
+    },
+    {
+      "basename": "LLaVA Large Language and Vision Assistant",
+      "path": "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md"
+    },
+    {
+      "basename": "Meta Continual Learning",
+      "path": "AI Sessions/Paper Reading/Meta Continual Learning.md"
+    },
+    {
+      "basename": "Phi Textbooks are all You Need",
+      "path": "AI Sessions/Paper Reading/Phi Textbooks are all You Need.md"
+    },
+    {
+      "basename": "Vision Transformer (ViT)",
+      "path": "AI Sessions/Paper Reading/Vision Transformer (ViT).md"
     },
     {
       "basename": "Exception & Error Handling",
@@ -37,20 +101,8 @@
       "path": "ML/Deep learning architectures/Generative Modeling.md"
     },
     {
-      "basename": "Contrastive Language-Image Pretraining (CLIP)",
-      "path": "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md"
-    },
-    {
-      "basename": "Meta Continual Learning",
-      "path": "AI Sessions/Paper Reading/Meta Continual Learning.md"
-    },
-    {
       "basename": "Grounding DINO",
       "path": "AI Sessions/Paper Reading/Grounding DINO.md"
-    },
-    {
-      "basename": "Generative AI with Diffusion Models",
-      "path": "AI Sessions/Nvidia/Generative AI with Diffusion Models.md"
     },
     {
       "basename": "AutoEncoder",
@@ -93,30 +145,6 @@
       "path": "CUDA/Sources.md"
     },
     {
-      "basename": "LLaVA Large Language and Vision Assistant",
-      "path": "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md"
-    },
-    {
-      "basename": "xLSTM",
-      "path": "AI Sessions/Paper Reading/xLSTM.md"
-    },
-    {
-      "basename": "Vision Transformer (ViT)",
-      "path": "AI Sessions/Paper Reading/Vision Transformer (ViT).md"
-    },
-    {
-      "basename": "ResNet model",
-      "path": "AI Sessions/Computer Vision/ResNet model.md"
-    },
-    {
-      "basename": "Vision Transformer",
-      "path": "AI Sessions/Computer Vision/Vision Transformer.md"
-    },
-    {
-      "basename": "YOLO",
-      "path": "AI Sessions/Paper Reading/YOLO.md"
-    },
-    {
       "basename": "Cross-Validation",
       "path": "ML/Cross-Validation.md"
     },
@@ -151,54 +179,6 @@
     {
       "basename": "LangChain",
       "path": "ML/LLM/LangChain.md"
-    },
-    {
-      "basename": "Haystack",
-      "path": "ML/LLM/Haystack.md"
-    },
-    {
-      "basename": "Courses",
-      "path": "ML/LLM/Courses.md"
-    },
-    {
-      "basename": "Embedding",
-      "path": "ML/LLM/Embedding.md"
-    },
-    {
-      "basename": "Evaluate LLM",
-      "path": "ML/LLM/Evaluate LLM.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "ML/LLM/RAG.md"
-    },
-    {
-      "basename": "Vector Database",
-      "path": "ML/LLM/Vector Database.md"
-    },
-    {
-      "basename": "Unstructured Data",
-      "path": "ML/LLM/Unstructured Data.md"
-    },
-    {
-      "basename": "Drawing 2024-08-27 14.42.39.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-27 14.42.39.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-08-21 15.18.45.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-08-22 18.45.10.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-22 18.45.10.excalidraw.md"
-    },
-    {
-      "basename": "Hydra",
-      "path": "MLOps/Hydra.md"
-    },
-    {
-      "basename": "DVC",
-      "path": "MLOps/DVC.md"
     }
   ],
   "omittedPaths": []

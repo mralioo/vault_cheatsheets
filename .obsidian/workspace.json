@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8c69248a489c96ac",
+        "id": "2cde67da1515292a",
         "type": "tabs",
         "children": [
           {
-            "id": "6123d9074a730b9b",
+            "id": "e83882a4a26c3bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a00d25400718ecfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
+                "file": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "right": {
     "id": "2b5e2d003146216d",
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
+                "file": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
+                "file": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md"
+                "file": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md"
               }
             }
           },
@@ -212,54 +199,54 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a00d25400718ecfc",
+  "active": "e83882a4a26c3bcf",
   "lastOpenFiles": [
+    "figures/Deploying RAG Pipelines for Production at Scale-16.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-15.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-14.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-13.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-12.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-11.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-10.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-9.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-8.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-7.png",
+    "figures/Deploying RAG Pipelines for Production at Scale-6.png",
+    "AI Sessions/Nvidia/Generative AI with Diffusion Models.md",
+    "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md",
+    "AI Sessions/Nvidia/Drawing 2024-09-01 13.52.19.excalidraw.md",
+    "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
+    "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md",
+    "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md",
+    "AI Sessions/Paper Reading/BERT.md",
+    "AI Sessions/Nvidia/Fundamentals of Deep Learning.md",
+    "Excalidraw/Drawing 2024-09-02 21.10.27.excalidraw.md",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python-4.pdf",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python-3.pdf",
+    "Excalidraw/Drawing 2024-08-27 14.42.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-22 18.45.10.excalidraw.md",
+    "AI Sessions/Docker.md",
+    "AI Sessions/Paper Reading/YOLO.md",
+    "AI Sessions/Paper Reading/xLSTM.md",
+    "AI Sessions/Computer Vision/Vision Transformer.md",
+    "AI Sessions/Computer Vision/ResNet model.md",
+    "AI Sessions/NLP/BERTopic.md",
+    "AI Sessions/NLP/Speech2Summary.md",
+    "AI Sessions/NLP/Text Summarization.md",
+    "AI Sessions/NLP/Whisper.md",
+    "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md",
+    "AI Sessions/Paper Reading/Meta Continual Learning.md",
+    "AI Sessions/Paper Reading/Phi Textbooks are all You Need.md",
+    "AI Sessions/Paper Reading/Vision Transformer (ViT).md",
+    "figures/Fundamentals of Accelerated Computing with CUDA Python-2.pdf",
     "figures/Fundamentals of Accelerated Computing with CUDA Python.gz",
     "figures/Fundamentals of Accelerated Computing with CUDA Python-1.pdf",
-    "figures/Fundamentals of Accelerated Computing with CUDA Python-1.png",
-    "AI Sessions/Nvidia/Fundamentals of Deep Learning.md",
-    "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
-    "AI Sessions/Nvidia/Drawing 2024-09-01 13.52.19.excalidraw.md",
-    "figures/Pasted Image 20240901135249_450.png",
     "figures/Fundamentals of Accelerated Computing with CUDA Python.pdf",
     "Python/Exception & Error Handling.md",
-    "ML/LLM/LLM Models.md",
-    "ML-Applications/Time Serie.md",
-    "figures/Fundamentals of Accelerated Computing with CUDA Python.png",
     "figures/Fundamentals of Accelerated Computing with CUDA Python.ipynb",
-    "figures/Drawing 2024-08-28 14.53.44.excalidraw.md",
-    "ML-Applications/Remote Sensing.md",
-    "ML/Deep learning architectures/Generative Modeling.md",
-    "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md",
-    "AI Sessions/Paper Reading/Meta Continual Learning.md",
-    "AI Sessions/Paper Reading/Grounding DINO.md",
-    "AI Sessions/Nvidia/Generative AI with Diffusion Models.md",
-    "ML/Deep learning architectures/AutoEncoder.md",
-    "AI Sessions/Untitled.md",
     "AI Sessions/Nvidia",
-    "ML/Deep learning architectures/Convolution Models.md",
-    "ML/Deep learning architectures/Introduction to  Deep Learning.md",
     "figures/AutoEncoder.pdf",
-    "Embedded System/Courses.md",
-    "Untitled.md",
     "Embedded System",
-    "README.md",
-    "ML/Deep learning architectures/Transformers Models.md",
-    "Generative Modeling.canvas",
-    "ML/Deep learning architectures/Recurrent Neural Network.md",
-    "ML-Applications/Computer Vision.md",
-    "figures/LLM Models.png",
-    "figures/LLM Models.gif",
-    "CUDA/Sources.md",
-    "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md",
-    "CUDA",
-    "figures/Contrastive Language-Image Pretraining (CLIP).png",
-    "figures/LLaVA Large Language and Vision Assistant.pdf",
-    "figures/Best practice.gif",
-    "figures/Classification.jpg",
-    "figures/RAG.jpg",
-    "figures/RAG-4.png",
-    "figures/Neural-symbolic AI.pdf",
-    "figures/Recurrent Neural Network.pdf"
+    "Generative Modeling.canvas"
   ]
 }

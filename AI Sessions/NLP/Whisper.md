@@ -1,5 +1,9 @@
 #LLM 
 
+
+Slide : https://docs.google.com/presentation/d/12wAbvqUFYTxRESxHerJeM5ek3egl222YvpGi29b5FAc/edit?usp=sharing
+
+
 Tokenization
 
 

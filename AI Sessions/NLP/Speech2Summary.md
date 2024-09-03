@@ -1,19 +1,28 @@
 #NLP #LLM #DNN 
-# Intro 
 
-https://colab.research.google.com/drive/1WC6M0f1ycusNmAPUIwiMZN27reMmOF2O?usp=sharing
+
+Slide : https://docs.google.com/presentation/d/1dqXrTicABaeswUHuYOEyqywa-8e6IRJU_0lihqYZaFA/edit?usp=sharing
+
+* https://docs.google.com/presentation/d/1O0j4Pz1Ef8rHzrptKRlR5M5Lu9tomUqtJYrH7ZtHxHc/edit?usp=sharing
+
+Notebook : https://colab.research.google.com/drive/1WC6M0f1ycusNmAPUIwiMZN27reMmOF2O?usp=sharing
+
 
 transcript speech to text using whisper model and 
-
 ### OpenAI’s Whisper
 
 ![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUeZSNiIIKAKcSsDLf4A8bRRMUTZyiwInTIuN7a1WEeurwks_9zbhOBn6YihX1Gsz96cLWi4dLg3f89UXPVI2jr2e9PAj-x4RMHmMZ1gVFevx3Z3qt3Wx_LTU-XZO--72MfWhQwnC7GqNgh2ap3A2OnK5GOWtRA=s2048?key=x4ytx-bu5gxo1jL03Kq2DQ)**
 
 
 
-https://docs.google.com/presentation/d/1O0j4Pz1Ef8rHzrptKRlR5M5Lu9tomUqtJYrH7ZtHxHc/edit?usp=sharing
 
-phi-3 model : 
+
+
+## Phi model
+
+
+
+### phi-3 model : 
 https://huggingface.co/microsoft/Phi-3-mini-4k-instruct
 
 
@@ -22,7 +31,7 @@ instruct : models that always predict the next token
 
 
 
-prompt formmatting : 
+prompt formatting : 
 
 
 better use :
