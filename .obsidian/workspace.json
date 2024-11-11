@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md",
+                "file": "ML/LLM/Haystack.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Haystack"
+            }
+          },
+          {
+            "id": "086a9ee38cde4ca4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -78,10 +101,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -101,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md",
+                "file": "Python/Design Pattern.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,7 +135,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Design Pattern"
             }
           },
           {
@@ -118,10 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md",
+                "file": "Python/Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Design Pattern"
             }
           },
           {
@@ -132,7 +162,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,8 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md"
-              }
+                "file": "ML/LLM/Haystack.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Haystack"
             }
           },
           {
@@ -150,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -162,7 +198,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -170,15 +208,17 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +239,37 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e83882a4a26c3bcf",
+  "active": "b53d4f934775945a",
   "lastOpenFiles": [
+    "ML/LLM/MOOC LLM Agent UC Berkeley/CS 194294196 (LLM Agents)  Lecture 2, Shunyu Yao.md",
+    "ML/LLM/MOOC LLM Agent UC Berkeley/Large Language Model Agents.md",
+    "Tools & Libs/SLURM.md",
+    "Tools & Libs/SSH.md",
+    "MLOps/Monitoring/Weights & Biases.md",
+    "MLOps/Monitoring/Tensorboard.md",
+    "MLOps/Monitoring/MLflow.md",
+    "Untitled.md",
+    "Writing/Latex/Formatting.md",
+    "Writing/Blog posts Drafts/1_Blog.md",
+    "Tools & Libs/Yellowbrick.md",
+    "Tools & Libs/VIMsheet.md",
+    "Tools & Libs/VIM.md",
+    "Python/Design Pattern.md",
+    "Python/OOP.md",
+    "Python/numpy.md",
+    "Python/Memory Usage.md",
+    "Python/Dunder Methods.md",
+    "Python/Exception & Error Handling.md",
+    "Python/Classen.md",
+    "README.md",
+    "FSP/Scratchpad.md",
+    "AI Sessions/Computer Vision/U-Net.md",
+    "Embedded System/Modern Embedded Programming with MiroSamek.md",
+    "Embedded System/Courses.md",
+    "ML/LLM/Courses.md",
+    "ML/LLM/MOOC LLM Agent UC Berkeley",
+    "figures/Generative AI with Diffusion Models.png",
+    "figures/Generative AI with Diffusion Models.pdf",
     "figures/Deploying RAG Pipelines for Production at Scale-16.png",
     "figures/Deploying RAG Pipelines for Production at Scale-15.png",
     "figures/Deploying RAG Pipelines for Production at Scale-14.png",
@@ -210,43 +279,14 @@
     "figures/Deploying RAG Pipelines for Production at Scale-10.png",
     "figures/Deploying RAG Pipelines for Production at Scale-9.png",
     "figures/Deploying RAG Pipelines for Production at Scale-8.png",
-    "figures/Deploying RAG Pipelines for Production at Scale-7.png",
-    "figures/Deploying RAG Pipelines for Production at Scale-6.png",
-    "AI Sessions/Nvidia/Generative AI with Diffusion Models.md",
-    "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md",
-    "AI Sessions/Nvidia/Drawing 2024-09-01 13.52.19.excalidraw.md",
-    "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md",
-    "Excalidraw/Drawing 2024-08-21 15.18.45.excalidraw.md",
-    "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md",
-    "AI Sessions/Paper Reading/BERT.md",
-    "AI Sessions/Nvidia/Fundamentals of Deep Learning.md",
-    "Excalidraw/Drawing 2024-09-02 21.10.27.excalidraw.md",
     "figures/Fundamentals of Accelerated Computing with CUDA Python-4.pdf",
     "figures/Fundamentals of Accelerated Computing with CUDA Python-3.pdf",
-    "Excalidraw/Drawing 2024-08-27 14.42.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-22 18.45.10.excalidraw.md",
-    "AI Sessions/Docker.md",
-    "AI Sessions/Paper Reading/YOLO.md",
-    "AI Sessions/Paper Reading/xLSTM.md",
-    "AI Sessions/Computer Vision/Vision Transformer.md",
-    "AI Sessions/Computer Vision/ResNet model.md",
-    "AI Sessions/NLP/BERTopic.md",
-    "AI Sessions/NLP/Speech2Summary.md",
-    "AI Sessions/NLP/Text Summarization.md",
-    "AI Sessions/NLP/Whisper.md",
-    "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md",
-    "AI Sessions/Paper Reading/Meta Continual Learning.md",
-    "AI Sessions/Paper Reading/Phi Textbooks are all You Need.md",
-    "AI Sessions/Paper Reading/Vision Transformer (ViT).md",
     "figures/Fundamentals of Accelerated Computing with CUDA Python-2.pdf",
     "figures/Fundamentals of Accelerated Computing with CUDA Python.gz",
     "figures/Fundamentals of Accelerated Computing with CUDA Python-1.pdf",
     "figures/Fundamentals of Accelerated Computing with CUDA Python.pdf",
-    "Python/Exception & Error Handling.md",
     "figures/Fundamentals of Accelerated Computing with CUDA Python.ipynb",
     "AI Sessions/Nvidia",
-    "figures/AutoEncoder.pdf",
-    "Embedded System",
     "Generative Modeling.canvas"
   ]
 }

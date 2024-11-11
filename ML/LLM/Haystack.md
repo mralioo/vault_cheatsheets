@@ -19,7 +19,11 @@ Generators are responsible for generating text after you give them a prompt. The
 ### Embedders
 Embedders in Haystack transform texts or Documents into vector representations using pre-trained models. You can then use the embeddings in your pipeline for tasks like question answering, information retrieval, and more.
 
-==YOU can write you own components and add it to the pipeline==
+
+> [!important] 
+> YOU can write you own components and add it to the pipeline. 
+
+
 
 
 ## Pipelines

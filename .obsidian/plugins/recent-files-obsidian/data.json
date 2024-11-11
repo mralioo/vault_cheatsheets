@@ -1,168 +1,144 @@
 {
   "recentFiles": [
     {
-      "basename": "Deploying RAG Pipelines for Production at Scale",
-      "path": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md"
+      "basename": "Haystack",
+      "path": "ML/LLM/Haystack.md"
     },
     {
-      "basename": "Generative AI with Diffusion Models",
-      "path": "AI Sessions/Nvidia/Generative AI with Diffusion Models.md"
+      "basename": "CS 194294196 (LLM Agents)  Lecture 2, Shunyu Yao",
+      "path": "ML/LLM/MOOC LLM Agent UC Berkeley/CS 194294196 (LLM Agents)  Lecture 2, Shunyu Yao.md"
     },
     {
-      "basename": "Fundamentals of Accelerated Computing with CUDA Python",
-      "path": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md"
+      "basename": "Large Language Model Agents",
+      "path": "ML/LLM/MOOC LLM Agent UC Berkeley/Large Language Model Agents.md"
     },
     {
-      "basename": "Contrastive Language-Image Pretraining (CLIP)",
-      "path": "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md"
+      "basename": "SLURM",
+      "path": "Tools & Libs/SLURM.md"
     },
     {
-      "basename": "BERT",
-      "path": "AI Sessions/Paper Reading/BERT.md"
+      "basename": "SSH",
+      "path": "Tools & Libs/SSH.md"
     },
     {
-      "basename": "Fundamentals of Deep Learning",
-      "path": "AI Sessions/Nvidia/Fundamentals of Deep Learning.md"
+      "basename": "Weights & Biases",
+      "path": "MLOps/Monitoring/Weights & Biases.md"
     },
     {
-      "basename": "Docker",
-      "path": "AI Sessions/Docker.md"
+      "basename": "Tensorboard",
+      "path": "MLOps/Monitoring/Tensorboard.md"
     },
     {
-      "basename": "YOLO",
-      "path": "AI Sessions/Paper Reading/YOLO.md"
-    },
-    {
-      "basename": "xLSTM",
-      "path": "AI Sessions/Paper Reading/xLSTM.md"
-    },
-    {
-      "basename": "Vision Transformer",
-      "path": "AI Sessions/Computer Vision/Vision Transformer.md"
-    },
-    {
-      "basename": "ResNet model",
-      "path": "AI Sessions/Computer Vision/ResNet model.md"
-    },
-    {
-      "basename": "BERTopic",
-      "path": "AI Sessions/NLP/BERTopic.md"
-    },
-    {
-      "basename": "Speech2Summary",
-      "path": "AI Sessions/NLP/Speech2Summary.md"
-    },
-    {
-      "basename": "Text Summarization",
-      "path": "AI Sessions/NLP/Text Summarization.md"
-    },
-    {
-      "basename": "Whisper",
-      "path": "AI Sessions/NLP/Whisper.md"
-    },
-    {
-      "basename": "LLaVA Large Language and Vision Assistant",
-      "path": "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md"
-    },
-    {
-      "basename": "Meta Continual Learning",
-      "path": "AI Sessions/Paper Reading/Meta Continual Learning.md"
-    },
-    {
-      "basename": "Phi Textbooks are all You Need",
-      "path": "AI Sessions/Paper Reading/Phi Textbooks are all You Need.md"
-    },
-    {
-      "basename": "Vision Transformer (ViT)",
-      "path": "AI Sessions/Paper Reading/Vision Transformer (ViT).md"
-    },
-    {
-      "basename": "Exception & Error Handling",
-      "path": "Python/Exception & Error Handling.md"
-    },
-    {
-      "basename": "LLM Models",
-      "path": "ML/LLM/LLM Models.md"
-    },
-    {
-      "basename": "Time Serie",
-      "path": "ML-Applications/Time Serie.md"
-    },
-    {
-      "basename": "Drawing 2024-08-28 14.53.44.excalidraw",
-      "path": "figures/Drawing 2024-08-28 14.53.44.excalidraw.md"
-    },
-    {
-      "basename": "Remote Sensing",
-      "path": "ML-Applications/Remote Sensing.md"
-    },
-    {
-      "basename": "Generative Modeling",
-      "path": "ML/Deep learning architectures/Generative Modeling.md"
-    },
-    {
-      "basename": "Grounding DINO",
-      "path": "AI Sessions/Paper Reading/Grounding DINO.md"
-    },
-    {
-      "basename": "AutoEncoder",
-      "path": "ML/Deep learning architectures/AutoEncoder.md"
-    },
-    {
-      "basename": "Convolution Models",
-      "path": "ML/Deep learning architectures/Convolution Models.md"
-    },
-    {
-      "basename": "Introduction to  Deep Learning",
-      "path": "ML/Deep learning architectures/Introduction to  Deep Learning.md"
-    },
-    {
-      "basename": "Courses",
-      "path": "Embedded System/Courses.md"
+      "basename": "MLflow",
+      "path": "MLOps/Monitoring/MLflow.md"
     },
     {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
     {
+      "basename": "Formatting",
+      "path": "Writing/Latex/Formatting.md"
+    },
+    {
+      "basename": "1_Blog",
+      "path": "Writing/Blog posts Drafts/1_Blog.md"
+    },
+    {
+      "basename": "Yellowbrick",
+      "path": "Tools & Libs/Yellowbrick.md"
+    },
+    {
+      "basename": "VIMsheet",
+      "path": "Tools & Libs/VIMsheet.md"
+    },
+    {
+      "basename": "VIM",
+      "path": "Tools & Libs/VIM.md"
+    },
+    {
+      "basename": "Design Pattern",
+      "path": "Python/Design Pattern.md"
+    },
+    {
+      "basename": "OOP",
+      "path": "Python/OOP.md"
+    },
+    {
+      "basename": "numpy",
+      "path": "Python/numpy.md"
+    },
+    {
+      "basename": "Memory Usage",
+      "path": "Python/Memory Usage.md"
+    },
+    {
+      "basename": "Dunder Methods",
+      "path": "Python/Dunder Methods.md"
+    },
+    {
+      "basename": "Exception & Error Handling",
+      "path": "Python/Exception & Error Handling.md"
+    },
+    {
+      "basename": "Classen",
+      "path": "Python/Classen.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Transformers Models",
-      "path": "ML/Deep learning architectures/Transformers Models.md"
+      "basename": "U-Net",
+      "path": "AI Sessions/Computer Vision/U-Net.md"
     },
     {
-      "basename": "Recurrent Neural Network",
-      "path": "ML/Deep learning architectures/Recurrent Neural Network.md"
+      "basename": "Modern Embedded Programming with MiroSamek",
+      "path": "Embedded System/Modern Embedded Programming with MiroSamek.md"
     },
     {
-      "basename": "Computer Vision",
-      "path": "ML-Applications/Computer Vision.md"
+      "basename": "Courses",
+      "path": "Embedded System/Courses.md"
     },
     {
-      "basename": "Sources",
-      "path": "CUDA/Sources.md"
+      "basename": "Courses",
+      "path": "ML/LLM/Courses.md"
     },
     {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
+      "basename": "Time-Series",
+      "path": "ML/Time-Series.md"
     },
     {
-      "basename": "Features Selection",
-      "path": "ML/Features Selection.md"
+      "basename": "The Gradient Descent",
+      "path": "ML/The Gradient Descent.md"
     },
     {
-      "basename": "Graph Neural Networks",
-      "path": "ML/Graph Neural Networks.md"
+      "basename": "Statistical Techniques",
+      "path": "ML/Statistical Techniques.md"
+    },
+    {
+      "basename": "Regularization Techniques",
+      "path": "ML/Regularization Techniques.md"
     },
     {
       "basename": "Metrics",
       "path": "ML/Metrics.md"
     },
     {
-      "basename": "Neural-symbolic AI",
-      "path": "ML/Symbolic AI/Neural-symbolic AI.md"
+      "basename": "Graph Neural Networks",
+      "path": "ML/Graph Neural Networks.md"
+    },
+    {
+      "basename": "Features Selection",
+      "path": "ML/Features Selection.md"
+    },
+    {
+      "basename": "Cross-Validation",
+      "path": "ML/Cross-Validation.md"
+    },
+    {
+      "basename": "Classification",
+      "path": "ML/Classification.md"
     },
     {
       "basename": "Best practice",
@@ -173,12 +149,56 @@
       "path": "ML/Algorithms.md"
     },
     {
-      "basename": "Classification",
-      "path": "ML/Classification.md"
+      "basename": "Activations",
+      "path": "ML/Activations.md"
     },
     {
-      "basename": "LangChain",
-      "path": "ML/LLM/LangChain.md"
+      "basename": "Computer Vision",
+      "path": "ML-Applications/Computer Vision.md"
+    },
+    {
+      "basename": "Remote Sensing",
+      "path": "ML-Applications/Remote Sensing.md"
+    },
+    {
+      "basename": "Time Serie",
+      "path": "ML-Applications/Time Serie.md"
+    },
+    {
+      "basename": "Generative AI with Diffusion Models",
+      "path": "AI Sessions/Nvidia/Generative AI with Diffusion Models.md"
+    },
+    {
+      "basename": "Fundamentals of Deep Learning",
+      "path": "AI Sessions/Nvidia/Fundamentals of Deep Learning.md"
+    },
+    {
+      "basename": "Fundamentals of Accelerated Computing with CUDA Python",
+      "path": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md"
+    },
+    {
+      "basename": "Image Similarity for Dataset Curation",
+      "path": "AI Sessions/Computer Vision/Image Similarity for Dataset Curation.md"
+    },
+    {
+      "basename": "Introduction to  Deep Learning",
+      "path": "ML/Deep learning architectures/Introduction to  Deep Learning.md"
+    },
+    {
+      "basename": "Deploying RAG Pipelines for Production at Scale",
+      "path": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md"
+    },
+    {
+      "basename": "Contrastive Language-Image Pretraining (CLIP)",
+      "path": "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md"
+    },
+    {
+      "basename": "BERT",
+      "path": "AI Sessions/Paper Reading/BERT.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "AI Sessions/Docker.md"
     }
   ],
   "omittedPaths": []
