@@ -1,8 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "CV for Bike Trip Routing",
+      "path": "AI Sessions/Computer Vision/CV for Bike Trip Routing.md"
+    },
+    {
+      "basename": "Vector Database",
+      "path": "ML/LLM/Vector Database.md"
+    },
+    {
       "basename": "Haystack",
       "path": "ML/LLM/Haystack.md"
+    },
+    {
+      "basename": "LangChain",
+      "path": "ML/LLM/LangChain.md"
+    },
+    {
+      "basename": "LLM Models",
+      "path": "ML/LLM/LLM Models.md"
+    },
+    {
+      "basename": "Unstructured Data",
+      "path": "ML/LLM/Unstructured Data.md"
+    },
+    {
+      "basename": "Vectara",
+      "path": "ML/LLM/Vectara.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "ML/LLM/RAG.md"
+    },
+    {
+      "basename": "Evaluate LLM",
+      "path": "ML/LLM/Evaluate LLM.md"
+    },
+    {
+      "basename": "Chatbot Arena",
+      "path": "ML/LLM/Chatbot Arena.md"
+    },
+    {
+      "basename": "Courses",
+      "path": "ML/LLM/Courses.md"
+    },
+    {
+      "basename": "Courses",
+      "path": "Embedded System/Courses.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "AI Sessions/Docker.md"
+    },
+    {
+      "basename": "YOLO",
+      "path": "AI Sessions/Paper Reading/YOLO.md"
+    },
+    {
+      "basename": "xLSTM",
+      "path": "AI Sessions/Paper Reading/xLSTM.md"
+    },
+    {
+      "basename": "Vision Transformer (ViT)",
+      "path": "AI Sessions/Paper Reading/Vision Transformer (ViT).md"
+    },
+    {
+      "basename": "Phi Textbooks are all You Need",
+      "path": "AI Sessions/Paper Reading/Phi Textbooks are all You Need.md"
+    },
+    {
+      "basename": "Meta Continual Learning",
+      "path": "AI Sessions/Paper Reading/Meta Continual Learning.md"
+    },
+    {
+      "basename": "LLaVA Large Language and Vision Assistant",
+      "path": "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md"
+    },
+    {
+      "basename": "Grounding DINO",
+      "path": "AI Sessions/Paper Reading/Grounding DINO.md"
+    },
+    {
+      "basename": "Contrastive Language-Image Pretraining (CLIP)",
+      "path": "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md"
+    },
+    {
+      "basename": "BERT",
+      "path": "AI Sessions/Paper Reading/BERT.md"
+    },
+    {
+      "basename": "Generative AI with Diffusion Models",
+      "path": "AI Sessions/Nvidia/Generative AI with Diffusion Models.md"
+    },
+    {
+      "basename": "Whisper",
+      "path": "AI Sessions/NLP/Whisper.md"
+    },
+    {
+      "basename": "Text Summarization",
+      "path": "AI Sessions/NLP/Text Summarization.md"
+    },
+    {
+      "basename": "Speech2Summary",
+      "path": "AI Sessions/NLP/Speech2Summary.md"
+    },
+    {
+      "basename": "BERTopic",
+      "path": "AI Sessions/NLP/BERTopic.md"
     },
     {
       "basename": "CS 194294196 (LLM Agents)  Lecture 2, Shunyu Yao",
@@ -95,110 +199,6 @@
     {
       "basename": "Modern Embedded Programming with MiroSamek",
       "path": "Embedded System/Modern Embedded Programming with MiroSamek.md"
-    },
-    {
-      "basename": "Courses",
-      "path": "Embedded System/Courses.md"
-    },
-    {
-      "basename": "Courses",
-      "path": "ML/LLM/Courses.md"
-    },
-    {
-      "basename": "Time-Series",
-      "path": "ML/Time-Series.md"
-    },
-    {
-      "basename": "The Gradient Descent",
-      "path": "ML/The Gradient Descent.md"
-    },
-    {
-      "basename": "Statistical Techniques",
-      "path": "ML/Statistical Techniques.md"
-    },
-    {
-      "basename": "Regularization Techniques",
-      "path": "ML/Regularization Techniques.md"
-    },
-    {
-      "basename": "Metrics",
-      "path": "ML/Metrics.md"
-    },
-    {
-      "basename": "Graph Neural Networks",
-      "path": "ML/Graph Neural Networks.md"
-    },
-    {
-      "basename": "Features Selection",
-      "path": "ML/Features Selection.md"
-    },
-    {
-      "basename": "Cross-Validation",
-      "path": "ML/Cross-Validation.md"
-    },
-    {
-      "basename": "Classification",
-      "path": "ML/Classification.md"
-    },
-    {
-      "basename": "Best practice",
-      "path": "ML/Best practice.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "ML/Algorithms.md"
-    },
-    {
-      "basename": "Activations",
-      "path": "ML/Activations.md"
-    },
-    {
-      "basename": "Computer Vision",
-      "path": "ML-Applications/Computer Vision.md"
-    },
-    {
-      "basename": "Remote Sensing",
-      "path": "ML-Applications/Remote Sensing.md"
-    },
-    {
-      "basename": "Time Serie",
-      "path": "ML-Applications/Time Serie.md"
-    },
-    {
-      "basename": "Generative AI with Diffusion Models",
-      "path": "AI Sessions/Nvidia/Generative AI with Diffusion Models.md"
-    },
-    {
-      "basename": "Fundamentals of Deep Learning",
-      "path": "AI Sessions/Nvidia/Fundamentals of Deep Learning.md"
-    },
-    {
-      "basename": "Fundamentals of Accelerated Computing with CUDA Python",
-      "path": "AI Sessions/Nvidia/Fundamentals of Accelerated Computing with CUDA Python.md"
-    },
-    {
-      "basename": "Image Similarity for Dataset Curation",
-      "path": "AI Sessions/Computer Vision/Image Similarity for Dataset Curation.md"
-    },
-    {
-      "basename": "Introduction to  Deep Learning",
-      "path": "ML/Deep learning architectures/Introduction to  Deep Learning.md"
-    },
-    {
-      "basename": "Deploying RAG Pipelines for Production at Scale",
-      "path": "AI Sessions/Nvidia/Deploying RAG Pipelines for Production at Scale.md"
-    },
-    {
-      "basename": "Contrastive Language-Image Pretraining (CLIP)",
-      "path": "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md"
-    },
-    {
-      "basename": "BERT",
-      "path": "AI Sessions/Paper Reading/BERT.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "AI Sessions/Docker.md"
     }
   ],
   "omittedPaths": []

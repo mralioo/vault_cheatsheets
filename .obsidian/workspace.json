@@ -25,16 +25,30 @@
             "id": "086a9ee38cde4ca4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "AI Sessions/Computer Vision/CV for Bike Trip Routing.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "CV for Bike Trip Routing"
+            }
+          },
+          {
+            "id": "5d1cd8a612ecab70",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/LLM/Haystack.md"
+                "file": "AI Sessions/Computer Vision/CV for Bike Trip Routing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Haystack"
+              "title": "Outline of CV for Bike Trip Routing"
             }
           },
           {
@@ -241,32 +255,32 @@
   },
   "active": "b53d4f934775945a",
   "lastOpenFiles": [
-    "ML/LLM/MOOC LLM Agent UC Berkeley/CS 194294196 (LLM Agents)  Lecture 2, Shunyu Yao.md",
-    "ML/LLM/MOOC LLM Agent UC Berkeley/Large Language Model Agents.md",
-    "Tools & Libs/SLURM.md",
-    "Tools & Libs/SSH.md",
-    "MLOps/Monitoring/Weights & Biases.md",
-    "MLOps/Monitoring/Tensorboard.md",
-    "MLOps/Monitoring/MLflow.md",
-    "Untitled.md",
-    "Writing/Latex/Formatting.md",
-    "Writing/Blog posts Drafts/1_Blog.md",
-    "Tools & Libs/Yellowbrick.md",
-    "Tools & Libs/VIMsheet.md",
-    "Tools & Libs/VIM.md",
-    "Python/Design Pattern.md",
-    "Python/OOP.md",
-    "Python/numpy.md",
-    "Python/Memory Usage.md",
-    "Python/Dunder Methods.md",
-    "Python/Exception & Error Handling.md",
-    "Python/Classen.md",
-    "README.md",
-    "FSP/Scratchpad.md",
-    "AI Sessions/Computer Vision/U-Net.md",
-    "Embedded System/Modern Embedded Programming with MiroSamek.md",
-    "Embedded System/Courses.md",
+    "ML/LLM/Vector Database.md",
+    "AI Sessions/Computer Vision/CV for Bike Trip Routing.md",
+    "ML/LLM/Haystack.md",
+    "ML/LLM/LangChain.md",
+    "ML/LLM/LLM Models.md",
+    "ML/LLM/Unstructured Data.md",
+    "ML/LLM/Vectara.md",
+    "ML/LLM/RAG.md",
+    "ML/LLM/Evaluate LLM.md",
+    "ML/LLM/Chatbot Arena.md",
     "ML/LLM/Courses.md",
+    "Embedded System/Courses.md",
+    "AI Sessions/Docker.md",
+    "AI Sessions/Paper Reading/YOLO.md",
+    "AI Sessions/Paper Reading/xLSTM.md",
+    "AI Sessions/Paper Reading/Vision Transformer (ViT).md",
+    "AI Sessions/Paper Reading/Phi Textbooks are all You Need.md",
+    "AI Sessions/Paper Reading/Meta Continual Learning.md",
+    "AI Sessions/Paper Reading/LLaVA Large Language and Vision Assistant.md",
+    "AI Sessions/Paper Reading/Grounding DINO.md",
+    "AI Sessions/Paper Reading/Contrastive Language-Image Pretraining (CLIP).md",
+    "AI Sessions/Paper Reading/BERT.md",
+    "AI Sessions/Nvidia/Generative AI with Diffusion Models.md",
+    "AI Sessions/NLP/Whisper.md",
+    "AI Sessions/NLP/Text Summarization.md",
+    "AI Sessions/NLP/Speech2Summary.md",
     "ML/LLM/MOOC LLM Agent UC Berkeley",
     "figures/Generative AI with Diffusion Models.png",
     "figures/Generative AI with Diffusion Models.pdf",

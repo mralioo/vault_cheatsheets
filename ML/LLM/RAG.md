@@ -31,8 +31,4 @@ RAG was intended to reduce hallucinations. The idea is to give the LLM the requi
 6. Start exploring and evaluating different advanced RAG techniques Once you have an evaluation pipeline set up, you can identify where your system needs to improve and then explore different techniques.
 
 
-
-
-
-
 ## Agentic search 
