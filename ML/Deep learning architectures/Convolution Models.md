@@ -9,17 +9,17 @@ Sources :
 [MIT 6.S191: Convolutional Neural Networks - YouTube](https://www.youtube.com/watch?v=2xqkSUhmmXU&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=5)
 
 
-![](../../figures/Convolution%20layer-1.pdf)
+![](../../../../figures/Convolution%20layer-1.pdf)
 ## Convolution Layer 
 
-![](../../figures/Conv1D.png)
-![](../../figures/Conv.png)
+![](../../../../figures/Conv1D.png)
+![](../../../../figures/Conv.png)
 ## Pooling Layer
 
-![](../../figures/MaxPooling.png)
+![](../../../../figures/MaxPooling.png)
 
 ## Padding Layer
-![](../../figures/zero-padding.png)
+![](../../../../figures/zero-padding.png)
 
 
 # Initializing neural nets 

@@ -10,7 +10,7 @@ resources:
 
 [CS 230 - Recurrent Neural Networks Cheatsheet (stanford.edu)](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
-![](../../figures/Recurrent%20Neural%20Network.pdf)
+![](../../../../figures/Recurrent%20Neural%20Network.pdf)
 # LSTM
 ## Stateful LSTM 
 

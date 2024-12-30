@@ -27,7 +27,6 @@ Let's have a look at the critical components of NIM:
 
 - [TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM/) is a toolkit to assemble optimized solutions to run Large Language Model (LLM) inference. It offers a Python API to define models and compile efficient TensorRT engines for NVIDIA GPUs. It also contains Python and C++ components to build runtimes to execute those engines as well as backends for the Triton Inference Server to easily create web-based services for LLMs. TensorRT-LLM supports multi-GPU and multi-node configurations (through MPI).
 
-
 - [NIM's API endpoints](https://developer.nvidia.com/docs/nemo-microservices/inference/openai-api.html) allows users to invoke the NIM services within their application code. NIM exposes the hosted LLMs via NemoLLM API and OpenAI-compatible API for `/completions` and `/chat/completions/` endpoints. NemoLLM API provides additionally a `/customizations/completions` endpoint for a variety of LLM customization techniques such as P-tuning and Lora. By default, NIM exposes OpenAI API at port 8005 and NemoLLM api at port 8006.
 ##  NVIDIA GPU Cloud (NGC)
 
