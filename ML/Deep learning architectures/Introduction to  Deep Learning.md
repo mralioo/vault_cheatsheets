@@ -15,4 +15,4 @@
 
 
 
-![](../../figures/Introduction%20to%20%20Deep%20Learning.pdf)
+![](../../../../figures/Introduction%20to%20%20Deep%20Learning.pdf)

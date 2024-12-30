@@ -31,3 +31,6 @@ Embedders in Haystack transform texts or Documents into vector representations u
 
 
 ![](../../figures/Haystack.png)
+
+# Branching Pipelines
+![](../../figures/Haystack-1.png)

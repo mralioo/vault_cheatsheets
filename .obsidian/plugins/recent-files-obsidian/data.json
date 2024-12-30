@@ -201,5 +201,7 @@
       "path": "AI Sessions/Docker.md"
     }
   ],
-  "omittedPaths": []
+  "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false
 }

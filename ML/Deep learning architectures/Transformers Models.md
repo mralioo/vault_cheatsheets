@@ -19,7 +19,7 @@ Visualization:
 
 
 
-![](../../figures/Transformers.jpg)
+![](../../../../figures/Transformers.jpg)
 
 
 
@@ -60,23 +60,23 @@ The main components used by the Transformer attention are the following:
 
 The scaled dot-product attention first computes a _dot product_ for each query, $q$, with all of the keys, $k$. It subsequently divides each result by $\sqrt{d_k}$ and proceeds to apply a softmax function. In doing so, it obtains the weights that are used to _scale_ the values, $v$.
 
-![](../../figures/Transformers.webp)
+![](../../../../figures/Transformers.webp)
 
 The matrices—Q, K, and V—are supplied as inputs to the attention function:
 
-![](../../figures/Transformers.png)
+![](../../../../figures/Transformers.png)
 
 ### Multi-Head Attention
 
 Multi-head attention mechanism linearly projects the **queries, keys, and values** $h$ times, using a different *learned projection* each time. The single attention mechanism is then applied to each of these h projections in parallel to produce h outputs, which, in turn, are concatenated and projected again to produce a final result.
 
-![](../../figures/Transformers-1.png)
+![](../../../../figures/Transformers-1.png)
 
 🔥The idea behind multi-head attention is to allow **the attention function to extract information from different representation subspaces**, which would otherwise be impossible with a single attention head.
 
 ## Architecture
 
-![AltText|400x600](../../figures/attention_research_1-727x1024.webp)  
+![AltText|400x600](../../../../figures/attention_research_1-727x1024.webp)  
 
 
 The Transformer architecture follows an **encoder-decoder** structure. but does not rely on **recurrence and convolutions** in order to generate an output.
@@ -84,7 +84,7 @@ The Transformer architecture follows an **encoder-decoder** structure. but does 
 #### ENCODER: 
 maps an input sequence to a sequence of continuous representations.
 
-![](../../figures/Transformers-2.png)
+![](../../../../figures/Transformers-2.png)
 
 The encoder consists of a **stack** of N = 6 identical layers, where each layer is composed of two sublayers:
 
@@ -101,7 +101,7 @@ The encoder consists of a **stack** of N = 6 identical layers, where each laye
 #### DECODER:
 receives the output of the encoder together with the decoder output at the previous time step to generate an output sequence.
 
-![](../../figures/Transformers-3.png)
+![](../../../../figures/Transformers-3.png)
 The decoder also consists of a stack of N = 6 identical layers that are each composed of three sublayers:
 1.  The first sublayer receives the **previous output of the decoder stack**, augments it with positional information, and implements **multi-head self-attention** over it. While the encoder is designed to attend to all words in the input sequence _regardless_ of their position in the sequence, the decoder is modified to attend _only_ to the preceding words. Hence, the prediction for a word at position i can only depend on the known outputs for the words that come before it in the sequence. In the multi-head attention mechanism (which implements multiple, single attention functions in parallel), this is achieved by introducing a **mask over the values produced by the scaled multiplication of matrices Q and K.** 
 
@@ -117,4 +117,4 @@ Positional encodings are also added to the input embeddings of the decoder in th
 
 # Self-Attention vs Cross-Attention
 
-![](../../figures/Transformers-1.jpg)
+![](../../../../figures/Transformers-1.jpg)
